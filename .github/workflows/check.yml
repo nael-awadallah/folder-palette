@@ -1,0 +1,29 @@
+name: Check and package development artifact
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.14.0'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm run check
+      - run: npm run package
+      - name: Prepare pinned VS Code test host
+        shell: pwsh
+        run: |
+          node --input-type=module -e "import {downloadAndUnzipVSCode} from '@vscode/test-electron'; import {appendFileSync} from 'node:fs'; appendFileSync(process.env.GITHUB_ENV, 'FOLDER_PALETTE_CODE_EXECUTABLE=' + await downloadAndUnzipVSCode('1.142.0') + '\n');"
+      - name: Installed artifact smoke (no provider installation)
+        shell: pwsh
+        run: npm run test:integration
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: folder-palette-local-qualification
+          path: artifacts/*
+          if-no-files-found: error

@@ -1,0 +1,2728 @@
+{
+  "schemaVersion": 1,
+  "providerId": "vscode-icons",
+  "providerVersion": "13.0.0",
+  "entries": [
+    {
+      "id": "alpine",
+      "label": "Alpine",
+      "keywords": [
+        "alpine"
+      ],
+      "native": {
+        "icon": "alpine",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "android",
+      "label": "Android",
+      "keywords": [
+        "android"
+      ],
+      "native": {
+        "icon": "android",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "angular",
+      "label": "Angular",
+      "keywords": [
+        ".angular"
+      ],
+      "native": {
+        "icon": "angular",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "apache",
+      "label": "Apache",
+      "keywords": [
+        "apache",
+        "apache2",
+        "httpd"
+      ],
+      "native": {
+        "icon": "apache",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "api",
+      "label": "Api",
+      "keywords": [
+        ".api",
+        ".apis",
+        "api",
+        "apis"
+      ],
+      "native": {
+        "icon": "api",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "app",
+      "label": "App",
+      "keywords": [
+        ".app",
+        "app",
+        "application",
+        "applications",
+        "apps"
+      ],
+      "native": {
+        "icon": "app",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "arangodb",
+      "label": "Arangodb",
+      "keywords": [
+        "arango",
+        "arangodb"
+      ],
+      "native": {
+        "icon": "arangodb",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "arch",
+      "label": "Arch",
+      "keywords": [
+        "arch"
+      ],
+      "native": {
+        "icon": "arch",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "asset",
+      "label": "Asset",
+      "keywords": [
+        ".assets",
+        "assets"
+      ],
+      "native": {
+        "icon": "asset",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "astro",
+      "label": "Astro",
+      "keywords": [
+        ".astro"
+      ],
+      "native": {
+        "icon": "astro",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "audio",
+      "label": "Audio",
+      "keywords": [
+        ".audio",
+        ".audios",
+        ".sound",
+        ".sounds",
+        "audio",
+        "audios",
+        "sound",
+        "sounds"
+      ],
+      "native": {
+        "icon": "audio",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "aurelia",
+      "label": "Aurelia",
+      "keywords": [
+        "aurelia_project"
+      ],
+      "native": {
+        "icon": "aurelia",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "auth",
+      "label": "Auth",
+      "keywords": [
+        "auth",
+        "authentication",
+        "authorisation",
+        "authorization"
+      ],
+      "native": {
+        "icon": "auth",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "aws",
+      "label": "Aws",
+      "keywords": [
+        ".aws",
+        "aws"
+      ],
+      "native": {
+        "icon": "aws",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "azure",
+      "label": "Azure",
+      "keywords": [
+        ".azure",
+        "azure"
+      ],
+      "native": {
+        "icon": "azure",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "azurepipelines",
+      "label": "Azurepipelines",
+      "keywords": [
+        ".azure-pipelines",
+        ".azuredevops",
+        ".vsts",
+        "azure-pipelines"
+      ],
+      "native": {
+        "icon": "azurepipelines",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "binary",
+      "label": "Binary",
+      "keywords": [
+        ".bin",
+        "bin"
+      ],
+      "native": {
+        "icon": "binary",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "bloc",
+      "label": "Bloc",
+      "keywords": [
+        "bloc",
+        "blocs"
+      ],
+      "native": {
+        "icon": "bloc",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "blueprint",
+      "label": "Blueprint",
+      "keywords": [
+        ".blueprint",
+        ".blueprints",
+        "blueprint",
+        "blueprints"
+      ],
+      "native": {
+        "icon": "blueprint",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "bot",
+      "label": "Bot",
+      "keywords": [
+        ".bot",
+        "bot"
+      ],
+      "native": {
+        "icon": "bot",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "bower",
+      "label": "Bower",
+      "keywords": [
+        "bower_components"
+      ],
+      "native": {
+        "icon": "bower",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "buildkite",
+      "label": "Buildkite",
+      "keywords": [
+        ".buildkite"
+      ],
+      "native": {
+        "icon": "buildkite",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cake",
+      "label": "Cake",
+      "keywords": [
+        ".cake",
+        "cake"
+      ],
+      "native": {
+        "icon": "cake",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cargo",
+      "label": "Cargo",
+      "keywords": [
+        ".cargo",
+        "cargo",
+        "crates"
+      ],
+      "native": {
+        "icon": "cargo",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "certificate",
+      "label": "Certificate",
+      "keywords": [
+        ".certificates",
+        "certificates",
+        "certs",
+        "certs."
+      ],
+      "native": {
+        "icon": "certificate",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "changesets",
+      "label": "Changesets",
+      "keywords": [
+        ".changeset"
+      ],
+      "native": {
+        "icon": "changesets",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "chef",
+      "label": "Chef",
+      "keywords": [
+        ".chef",
+        "chef"
+      ],
+      "native": {
+        "icon": "chef",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "circleci",
+      "label": "Circleci",
+      "keywords": [
+        ".circleci"
+      ],
+      "native": {
+        "icon": "circleci",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "claude",
+      "label": "Claude",
+      "keywords": [
+        ".claude"
+      ],
+      "native": {
+        "icon": "claude",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cli",
+      "label": "Cli",
+      "keywords": [
+        "cli",
+        "cmd",
+        "command",
+        "commandline",
+        "commands",
+        "console"
+      ],
+      "native": {
+        "icon": "cli",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "client",
+      "label": "Client",
+      "keywords": [
+        "client",
+        "clients"
+      ],
+      "native": {
+        "icon": "client",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cloudflare",
+      "label": "Cloudflare",
+      "keywords": [
+        ".cloudflare",
+        "cloudflare"
+      ],
+      "native": {
+        "icon": "cloudflare",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cmake",
+      "label": "Cmake",
+      "keywords": [
+        ".cmake",
+        "cmake"
+      ],
+      "native": {
+        "icon": "cmake",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "common",
+      "label": "Common",
+      "keywords": [
+        "common"
+      ],
+      "native": {
+        "icon": "common",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "component",
+      "label": "Component",
+      "keywords": [
+        ".components",
+        "component",
+        "components",
+        "gui",
+        "src-ui",
+        "ui",
+        "widgets"
+      ],
+      "native": {
+        "icon": "component",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "composer",
+      "label": "Composer",
+      "keywords": [
+        ".composer",
+        "composer"
+      ],
+      "native": {
+        "icon": "composer",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "config",
+      "label": "Config",
+      "keywords": [
+        ".cfg",
+        ".cfgs",
+        ".conf",
+        ".config",
+        ".configs",
+        ".configuration",
+        ".configurations",
+        ".ini",
+        ".initializers",
+        ".setting",
+        ".settings",
+        "cfg",
+        "cfgs",
+        "conf",
+        "config",
+        "configs",
+        "configuration",
+        "configurations",
+        "ini",
+        "initializers",
+        "setting",
+        "settings"
+      ],
+      "native": {
+        "icon": "config",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "controller",
+      "label": "Controller",
+      "keywords": [
+        ".controllers",
+        ".handler",
+        ".handlers",
+        "__controller__",
+        "__controllers__",
+        "__handler__",
+        "__handlers__",
+        "controller",
+        "controllers",
+        "handler",
+        "handlers"
+      ],
+      "native": {
+        "icon": "controller",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "coverage",
+      "label": "Coverage",
+      "keywords": [
+        "coverage"
+      ],
+      "native": {
+        "icon": "coverage",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "css",
+      "label": "Css",
+      "keywords": [
+        "_css",
+        "css"
+      ],
+      "native": {
+        "icon": "css",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "css2",
+      "label": "Css2",
+      "keywords": [
+        "_css",
+        "css"
+      ],
+      "native": {
+        "icon": "css2",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cubit",
+      "label": "Cubit",
+      "keywords": [
+        "cubit",
+        "cubits"
+      ],
+      "native": {
+        "icon": "cubit",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "cursor",
+      "label": "Cursor",
+      "keywords": [
+        ".cursor"
+      ],
+      "native": {
+        "icon": "cursor",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "cypress",
+      "label": "Cypress",
+      "keywords": [
+        "cypress"
+      ],
+      "native": {
+        "icon": "cypress",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "dapr",
+      "label": "Dapr",
+      "keywords": [
+        ".dapr",
+        "dapr"
+      ],
+      "native": {
+        "icon": "dapr",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "dart",
+      "label": "Dart",
+      "keywords": [
+        ".dart_tool",
+        "dart"
+      ],
+      "native": {
+        "icon": "dart",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "databricks",
+      "label": "Databricks",
+      "keywords": [
+        ".databricks"
+      ],
+      "native": {
+        "icon": "databricks",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "datadog",
+      "label": "Datadog",
+      "keywords": [
+        ".datadog",
+        "datadog"
+      ],
+      "native": {
+        "icon": "datadog",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "db",
+      "label": "Db",
+      "keywords": [
+        "data",
+        "database",
+        "db",
+        "repo",
+        "repositories",
+        "repository",
+        "sql",
+        "storage",
+        "storages",
+        "store",
+        "stores"
+      ],
+      "native": {
+        "icon": "db",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "debian",
+      "label": "Debian",
+      "keywords": [
+        "deb",
+        "debian"
+      ],
+      "native": {
+        "icon": "debian",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "dependabot",
+      "label": "Dependabot",
+      "keywords": [
+        ".dependabot"
+      ],
+      "native": {
+        "icon": "dependabot",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "devcontainer",
+      "label": "Devcontainer",
+      "keywords": [
+        ".devcontainer"
+      ],
+      "native": {
+        "icon": "devcontainer",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "devenv",
+      "label": "Devenv",
+      "keywords": [
+        ".devenv"
+      ],
+      "native": {
+        "icon": "devenv",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "dist",
+      "label": "Dist",
+      "keywords": [
+        ".build",
+        ".dist",
+        "build",
+        "builds",
+        "dist",
+        "dists",
+        "export",
+        "exports",
+        "out",
+        "output",
+        "outputs",
+        "outs",
+        "release",
+        "releases",
+        "target",
+        "targets"
+      ],
+      "native": {
+        "icon": "dist",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "docker",
+      "label": "Docker",
+      "keywords": [
+        ".docker",
+        "docker"
+      ],
+      "native": {
+        "icon": "docker",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "docs",
+      "label": "Docs",
+      "keywords": [
+        "doc",
+        "docs",
+        "document",
+        "documents"
+      ],
+      "native": {
+        "icon": "docs",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "e2e",
+      "label": "E2e",
+      "keywords": [
+        "e2e"
+      ],
+      "native": {
+        "icon": "e2e",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "elasticbeanstalk",
+      "label": "Elasticbeanstalk",
+      "keywords": [
+        ".ebextensions",
+        ".elasticbeanstalk"
+      ],
+      "native": {
+        "icon": "elasticbeanstalk",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "electron",
+      "label": "Electron",
+      "keywords": [
+        "electron"
+      ],
+      "native": {
+        "icon": "electron",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "environments",
+      "label": "Environments",
+      "keywords": [
+        "environments"
+      ],
+      "native": {
+        "icon": "environments",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "expo",
+      "label": "Expo",
+      "keywords": [
+        ".expo",
+        ".expo-shared"
+      ],
+      "native": {
+        "icon": "expo",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "favicon",
+      "label": "Favicon",
+      "keywords": [
+        "favicon",
+        "favicons"
+      ],
+      "native": {
+        "icon": "favicon",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "fedora",
+      "label": "Fedora",
+      "keywords": [
+        "fedora"
+      ],
+      "native": {
+        "icon": "fedora",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "flow",
+      "label": "Flow",
+      "keywords": [
+        "flow",
+        "flow-typed"
+      ],
+      "native": {
+        "icon": "flow",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "flutter",
+      "label": "Flutter",
+      "keywords": [
+        "flutter"
+      ],
+      "native": {
+        "icon": "flutter",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "fonts",
+      "label": "Fonts",
+      "keywords": [
+        "fnt",
+        "font",
+        "fonts",
+        "webfonts"
+      ],
+      "native": {
+        "icon": "fonts",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "frontcommerce",
+      "label": "Frontcommerce",
+      "keywords": [
+        ".front-commerce"
+      ],
+      "native": {
+        "icon": "frontcommerce",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "gcp",
+      "label": "Gcp",
+      "keywords": [
+        ".gcp",
+        "gcp"
+      ],
+      "native": {
+        "icon": "gcp",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "gemini",
+      "label": "Gemini",
+      "keywords": [
+        ".gemini"
+      ],
+      "native": {
+        "icon": "gemini",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "gentoo",
+      "label": "Gentoo",
+      "keywords": [
+        "gentoo"
+      ],
+      "native": {
+        "icon": "gentoo",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "git",
+      "label": "Git",
+      "keywords": [
+        ".git",
+        ".submodules",
+        "submodules"
+      ],
+      "native": {
+        "icon": "git",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "github",
+      "label": "Github",
+      "keywords": [
+        ".github"
+      ],
+      "native": {
+        "icon": "github",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "gitlab",
+      "label": "Gitlab",
+      "keywords": [
+        ".gitlab"
+      ],
+      "native": {
+        "icon": "gitlab",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "godot",
+      "label": "Godot",
+      "keywords": [
+        ".godot",
+        "godot"
+      ],
+      "native": {
+        "icon": "godot",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "gradle",
+      "label": "Gradle",
+      "keywords": [
+        ".gradle",
+        "gradle"
+      ],
+      "native": {
+        "icon": "gradle",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "graphql",
+      "label": "Graphql",
+      "keywords": [
+        "graphql"
+      ],
+      "native": {
+        "icon": "graphql",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "grok",
+      "label": "Grok",
+      "keywords": [
+        ".grok"
+      ],
+      "native": {
+        "icon": "grok",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "grunt",
+      "label": "Grunt",
+      "keywords": [
+        "grunt"
+      ],
+      "native": {
+        "icon": "grunt",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "gulp",
+      "label": "Gulp",
+      "keywords": [
+        "gulp",
+        "gulpfile.babel.coffee",
+        "gulpfile.babel.js",
+        "gulpfile.babel.ts",
+        "gulpfile.coffee",
+        "gulpfile.js",
+        "gulpfile.ts"
+      ],
+      "native": {
+        "icon": "gulp",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "haxelib",
+      "label": "Haxelib",
+      "keywords": [
+        ".haxelib",
+        "haxe_libraries"
+      ],
+      "native": {
+        "icon": "haxelib",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "helper",
+      "label": "Helper",
+      "keywords": [
+        ".helper",
+        ".helpers",
+        "helper",
+        "helpers"
+      ],
+      "native": {
+        "icon": "helper",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "histoire",
+      "label": "Histoire",
+      "keywords": [
+        ".histoire"
+      ],
+      "native": {
+        "icon": "histoire",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "hook",
+      "label": "Hook",
+      "keywords": [
+        ".hook",
+        ".hooks",
+        "hook",
+        "hooks"
+      ],
+      "native": {
+        "icon": "hook",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "husky",
+      "label": "Husky",
+      "keywords": [
+        ".husky"
+      ],
+      "native": {
+        "icon": "husky",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "idea",
+      "label": "Idea",
+      "keywords": [
+        ".idea"
+      ],
+      "native": {
+        "icon": "idea",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "images",
+      "label": "Images",
+      "keywords": [
+        ".fig",
+        ".figs",
+        ".img",
+        ".imgs",
+        "ico",
+        "icon",
+        "icons",
+        "image",
+        "images",
+        "img",
+        "imgs",
+        "screenshot",
+        "screenshots",
+        "svg",
+        "texture",
+        "textures"
+      ],
+      "native": {
+        "icon": "images",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "include",
+      "label": "Include",
+      "keywords": [
+        ".inc",
+        ".incl",
+        ".include",
+        ".includes",
+        "_inc",
+        "_incl",
+        "_include",
+        "_includes",
+        "inc",
+        "incl",
+        "include",
+        "includes"
+      ],
+      "native": {
+        "icon": "include",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "interfaces",
+      "label": "Interfaces",
+      "keywords": [
+        "interface",
+        "interfaces"
+      ],
+      "native": {
+        "icon": "interfaces",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "ios",
+      "label": "Ios",
+      "keywords": [
+        "ios"
+      ],
+      "native": {
+        "icon": "ios",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "js",
+      "label": "Js",
+      "keywords": [
+        "js"
+      ],
+      "native": {
+        "icon": "js",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "json",
+      "label": "Json",
+      "keywords": [
+        "json"
+      ],
+      "native": {
+        "icon": "json",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "json_official",
+      "label": "Json Official",
+      "keywords": [
+        "json"
+      ],
+      "native": {
+        "icon": "json_official",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "junie",
+      "label": "Junie",
+      "keywords": [
+        ".junie"
+      ],
+      "native": {
+        "icon": "junie",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "kiro",
+      "label": "Kiro",
+      "keywords": [
+        ".kiro"
+      ],
+      "native": {
+        "icon": "kiro",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "kotlin",
+      "label": "Kotlin",
+      "keywords": [
+        ".kotlin",
+        "kotlin"
+      ],
+      "native": {
+        "icon": "kotlin",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "kubernetes",
+      "label": "Kubernetes",
+      "keywords": [
+        ".k8s",
+        ".kube",
+        ".kuber",
+        ".kubernetes",
+        "k8s",
+        "kube",
+        "kuber",
+        "kubernetes"
+      ],
+      "native": {
+        "icon": "kubernetes",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "less",
+      "label": "Less",
+      "keywords": [
+        "_less",
+        "less"
+      ],
+      "native": {
+        "icon": "less",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "library",
+      "label": "Library",
+      "keywords": [
+        ".lib",
+        ".libs",
+        "__lib__",
+        "__libs__",
+        "lib",
+        "libraries",
+        "library",
+        "libs"
+      ],
+      "native": {
+        "icon": "library",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "linux",
+      "label": "Linux",
+      "keywords": [
+        "linux"
+      ],
+      "native": {
+        "icon": "linux",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "locale",
+      "label": "Locale",
+      "keywords": [
+        "_locale",
+        "_locales",
+        "g11n",
+        "globalization",
+        "i18n",
+        "internationalization",
+        "l10n",
+        "lang",
+        "language",
+        "languages",
+        "locale",
+        "locales",
+        "localization",
+        "translation",
+        "translations"
+      ],
+      "native": {
+        "icon": "locale",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "log",
+      "label": "Log",
+      "keywords": [
+        "log",
+        "logger",
+        "loggers",
+        "logging",
+        "logs"
+      ],
+      "native": {
+        "icon": "log",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "macos",
+      "label": "Macos",
+      "keywords": [
+        "darwin",
+        "macos"
+      ],
+      "native": {
+        "icon": "macos",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mariadb",
+      "label": "Mariadb",
+      "keywords": [
+        "maria",
+        "mariadb"
+      ],
+      "native": {
+        "icon": "mariadb",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "maven",
+      "label": "Maven",
+      "keywords": [
+        ".mvn"
+      ],
+      "native": {
+        "icon": "maven",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mediawiki",
+      "label": "Mediawiki",
+      "keywords": [
+        "mediawiki"
+      ],
+      "native": {
+        "icon": "mediawiki",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "memcached",
+      "label": "Memcached",
+      "keywords": [
+        ".memcached",
+        "memcached"
+      ],
+      "native": {
+        "icon": "memcached",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "meteor",
+      "label": "Meteor",
+      "keywords": [
+        ".meteor"
+      ],
+      "native": {
+        "icon": "meteor",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "middleware",
+      "label": "Middleware",
+      "keywords": [
+        "middleware",
+        "middlewares"
+      ],
+      "native": {
+        "icon": "middleware",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "minecraft",
+      "label": "Minecraft",
+      "keywords": [
+        ".minecraft"
+      ],
+      "native": {
+        "icon": "minecraft",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "minikube",
+      "label": "Minikube",
+      "keywords": [
+        "minik8s",
+        "minikube",
+        "minikuber"
+      ],
+      "native": {
+        "icon": "minikube",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mjml",
+      "label": "Mjml",
+      "keywords": [
+        ".mjml",
+        "mjml"
+      ],
+      "native": {
+        "icon": "mjml",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "keywords": [
+        ".mobile",
+        ".mobiles",
+        "mobile",
+        "mobiles"
+      ],
+      "native": {
+        "icon": "mobile",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mock",
+      "label": "Mock",
+      "keywords": [
+        ".mocks",
+        "__mocks__",
+        "mocks"
+      ],
+      "native": {
+        "icon": "mock",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "model",
+      "label": "Model",
+      "keywords": [
+        ".entities",
+        ".model",
+        ".models",
+        "entities",
+        "model",
+        "models"
+      ],
+      "native": {
+        "icon": "model",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "module",
+      "label": "Module",
+      "keywords": [
+        "modules"
+      ],
+      "native": {
+        "icon": "module",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mojo",
+      "label": "Mojo",
+      "keywords": [
+        "mojo"
+      ],
+      "native": {
+        "icon": "mojo",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mongodb",
+      "label": "Mongodb",
+      "keywords": [
+        "mongo",
+        "mongodb"
+      ],
+      "native": {
+        "icon": "mongodb",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "mypy",
+      "label": "Mypy",
+      "keywords": [
+        ".mypy_cache"
+      ],
+      "native": {
+        "icon": "mypy",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "mysql",
+      "label": "Mysql",
+      "keywords": [
+        "mysql",
+        "mysqldb"
+      ],
+      "native": {
+        "icon": "mysql",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "netlify",
+      "label": "Netlify",
+      "keywords": [
+        "netlify"
+      ],
+      "native": {
+        "icon": "netlify",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "next",
+      "label": "Next",
+      "keywords": [
+        ".next"
+      ],
+      "native": {
+        "icon": "next",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "nginx",
+      "label": "Nginx",
+      "keywords": [
+        "conf.d",
+        "nginx"
+      ],
+      "native": {
+        "icon": "nginx",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "nix",
+      "label": "Nix",
+      "keywords": [
+        ".niv",
+        ".nix",
+        "niv",
+        "nix"
+      ],
+      "native": {
+        "icon": "nix",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "node",
+      "label": "Node",
+      "keywords": [
+        "node_modules"
+      ],
+      "native": {
+        "icon": "node",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "notebooks",
+      "label": "Notebooks",
+      "keywords": [
+        "notebook",
+        "notebooks"
+      ],
+      "native": {
+        "icon": "notebooks",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "notification",
+      "label": "Notification",
+      "keywords": [
+        "event",
+        "events",
+        "notification",
+        "notifications"
+      ],
+      "native": {
+        "icon": "notification",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "nuget",
+      "label": "Nuget",
+      "keywords": [
+        ".nuget"
+      ],
+      "native": {
+        "icon": "nuget",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "nuxt",
+      "label": "Nuxt",
+      "keywords": [
+        ".nuxt",
+        "nuxt"
+      ],
+      "native": {
+        "icon": "nuxt",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "ocx",
+      "label": "Ocx",
+      "keywords": [
+        ".ocx"
+      ],
+      "native": {
+        "icon": "ocx",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "ohpm",
+      "label": "Ohpm",
+      "keywords": [
+        "oh_modules"
+      ],
+      "native": {
+        "icon": "ohpm",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "package",
+      "label": "Package",
+      "keywords": [
+        ".package",
+        ".packages",
+        "package",
+        "packages",
+        "pkg"
+      ],
+      "native": {
+        "icon": "package",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "paket",
+      "label": "Paket",
+      "keywords": [
+        ".paket"
+      ],
+      "native": {
+        "icon": "paket",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "php",
+      "label": "Php",
+      "keywords": [
+        "php"
+      ],
+      "native": {
+        "icon": "php",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "platformio",
+      "label": "Platformio",
+      "keywords": [
+        ".pio",
+        ".pioenvs"
+      ],
+      "native": {
+        "icon": "platformio",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "plugin",
+      "label": "Plugin",
+      "keywords": [
+        ".extension",
+        ".extensions",
+        ".plugin",
+        ".plugins",
+        "extension",
+        "extensions",
+        "plugin",
+        "plugins"
+      ],
+      "native": {
+        "icon": "plugin",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "prisma",
+      "label": "Prisma",
+      "keywords": [
+        "prisma"
+      ],
+      "native": {
+        "icon": "prisma",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "private",
+      "label": "Private",
+      "keywords": [
+        ".private",
+        "private"
+      ],
+      "native": {
+        "icon": "private",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "public",
+      "label": "Public",
+      "keywords": [
+        ".public",
+        "public"
+      ],
+      "native": {
+        "icon": "public",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "pytest",
+      "label": "Pytest",
+      "keywords": [
+        ".pytest_cache"
+      ],
+      "native": {
+        "icon": "pytest",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "python",
+      "label": "Python",
+      "keywords": [
+        ".venv",
+        ".virtualenv",
+        "__pycache__"
+      ],
+      "native": {
+        "icon": "python",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "ravendb",
+      "label": "Ravendb",
+      "keywords": [
+        "ravendb"
+      ],
+      "native": {
+        "icon": "ravendb",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "redhat",
+      "label": "Redhat",
+      "keywords": [
+        "redhat",
+        "rhel"
+      ],
+      "native": {
+        "icon": "redhat",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "redis",
+      "label": "Redis",
+      "keywords": [
+        "redis"
+      ],
+      "native": {
+        "icon": "redis",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "redux",
+      "label": "Redux",
+      "keywords": [
+        "redux"
+      ],
+      "native": {
+        "icon": "redux",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "route",
+      "label": "Route",
+      "keywords": [
+        "_route",
+        "_routes",
+        "route",
+        "router",
+        "routers",
+        "routes"
+      ],
+      "native": {
+        "icon": "route",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "sass",
+      "label": "Sass",
+      "keywords": [
+        "_sass",
+        "_scss",
+        "sass",
+        "scss"
+      ],
+      "native": {
+        "icon": "sass",
+        "format": "svg",
+        "light": true
+      }
+    },
+    {
+      "id": "schema",
+      "label": "Schema",
+      "keywords": [
+        "schema",
+        "schemas"
+      ],
+      "native": {
+        "icon": "schema",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "script",
+      "label": "Script",
+      "keywords": [
+        "script",
+        "scripts"
+      ],
+      "native": {
+        "icon": "script",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "seedkit",
+      "label": "Seedkit",
+      "keywords": [
+        ".seedkit",
+        "seedkit"
+      ],
+      "native": {
+        "icon": "seedkit",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "server",
+      "label": "Server",
+      "keywords": [
+        "server"
+      ],
+      "native": {
+        "icon": "server",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "services",
+      "label": "Services",
+      "keywords": [
+        "service",
+        "services"
+      ],
+      "native": {
+        "icon": "services",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "shared",
+      "label": "Shared",
+      "keywords": [
+        ".share",
+        ".shared",
+        "__share__",
+        "__shared__",
+        "share",
+        "shared"
+      ],
+      "native": {
+        "icon": "shared",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "slackware",
+      "label": "Slackware",
+      "keywords": [
+        "slackware"
+      ],
+      "native": {
+        "icon": "slackware",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "snaplet",
+      "label": "Snaplet",
+      "keywords": [
+        ".snaplet"
+      ],
+      "native": {
+        "icon": "snaplet",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "spin",
+      "label": "Spin",
+      "keywords": [
+        ".spin"
+      ],
+      "native": {
+        "icon": "spin",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "src",
+      "label": "Src",
+      "keywords": [
+        "__src__",
+        "source",
+        "sources",
+        "src"
+      ],
+      "native": {
+        "icon": "src",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "sso",
+      "label": "Sso",
+      "keywords": [
+        "sso"
+      ],
+      "native": {
+        "icon": "sso",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "story",
+      "label": "Story",
+      "keywords": [
+        ".storybook",
+        "__stories__",
+        "stories",
+        "story"
+      ],
+      "native": {
+        "icon": "story",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "style",
+      "label": "Style",
+      "keywords": [
+        "style",
+        "styles"
+      ],
+      "native": {
+        "icon": "style",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "supabase",
+      "label": "Supabase",
+      "keywords": [
+        "supabase"
+      ],
+      "native": {
+        "icon": "supabase",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "suse",
+      "label": "Suse",
+      "keywords": [
+        "opensuse",
+        "suse"
+      ],
+      "native": {
+        "icon": "suse",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "svelte",
+      "label": "Svelte",
+      "keywords": [
+        ".svelte-kit",
+        "svelte"
+      ],
+      "native": {
+        "icon": "svelte",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "swagger",
+      "label": "Swagger",
+      "keywords": [
+        "swagger"
+      ],
+      "native": {
+        "icon": "swagger",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "tauri",
+      "label": "Tauri",
+      "keywords": [
+        "src-tauri"
+      ],
+      "native": {
+        "icon": "tauri",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "telegram",
+      "label": "Telegram",
+      "keywords": [
+        ".telegram",
+        "telegram",
+        "telegramdesktop"
+      ],
+      "native": {
+        "icon": "telegram",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "temp",
+      "label": "Temp",
+      "keywords": [
+        ".temp",
+        ".tmp",
+        "temp",
+        "tmp"
+      ],
+      "native": {
+        "icon": "temp",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "template",
+      "label": "Template",
+      "keywords": [
+        ".template",
+        ".templates",
+        "template",
+        "templates"
+      ],
+      "native": {
+        "icon": "template",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "test",
+      "label": "Test",
+      "keywords": [
+        ".spec",
+        ".specs",
+        ".test",
+        ".tests",
+        "__test__",
+        "__tests__",
+        "integration",
+        "spec",
+        "specs",
+        "test",
+        "tests"
+      ],
+      "native": {
+        "icon": "test",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "theme",
+      "label": "Theme",
+      "keywords": [
+        "theme",
+        "themes"
+      ],
+      "native": {
+        "icon": "theme",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "tools",
+      "label": "Tools",
+      "keywords": [
+        ".tools",
+        "tool",
+        "tooling",
+        "tools",
+        "util",
+        "utilities",
+        "utils"
+      ],
+      "native": {
+        "icon": "tools",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "travis",
+      "label": "Travis",
+      "keywords": [
+        ".travis"
+      ],
+      "native": {
+        "icon": "travis",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "trunk",
+      "label": "Trunk",
+      "keywords": [
+        ".trunk"
+      ],
+      "native": {
+        "icon": "trunk",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "turbo",
+      "label": "Turbo",
+      "keywords": [
+        ".turbo"
+      ],
+      "native": {
+        "icon": "turbo",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "typescript",
+      "label": "Typescript",
+      "keywords": [
+        "ts",
+        "typescript"
+      ],
+      "native": {
+        "icon": "typescript",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "typings",
+      "label": "Typings",
+      "keywords": [
+        "@types",
+        "types",
+        "typings"
+      ],
+      "native": {
+        "icon": "typings",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "typings2",
+      "label": "Typings2",
+      "keywords": [
+        "@types",
+        "types",
+        "typings"
+      ],
+      "native": {
+        "icon": "typings2",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vagrant",
+      "label": "Vagrant",
+      "keywords": [
+        ".vagrant",
+        "vagrant"
+      ],
+      "native": {
+        "icon": "vagrant",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vercel",
+      "label": "Vercel",
+      "keywords": [
+        ".vercel"
+      ],
+      "native": {
+        "icon": "vercel",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "video",
+      "label": "Video",
+      "keywords": [
+        ".video",
+        ".videos",
+        "video",
+        "videos"
+      ],
+      "native": {
+        "icon": "video",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "view",
+      "label": "View",
+      "keywords": [
+        "_layout",
+        "_layouts",
+        "_page",
+        "_pages",
+        "_view",
+        "_views",
+        "html",
+        "layout",
+        "layouts",
+        "page",
+        "pages",
+        "view",
+        "views"
+      ],
+      "native": {
+        "icon": "view",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vitepress",
+      "label": "Vitepress",
+      "keywords": [
+        ".vitepress"
+      ],
+      "native": {
+        "icon": "vitepress",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "void",
+      "label": "Void",
+      "keywords": [
+        "void"
+      ],
+      "native": {
+        "icon": "void",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vs",
+      "label": "Vs",
+      "keywords": [
+        ".vs"
+      ],
+      "native": {
+        "icon": "vs",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vs2",
+      "label": "Vs2",
+      "keywords": [
+        ".vs"
+      ],
+      "native": {
+        "icon": "vs2",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vscode",
+      "label": "Vscode",
+      "keywords": [
+        ".vscode",
+        "vscode"
+      ],
+      "native": {
+        "icon": "vscode",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vscode2",
+      "label": "Vscode2",
+      "keywords": [
+        ".vscode",
+        "vscode"
+      ],
+      "native": {
+        "icon": "vscode2",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vscode3",
+      "label": "Vscode3",
+      "keywords": [
+        ".vscode",
+        "vscode"
+      ],
+      "native": {
+        "icon": "vscode3",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vscode_test",
+      "label": "Vscode Test",
+      "keywords": [
+        ".vscode-test"
+      ],
+      "native": {
+        "icon": "vscode_test",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vscode_test2",
+      "label": "Vscode Test2",
+      "keywords": [
+        ".vscode-test"
+      ],
+      "native": {
+        "icon": "vscode_test2",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "vscode_test3",
+      "label": "Vscode Test3",
+      "keywords": [
+        ".vscode-test"
+      ],
+      "native": {
+        "icon": "vscode_test3",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "wasm",
+      "label": "Wasm",
+      "keywords": [
+        "wasm",
+        "webassembly"
+      ],
+      "native": {
+        "icon": "wasm",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "wasp",
+      "label": "Wasp",
+      "keywords": [
+        ".wasp"
+      ],
+      "native": {
+        "icon": "wasp",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "webpack",
+      "label": "Webpack",
+      "keywords": [
+        ".webpack",
+        "webpack"
+      ],
+      "native": {
+        "icon": "webpack",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "windows",
+      "label": "Windows",
+      "keywords": [
+        "win32",
+        "windows"
+      ],
+      "native": {
+        "icon": "windows",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "windsurf",
+      "label": "Windsurf",
+      "keywords": [
+        ".windsurf"
+      ],
+      "native": {
+        "icon": "windsurf",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "wit",
+      "label": "Wit",
+      "keywords": [
+        "wit"
+      ],
+      "native": {
+        "icon": "wit",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "www",
+      "label": "Www",
+      "keywords": [
+        ".web",
+        "web",
+        "www",
+        "wwwroot"
+      ],
+      "native": {
+        "icon": "www",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "yarn",
+      "label": "Yarn",
+      "keywords": [
+        ".yarn"
+      ],
+      "native": {
+        "icon": "yarn",
+        "format": "svg",
+        "light": false
+      }
+    },
+    {
+      "id": "zed",
+      "label": "Zed",
+      "keywords": [
+        ".zed"
+      ],
+      "native": {
+        "icon": "zed",
+        "format": "svg",
+        "light": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "folder-palette-installed-artifact-harness",
+  "publisher": "local-test-harness",
+  "version": "0.0.0",
+  "private": true,
+  "engines": { "vscode": "^1.142.0" },
+  "main": "main.cjs"
+}

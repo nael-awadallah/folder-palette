@@ -1,0 +1,119 @@
+{
+  "name": "folder-palette",
+  "displayName": "FolderPalette — Folder Icon Customizer",
+  "description": "Capability-aware folder icon customization for Material Icon Theme and vscode-icons; compatibility gates apply.",
+  "version": "0.1.0-dev.2",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.142.0",
+    "node": ">=22.14.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./dist/extension.cjs",
+  "activationEvents": [
+    "onStartupFinished",
+    "onCommand:folderPalette.changeFolderIcon",
+    "onCommand:folderPalette.resetFolderIcon",
+    "onCommand:folderPalette.manageAssociations"
+  ],
+  "extensionKind": [
+    "ui"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": "limited",
+      "description": "Provider inspection and prerequisite help are available; customization requires a trusted workspace and verified provider capabilities."
+    },
+    "virtualWorkspaces": false
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src test/unit",
+    "test": "vitest run",
+    "catalog:fetch": "node scripts/catalog/fetch-sources.mjs",
+    "catalog:generate": "node scripts/catalog/generate.mjs",
+    "catalog:check": "node scripts/catalog/generate.mjs --check",
+    "check": "npm run typecheck && npm run lint && npm test && npm run catalog:check && npm run build",
+    "vscode:prepublish": "npm run build",
+    "catalog:material:generate": "node scripts/catalog/generate.mjs --provider=material",
+    "catalog:material:check": "node scripts/catalog/generate.mjs --provider=material --check",
+    "catalog:vscode-icons:generate": "node scripts/catalog/generate.mjs --provider=vscode-icons",
+    "catalog:vscode-icons:check": "node scripts/catalog/generate.mjs --provider=vscode-icons --check",
+    "package": "npm run build && node scripts/package/build.mjs",
+    "package:inspect": "node scripts/package/inspect.mjs",
+    "test:integration": "node scripts/integration/run.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.0",
+    "@types/vscode": "1.140.0",
+    "@vscode/test-electron": "3.1.0",
+    "@vscode/vsce": "4.0.0",
+    "esbuild": "0.28.2",
+    "eslint": "10.12.0",
+    "material-icon-theme": "5.39.0",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.71.2",
+    "vitest": "5.0.4",
+    "yauzl": "3.4.0"
+  },
+  "contributes": {
+    "menus": {
+      "explorer/context": [
+        {
+          "command": "folderPalette.changeFolderIcon",
+          "group": "navigation@90",
+          "when": "explorerResourceIsFolder && resourceScheme == file"
+        },
+        {
+          "command": "folderPalette.resetFolderIcon",
+          "group": "navigation@91",
+          "when": "explorerResourceIsFolder && resourceScheme == file"
+        }
+      ]
+    },
+    "commands": [
+      {
+        "title": "FolderPalette: Change Folder Icon…",
+        "command": "folderPalette.changeFolderIcon"
+      },
+      {
+        "title": "FolderPalette: Reset Folder Icon…",
+        "command": "folderPalette.resetFolderIcon"
+      },
+      {
+        "title": "FolderPalette: Manage Folder Associations…",
+        "command": "folderPalette.manageAssociations"
+      }
+    ]
+  },
+  "publisher": "nael-awadallah",
+  "files": [
+    "dist/extension.cjs",
+    "catalog/NOTICE.md",
+    "catalog/material/icons.json",
+    "catalog/material/provenance.json",
+    "catalog/material/LICENSE.upstream",
+    "catalog/vscode-icons/icons.json",
+    "catalog/vscode-icons/provenance.json",
+    "catalog/vscode-icons/LICENSE.upstream",
+    "LICENSE",
+    "NOTICES.md",
+    "CHANGELOG.md",
+    "README.md",
+    "documentation/compatibility.md",
+    "documentation/catalog-maintenance.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nael-awadallah/folder-palette.git"
+  },
+  "homepage": "https://github.com/nael-awadallah/folder-palette#readme",
+  "bugs": {
+    "url": "https://github.com/nael-awadallah/folder-palette/issues"
+  }
+}

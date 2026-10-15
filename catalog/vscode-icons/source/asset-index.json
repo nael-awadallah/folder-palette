@@ -1,0 +1,2166 @@
+{
+  "repository": "vscode-icons/vscode-icons",
+  "commit": "866d4f48701ba71e39d309e9e519bcf2eaf1c3e2",
+  "files": [
+    {
+      "path": "icons/folder_type_alpine.svg",
+      "gitBlobSha": "f03cacb0a1b3a3b920ee7e28238f5c31e657d4e8",
+      "size": 1643
+    },
+    {
+      "path": "icons/folder_type_alpine_opened.svg",
+      "gitBlobSha": "ed973f87461b9c943e5515f098333a00bf1e7342",
+      "size": 1747
+    },
+    {
+      "path": "icons/folder_type_android.svg",
+      "gitBlobSha": "a982c0f8725877610a7624e3e5429b6857973969",
+      "size": 1297
+    },
+    {
+      "path": "icons/folder_type_android_opened.svg",
+      "gitBlobSha": "edd35529bd711984d439d0b7fd5dfb273ee5354d",
+      "size": 1427
+    },
+    {
+      "path": "icons/folder_type_angular.svg",
+      "gitBlobSha": "f2f6f63a55015440de3a7cc6c2899ddc824572c6",
+      "size": 1832
+    },
+    {
+      "path": "icons/folder_type_angular_opened.svg",
+      "gitBlobSha": "8db83d735c0f5ecd0702b2a03486d49241ac62ee",
+      "size": 1925
+    },
+    {
+      "path": "icons/folder_type_apache.svg",
+      "gitBlobSha": "19a2f94763403bae5bf6e8aca0b30df04362811e",
+      "size": 5645
+    },
+    {
+      "path": "icons/folder_type_apache_opened.svg",
+      "gitBlobSha": "15528ea5115e15e374fdafafb93b1b9975b244c8",
+      "size": 5673
+    },
+    {
+      "path": "icons/folder_type_api.svg",
+      "gitBlobSha": "c2d0ac65db91590ff703cb2fe2f8db6efe28fcc4",
+      "size": 1398
+    },
+    {
+      "path": "icons/folder_type_api_opened.svg",
+      "gitBlobSha": "ee47975d7e0ce515238912ad5ae301e674c2c394",
+      "size": 1551
+    },
+    {
+      "path": "icons/folder_type_app.svg",
+      "gitBlobSha": "8039b7b0392eda8acd9e069a02b1ee391a91915d",
+      "size": 1456
+    },
+    {
+      "path": "icons/folder_type_app_opened.svg",
+      "gitBlobSha": "f22e38d43978f2ca3e38e9587288ac450f717bf7",
+      "size": 1609
+    },
+    {
+      "path": "icons/folder_type_arangodb.svg",
+      "gitBlobSha": "6df5f65795bb49af1bb2a9c9aff5a897c0fe769f",
+      "size": 30914
+    },
+    {
+      "path": "icons/folder_type_arangodb_opened.svg",
+      "gitBlobSha": "dd704a64fa3aaa41ff900920957416fa5b865a65",
+      "size": 31044
+    },
+    {
+      "path": "icons/folder_type_arch.svg",
+      "gitBlobSha": "234530f52aba90e9137d681ae214410389f46afd",
+      "size": 713
+    },
+    {
+      "path": "icons/folder_type_arch_opened.svg",
+      "gitBlobSha": "34c2cff5d7c6a2d5f0012d62de66f0ea12656e51",
+      "size": 817
+    },
+    {
+      "path": "icons/folder_type_asset.svg",
+      "gitBlobSha": "d8410197b0aa00b692b06e3be9f5b5eb984be1c6",
+      "size": 1303
+    },
+    {
+      "path": "icons/folder_type_asset_opened.svg",
+      "gitBlobSha": "88f6d1da33332d08f9c51845fbfc1640ce2acdcb",
+      "size": 1423
+    },
+    {
+      "path": "icons/folder_type_astro.svg",
+      "gitBlobSha": "c80d02920422fb0808983b6ed3b786d490c21544",
+      "size": 1099
+    },
+    {
+      "path": "icons/folder_type_astro_opened.svg",
+      "gitBlobSha": "da337ec59f34ec9da03e943497425a49b1939517",
+      "size": 1219
+    },
+    {
+      "path": "icons/folder_type_audio.svg",
+      "gitBlobSha": "81011969bb7fc17f16d6389d49a198b1d54ccefa",
+      "size": 648
+    },
+    {
+      "path": "icons/folder_type_audio_opened.svg",
+      "gitBlobSha": "e81a93a343a0a9a1d905eb3bf78a597b0bd4c5f0",
+      "size": 768
+    },
+    {
+      "path": "icons/folder_type_aurelia.svg",
+      "gitBlobSha": "cf11e3d46d0edf8ae675233d0bf4a013a21524ab",
+      "size": 4054
+    },
+    {
+      "path": "icons/folder_type_aurelia_opened.svg",
+      "gitBlobSha": "1cecd7ee7c0b10d7fc45884383b1fe579b80795a",
+      "size": 4174
+    },
+    {
+      "path": "icons/folder_type_auth.svg",
+      "gitBlobSha": "b15060892f043fd7d6796d0328a15f866d7bd0ae",
+      "size": 1062
+    },
+    {
+      "path": "icons/folder_type_auth_opened.svg",
+      "gitBlobSha": "b865c0c36840eafcf5d4e114688d85fee65cb96f",
+      "size": 1099
+    },
+    {
+      "path": "icons/folder_type_aws.svg",
+      "gitBlobSha": "5b7aa3bb7ce88c9495f0e50a2c29e6c4f17df823",
+      "size": 1422
+    },
+    {
+      "path": "icons/folder_type_aws_opened.svg",
+      "gitBlobSha": "7e4a8b02a9c42af13ea20c47a9f85b8d78970c09",
+      "size": 1542
+    },
+    {
+      "path": "icons/folder_type_azure.svg",
+      "gitBlobSha": "878dc7cae64adaa22c5078423af0c381ea7476b9",
+      "size": 1857
+    },
+    {
+      "path": "icons/folder_type_azure_opened.svg",
+      "gitBlobSha": "859fb0a4dc7927441ca1a1ac32abdff4388bda07",
+      "size": 1909
+    },
+    {
+      "path": "icons/folder_type_azurepipelines.svg",
+      "gitBlobSha": "86b894c75cf1bf13cda675a5611928cee96022b1",
+      "size": 2621
+    },
+    {
+      "path": "icons/folder_type_azurepipelines_opened.svg",
+      "gitBlobSha": "5154085e253122150db406ee68167e0561a5769d",
+      "size": 2683
+    },
+    {
+      "path": "icons/folder_type_binary.svg",
+      "gitBlobSha": "d19e36c08bfd51d288d4966a9653274e76c49e3e",
+      "size": 1571
+    },
+    {
+      "path": "icons/folder_type_binary_opened.svg",
+      "gitBlobSha": "77d56d1a96e3571e880ac7545d9df6fbab8ca0a8",
+      "size": 1691
+    },
+    {
+      "path": "icons/folder_type_bloc.svg",
+      "gitBlobSha": "17db55146f4e446b0cfd9a542df99d434d08034a",
+      "size": 626
+    },
+    {
+      "path": "icons/folder_type_bloc_opened.svg",
+      "gitBlobSha": "37a4d59ed72f53013284889887b342c01d63b56b",
+      "size": 661
+    },
+    {
+      "path": "icons/folder_type_blueprint.svg",
+      "gitBlobSha": "52e3bd9e9e8c16cb0d36b86928fe570077f06c0a",
+      "size": 1384
+    },
+    {
+      "path": "icons/folder_type_blueprint_opened.svg",
+      "gitBlobSha": "103d161602fce08872ffa500a5b95d3a4f85fea6",
+      "size": 1485
+    },
+    {
+      "path": "icons/folder_type_bot.svg",
+      "gitBlobSha": "76282737a2dd68402111db38c9406ee99a8035c9",
+      "size": 629
+    },
+    {
+      "path": "icons/folder_type_bot_opened.svg",
+      "gitBlobSha": "a47324cc2a4ab3a83b792ad811d3d286162a9de7",
+      "size": 726
+    },
+    {
+      "path": "icons/folder_type_bower.svg",
+      "gitBlobSha": "b8bb9b48acf0c290ed28b7e40e3b36f0f4e6e5ec",
+      "size": 2977
+    },
+    {
+      "path": "icons/folder_type_bower_opened.svg",
+      "gitBlobSha": "e194b4d34ccf1385de7d369825a0af134ab9deb1",
+      "size": 3097
+    },
+    {
+      "path": "icons/folder_type_buildkite.svg",
+      "gitBlobSha": "42542c9f95cc2104b1f9c8d211dddb65c2959209",
+      "size": 374
+    },
+    {
+      "path": "icons/folder_type_buildkite_opened.svg",
+      "gitBlobSha": "1966255e6b1c70de59726c17ea7b2a7451b61050",
+      "size": 418
+    },
+    {
+      "path": "icons/folder_type_cake.svg",
+      "gitBlobSha": "ea6ae21c9b2daa3b58313b28577f96df39c94dee",
+      "size": 6874
+    },
+    {
+      "path": "icons/folder_type_cake_opened.svg",
+      "gitBlobSha": "2b0dd813de6542da0d1fdbb474313c7d837aed61",
+      "size": 6994
+    },
+    {
+      "path": "icons/folder_type_cargo.svg",
+      "gitBlobSha": "7a4cb5c9e9b3606c280abe0feb4a970abb98ead2",
+      "size": 23723
+    },
+    {
+      "path": "icons/folder_type_cargo_opened.svg",
+      "gitBlobSha": "aa78b7491f374e8429e21372f15efa9bd0a6a890",
+      "size": 23696
+    },
+    {
+      "path": "icons/folder_type_certificate.svg",
+      "gitBlobSha": "a18803153660b2533f9950853b928fecd5a48304",
+      "size": 426
+    },
+    {
+      "path": "icons/folder_type_certificate_opened.svg",
+      "gitBlobSha": "d821298ef82bf983a8d99b836562d4044ec24bbd",
+      "size": 520
+    },
+    {
+      "path": "icons/folder_type_changesets.svg",
+      "gitBlobSha": "b8d7f89243066a199f70f8d465f9c9cc6623a606",
+      "size": 1596
+    },
+    {
+      "path": "icons/folder_type_changesets_opened.svg",
+      "gitBlobSha": "f5957da589827be8aba29e6165f297f205f546f6",
+      "size": 1632
+    },
+    {
+      "path": "icons/folder_type_chef.svg",
+      "gitBlobSha": "0006ad49884e9151d496b194251bedb16ba7d2b2",
+      "size": 1923
+    },
+    {
+      "path": "icons/folder_type_chef_opened.svg",
+      "gitBlobSha": "19ca7086da7c7c0098250ccf2ef76bb14a481a8b",
+      "size": 2043
+    },
+    {
+      "path": "icons/folder_type_circleci.svg",
+      "gitBlobSha": "2bbae71f130e6ae9ada7f7bdf77d26ace775e65d",
+      "size": 514
+    },
+    {
+      "path": "icons/folder_type_circleci_opened.svg",
+      "gitBlobSha": "db36e5b306255e712c9dfe23302b4da23c7ec536",
+      "size": 634
+    },
+    {
+      "path": "icons/folder_type_claude.svg",
+      "gitBlobSha": "f8a1c527fc696297be65ac1ff418bc275eff9b15",
+      "size": 2456
+    },
+    {
+      "path": "icons/folder_type_claude_opened.svg",
+      "gitBlobSha": "67978194231002495ae6d68ec6616aedfdc4f603",
+      "size": 2490
+    },
+    {
+      "path": "icons/folder_type_cli.svg",
+      "gitBlobSha": "85a3c9b7011d8cbe21609669d27a414d0f4938d3",
+      "size": 399
+    },
+    {
+      "path": "icons/folder_type_cli_opened.svg",
+      "gitBlobSha": "2560bb6da14031f63955248367fee7f98652fae5",
+      "size": 443
+    },
+    {
+      "path": "icons/folder_type_client.svg",
+      "gitBlobSha": "aad895ee694b83ac4f409eb15a5536c8a0a997d0",
+      "size": 1765
+    },
+    {
+      "path": "icons/folder_type_client_opened.svg",
+      "gitBlobSha": "fa978af220f516d3035911d83298fe1ed475322a",
+      "size": 1885
+    },
+    {
+      "path": "icons/folder_type_cloudflare.svg",
+      "gitBlobSha": "1670c1d2367b20d7d469a60f57d5eb0782252c90",
+      "size": 1445
+    },
+    {
+      "path": "icons/folder_type_cloudflare_opened.svg",
+      "gitBlobSha": "b6d97c5851b60a7de9af882d4c26915807fa83b1",
+      "size": 1418
+    },
+    {
+      "path": "icons/folder_type_cmake.svg",
+      "gitBlobSha": "0fe833589d865102f67e5fc1b3c59698112207ac",
+      "size": 2014
+    },
+    {
+      "path": "icons/folder_type_cmake_opened.svg",
+      "gitBlobSha": "ee331dec30fea23980a0be54720e751b3e225b3e",
+      "size": 2126
+    },
+    {
+      "path": "icons/folder_type_common.svg",
+      "gitBlobSha": "65dc6d4b91d13dbdf21584f851c0277a31afd46e",
+      "size": 780
+    },
+    {
+      "path": "icons/folder_type_common_opened.svg",
+      "gitBlobSha": "d8f89e39fa0b2a4f0e9a5adbbc96dfa1b8dc5c1a",
+      "size": 708
+    },
+    {
+      "path": "icons/folder_type_component.svg",
+      "gitBlobSha": "00bfa381fd67028f2aa1ce132cbabfdcfa3a4963",
+      "size": 4790
+    },
+    {
+      "path": "icons/folder_type_component_opened.svg",
+      "gitBlobSha": "675642a8c5d297fd5537a682cb3f70c4e09fd157",
+      "size": 4910
+    },
+    {
+      "path": "icons/folder_type_composer.svg",
+      "gitBlobSha": "6df8513b0f707bddff371d1dab2a23b24b4bac97",
+      "size": 90378
+    },
+    {
+      "path": "icons/folder_type_composer_opened.svg",
+      "gitBlobSha": "92126b487fe77a732d20dc271851b07812bf61f7",
+      "size": 90498
+    },
+    {
+      "path": "icons/folder_type_config.svg",
+      "gitBlobSha": "de35ad4fdfad0b755b417b8c8297c16692b914f2",
+      "size": 1007
+    },
+    {
+      "path": "icons/folder_type_config_opened.svg",
+      "gitBlobSha": "9c3b1dc9d8870a0dc178de192e372a649ac91767",
+      "size": 1127
+    },
+    {
+      "path": "icons/folder_type_controller.svg",
+      "gitBlobSha": "f3041366b5085cf2d4af559e3c7c1734e13629bc",
+      "size": 2509
+    },
+    {
+      "path": "icons/folder_type_controller_opened.svg",
+      "gitBlobSha": "9e47a9f74dc2df0ea5e6e98e9d0b014445d51e5a",
+      "size": 2610
+    },
+    {
+      "path": "icons/folder_type_coverage.svg",
+      "gitBlobSha": "6e5038625b90353b5c1b1f0feaefdf0f96c02afc",
+      "size": 1604
+    },
+    {
+      "path": "icons/folder_type_coverage_opened.svg",
+      "gitBlobSha": "0a6706799c5cea7b54255f5b5fc35e72ca837909",
+      "size": 1724
+    },
+    {
+      "path": "icons/folder_type_css.svg",
+      "gitBlobSha": "ad71f925565fa6f82593d4b6a2b03ac87f97b388",
+      "size": 1445
+    },
+    {
+      "path": "icons/folder_type_css2.svg",
+      "gitBlobSha": "1f9121c10eb43e6447dac44f6ccd061ba4929f3e",
+      "size": 1304
+    },
+    {
+      "path": "icons/folder_type_css2_opened.svg",
+      "gitBlobSha": "fee8b0e7b9a5a6ffd925e21fc44e68eaba315b93",
+      "size": 1424
+    },
+    {
+      "path": "icons/folder_type_css_opened.svg",
+      "gitBlobSha": "cfde17b7962b50055c5c003d93bb9712ab81c1b4",
+      "size": 1547
+    },
+    {
+      "path": "icons/folder_type_cubit.svg",
+      "gitBlobSha": "deeceb30e486197cfd280e1f593e4f87e5051d87",
+      "size": 815
+    },
+    {
+      "path": "icons/folder_type_cubit_opened.svg",
+      "gitBlobSha": "e760e917712f69ca744444650a55c53574497fe4",
+      "size": 844
+    },
+    {
+      "path": "icons/folder_type_cursor.svg",
+      "gitBlobSha": "cc86e84298892b8a386ea20480c6e7ef4d87c467",
+      "size": 1201
+    },
+    {
+      "path": "icons/folder_type_cursor_opened.svg",
+      "gitBlobSha": "7b6cc01f9ad7f6992051afceb5041f6e300a5199",
+      "size": 1298
+    },
+    {
+      "path": "icons/folder_type_cypress.svg",
+      "gitBlobSha": "c06fb75cad106a362fabb2dc6775c03cec3c1bae",
+      "size": 2653
+    },
+    {
+      "path": "icons/folder_type_cypress_opened.svg",
+      "gitBlobSha": "14652870920014384cb10f70c2e71ba3384f6e89",
+      "size": 2769
+    },
+    {
+      "path": "icons/folder_type_dapr.svg",
+      "gitBlobSha": "ccb33fd504b33fceedfff6d4a3b6818fe0b64a7d",
+      "size": 587
+    },
+    {
+      "path": "icons/folder_type_dapr_opened.svg",
+      "gitBlobSha": "9a1ca2b83db525125975e5c9b756a0088272735f",
+      "size": 631
+    },
+    {
+      "path": "icons/folder_type_dart.svg",
+      "gitBlobSha": "ae10bfa53c991d6e621484951f960382c7e485b3",
+      "size": 950
+    },
+    {
+      "path": "icons/folder_type_dart_opened.svg",
+      "gitBlobSha": "4cf4364b78baac1c198c7b38a45ef22f7a0f24bd",
+      "size": 964
+    },
+    {
+      "path": "icons/folder_type_databricks.svg",
+      "gitBlobSha": "8591383420cc7685a457dfe35b26355bb19d1b56",
+      "size": 604
+    },
+    {
+      "path": "icons/folder_type_databricks_opened.svg",
+      "gitBlobSha": "8c8fe55ea736aa42709b2c12ac7b5c8e42bf586c",
+      "size": 724
+    },
+    {
+      "path": "icons/folder_type_datadog.svg",
+      "gitBlobSha": "6e0af060b8532328ebb48ee4cf1cdd58165b956a",
+      "size": 3330
+    },
+    {
+      "path": "icons/folder_type_datadog_opened.svg",
+      "gitBlobSha": "f2c35e4c6e19f86ec422b30c8cb861d28713c462",
+      "size": 4198
+    },
+    {
+      "path": "icons/folder_type_db.svg",
+      "gitBlobSha": "39922c4114f4ed441dc4b5c2b97b0920d3b894fe",
+      "size": 1185
+    },
+    {
+      "path": "icons/folder_type_db_opened.svg",
+      "gitBlobSha": "6ab5282a81b1428786d3c88409ce4d362cf48f69",
+      "size": 1305
+    },
+    {
+      "path": "icons/folder_type_debian.svg",
+      "gitBlobSha": "cec81f14a348c953c891998f0d4aa05366b6ea83",
+      "size": 3774
+    },
+    {
+      "path": "icons/folder_type_debian_opened.svg",
+      "gitBlobSha": "bca98830af9a8070ef1098dea0ee3cd652a13667",
+      "size": 3894
+    },
+    {
+      "path": "icons/folder_type_dependabot.svg",
+      "gitBlobSha": "3f9ad0d06826017547de280584b131ada4411039",
+      "size": 1215
+    },
+    {
+      "path": "icons/folder_type_dependabot_opened.svg",
+      "gitBlobSha": "e3b0702be6e0e6c03136a213dcba1472f0f58914",
+      "size": 1261
+    },
+    {
+      "path": "icons/folder_type_devcontainer.svg",
+      "gitBlobSha": "1841ed6a17d698bbb301e991b486f45eda6e2b4a",
+      "size": 530
+    },
+    {
+      "path": "icons/folder_type_devcontainer_opened.svg",
+      "gitBlobSha": "cd94b218827f408a3a145015c1efd8ce8a87640a",
+      "size": 574
+    },
+    {
+      "path": "icons/folder_type_devenv.svg",
+      "gitBlobSha": "aa95416c6e8739d4803ad5fd69e3835edcf5009d",
+      "size": 735
+    },
+    {
+      "path": "icons/folder_type_devenv_opened.svg",
+      "gitBlobSha": "f699b295748ae7b434fe157f372edc193481710c",
+      "size": 779
+    },
+    {
+      "path": "icons/folder_type_dist.svg",
+      "gitBlobSha": "f552807699e0065563313a35519c035e47629933",
+      "size": 4132
+    },
+    {
+      "path": "icons/folder_type_dist_opened.svg",
+      "gitBlobSha": "a5b7ced40d6fa6cc9648b5598e960a72d64e6f1e",
+      "size": 4252
+    },
+    {
+      "path": "icons/folder_type_docker.svg",
+      "gitBlobSha": "0d0ff19cb5b379b790a3889f59f1b3ee312b64af",
+      "size": 2780
+    },
+    {
+      "path": "icons/folder_type_docker_opened.svg",
+      "gitBlobSha": "d76e3cc16f543fe75ec263c7e93126694b952668",
+      "size": 2900
+    },
+    {
+      "path": "icons/folder_type_docs.svg",
+      "gitBlobSha": "8187412080dc4de7469ac67db3249c2a11f6c901",
+      "size": 2724
+    },
+    {
+      "path": "icons/folder_type_docs_opened.svg",
+      "gitBlobSha": "4940d02248b20f84be9bb1d446b1281cd90c6cd6",
+      "size": 2853
+    },
+    {
+      "path": "icons/folder_type_e2e.svg",
+      "gitBlobSha": "504bfd406a7b2e53abec8555d1b8074aafed168f",
+      "size": 1323
+    },
+    {
+      "path": "icons/folder_type_e2e_opened.svg",
+      "gitBlobSha": "fbf3b84e4744ba61a0b2828690f1cb8f39b20eb7",
+      "size": 1380
+    },
+    {
+      "path": "icons/folder_type_elasticbeanstalk.svg",
+      "gitBlobSha": "cbeeafc3b9cbb8185fce735583bdae49085d61f5",
+      "size": 1104
+    },
+    {
+      "path": "icons/folder_type_elasticbeanstalk_opened.svg",
+      "gitBlobSha": "2348d2f998074f42b11224ab1deca9364613f412",
+      "size": 1224
+    },
+    {
+      "path": "icons/folder_type_electron.svg",
+      "gitBlobSha": "5e94070a78b7be66a2d2289d8424b71e60a09926",
+      "size": 1730
+    },
+    {
+      "path": "icons/folder_type_electron_opened.svg",
+      "gitBlobSha": "6dc5f7b7490093620015bcee311c0c43b31742f6",
+      "size": 1776
+    },
+    {
+      "path": "icons/folder_type_environments.svg",
+      "gitBlobSha": "9c981f723fab6fb64502da0a867981c78ace1ca4",
+      "size": 995
+    },
+    {
+      "path": "icons/folder_type_environments_opened.svg",
+      "gitBlobSha": "28e3bcbd742e66cfb022b2e76c6a022ba90eec57",
+      "size": 1023
+    },
+    {
+      "path": "icons/folder_type_expo.svg",
+      "gitBlobSha": "53db63d3b344a263bd3539113f874f024311d3fd",
+      "size": 1369
+    },
+    {
+      "path": "icons/folder_type_expo_opened.svg",
+      "gitBlobSha": "9c062c6810133b44941b25e194a7efdef050eda8",
+      "size": 1445
+    },
+    {
+      "path": "icons/folder_type_favicon.svg",
+      "gitBlobSha": "38a60a3b019cd1e3f45f8dcf28e936fa5f1c019f",
+      "size": 1077
+    },
+    {
+      "path": "icons/folder_type_favicon_opened.svg",
+      "gitBlobSha": "0ff1ab9f293bb7c9aa243246c26a5cfc95f066d3",
+      "size": 1123
+    },
+    {
+      "path": "icons/folder_type_fedora.svg",
+      "gitBlobSha": "34a54c68a2d6efded029b6858909869cd82ea6b9",
+      "size": 3628
+    },
+    {
+      "path": "icons/folder_type_fedora_opened.svg",
+      "gitBlobSha": "6825a9713d00f6004289437ab900edf04e34e226",
+      "size": 3735
+    },
+    {
+      "path": "icons/folder_type_flow.svg",
+      "gitBlobSha": "2b33a06a384395eef433361dce385df6d8037437",
+      "size": 2817
+    },
+    {
+      "path": "icons/folder_type_flow_opened.svg",
+      "gitBlobSha": "b77a73e16fe3d27e91f20427cc29cb5b6afa4546",
+      "size": 2934
+    },
+    {
+      "path": "icons/folder_type_flutter.svg",
+      "gitBlobSha": "61c06fcca16eabbf5b14793b12393269460b0108",
+      "size": 823
+    },
+    {
+      "path": "icons/folder_type_flutter_opened.svg",
+      "gitBlobSha": "25f671271d18939d0db167470537eceafffad09b",
+      "size": 837
+    },
+    {
+      "path": "icons/folder_type_fonts.svg",
+      "gitBlobSha": "4badc09e1b1299f718e8a081e73d3133cb3129e4",
+      "size": 1619
+    },
+    {
+      "path": "icons/folder_type_fonts_opened.svg",
+      "gitBlobSha": "4e092c70c7d09eacbfeea888ea6d558d26e987ca",
+      "size": 1739
+    },
+    {
+      "path": "icons/folder_type_frontcommerce.svg",
+      "gitBlobSha": "5d2ad1d8d44474bc8415b3637a6e9346dffe031d",
+      "size": 882
+    },
+    {
+      "path": "icons/folder_type_frontcommerce_opened.svg",
+      "gitBlobSha": "5c2b13a3c77a5c7c99d905308a36898b438bc0b0",
+      "size": 882
+    },
+    {
+      "path": "icons/folder_type_gcp.svg",
+      "gitBlobSha": "d181eb2ec8b17bd19bcbc20e9ba63fa15a9afeaa",
+      "size": 895
+    },
+    {
+      "path": "icons/folder_type_gcp_opened.svg",
+      "gitBlobSha": "02eca30e8b213ba16899e5f27f9c74f245c06e67",
+      "size": 996
+    },
+    {
+      "path": "icons/folder_type_gemini.svg",
+      "gitBlobSha": "c3413b91e5092aa2546f8d29ff7f8e1c935925fd",
+      "size": 4985
+    },
+    {
+      "path": "icons/folder_type_gemini_opened.svg",
+      "gitBlobSha": "7115c37d61af9e14aaee69a4b69464ef89d2afef",
+      "size": 5024
+    },
+    {
+      "path": "icons/folder_type_gentoo.svg",
+      "gitBlobSha": "62192fe481decd3442f4482355ad8a1591c8b084",
+      "size": 3940
+    },
+    {
+      "path": "icons/folder_type_gentoo_opened.svg",
+      "gitBlobSha": "5c7b4e353d9e3d953712a80313828f4f5caf617e",
+      "size": 4044
+    },
+    {
+      "path": "icons/folder_type_git.svg",
+      "gitBlobSha": "5c149bca97635ee0669169aa3e416112ac97379d",
+      "size": 793
+    },
+    {
+      "path": "icons/folder_type_git_opened.svg",
+      "gitBlobSha": "1ef445f51cc562b9bfd7771ec80fd86ed545e3fa",
+      "size": 913
+    },
+    {
+      "path": "icons/folder_type_github.svg",
+      "gitBlobSha": "c5cba63f3ef050044728edb853b3f57188f8d50d",
+      "size": 954
+    },
+    {
+      "path": "icons/folder_type_github_opened.svg",
+      "gitBlobSha": "b31e28c0d051c86c462e7899c70c88a0e52f4f55",
+      "size": 995
+    },
+    {
+      "path": "icons/folder_type_gitlab.svg",
+      "gitBlobSha": "320530c004b5b36da840364ab4aa5d14e96a94e1",
+      "size": 967
+    },
+    {
+      "path": "icons/folder_type_gitlab_opened.svg",
+      "gitBlobSha": "63f4951cb918c31f1ba9eadd4f02869085fc6cde",
+      "size": 1083
+    },
+    {
+      "path": "icons/folder_type_godot.svg",
+      "gitBlobSha": "34899e58fba30d09c15aa4a5794acea71eb27bfb",
+      "size": 2470
+    },
+    {
+      "path": "icons/folder_type_godot_opened.svg",
+      "gitBlobSha": "4d99d4dbf3e5f5b910262fef9dc45e682b1aee71",
+      "size": 2484
+    },
+    {
+      "path": "icons/folder_type_gradle.svg",
+      "gitBlobSha": "e7d9acfe63b7f137dbc96fc7f37fe82a011c34a6",
+      "size": 1112
+    },
+    {
+      "path": "icons/folder_type_gradle_opened.svg",
+      "gitBlobSha": "8c873269e328d3e63e70bf8921a733428b76edd0",
+      "size": 1158
+    },
+    {
+      "path": "icons/folder_type_graphql.svg",
+      "gitBlobSha": "eaccfad67c6cb04e9511adacca0884259003eb4d",
+      "size": 965
+    },
+    {
+      "path": "icons/folder_type_graphql_opened.svg",
+      "gitBlobSha": "9d14e9f9600fdf2e72dbbbd087a8f2fa338acb8d",
+      "size": 1095
+    },
+    {
+      "path": "icons/folder_type_grok.svg",
+      "gitBlobSha": "9c07762c97b84f2cc4c6fd87f77864026ee15977",
+      "size": 829
+    },
+    {
+      "path": "icons/folder_type_grok_opened.svg",
+      "gitBlobSha": "09492c97b83f51150363e954fc5d57269c56f7aa",
+      "size": 870
+    },
+    {
+      "path": "icons/folder_type_grunt.svg",
+      "gitBlobSha": "07e37ab3b8fed3d688f5190e2d0380c135379d16",
+      "size": 11963
+    },
+    {
+      "path": "icons/folder_type_grunt_opened.svg",
+      "gitBlobSha": "f6e6fc7e64f0e02917a0177cf291aac10f6e775c",
+      "size": 12083
+    },
+    {
+      "path": "icons/folder_type_gulp.svg",
+      "gitBlobSha": "391cad176c955c64556ef12710aa7cb831a5c52e",
+      "size": 6252
+    },
+    {
+      "path": "icons/folder_type_gulp_opened.svg",
+      "gitBlobSha": "572c7faa755c480391c6e18b2c5a8c8a8fb20fbb",
+      "size": 6353
+    },
+    {
+      "path": "icons/folder_type_haxelib.svg",
+      "gitBlobSha": "52da114a8e1ab28fc94e0b6424a2b1b48624a64f",
+      "size": 1110
+    },
+    {
+      "path": "icons/folder_type_haxelib_opened.svg",
+      "gitBlobSha": "a23435e2a0806d0312e7dfa7082d6f1c9b6a0113",
+      "size": 1230
+    },
+    {
+      "path": "icons/folder_type_helper.svg",
+      "gitBlobSha": "142ab6c658595027673a47abd092a640d76c1d53",
+      "size": 3685
+    },
+    {
+      "path": "icons/folder_type_helper_opened.svg",
+      "gitBlobSha": "cc6d1b0016a0287d57680a4fb9700e4bb3eb0f5a",
+      "size": 3838
+    },
+    {
+      "path": "icons/folder_type_histoire.svg",
+      "gitBlobSha": "b93bdf5b0c0644144f5daa1d15d3897ab605bb7e",
+      "size": 643
+    },
+    {
+      "path": "icons/folder_type_histoire_opened.svg",
+      "gitBlobSha": "6b3aedb2461ce76194ebc4fe85cb3c699ecd956d",
+      "size": 657
+    },
+    {
+      "path": "icons/folder_type_hook.svg",
+      "gitBlobSha": "590f34db9e4c2caa49a7a8cd2e7e957d271a6672",
+      "size": 1264
+    },
+    {
+      "path": "icons/folder_type_hook_opened.svg",
+      "gitBlobSha": "1039aef7544b09e2d7a73593b162b7c021e12cb4",
+      "size": 1384
+    },
+    {
+      "path": "icons/folder_type_husky.svg",
+      "gitBlobSha": "4407505c7064735f073748f2ed61a35ffc20921b",
+      "size": 1705
+    },
+    {
+      "path": "icons/folder_type_husky_opened.svg",
+      "gitBlobSha": "73f7b7d8762c1daa4b7ee00df8aab34a37cebafd",
+      "size": 1749
+    },
+    {
+      "path": "icons/folder_type_idea.svg",
+      "gitBlobSha": "96251c6fedae59ec6c9c57adec75e0cf8d9df2ca",
+      "size": 810
+    },
+    {
+      "path": "icons/folder_type_idea_opened.svg",
+      "gitBlobSha": "1736563e0089c059591adc34b1500a0815a3a2f3",
+      "size": 914
+    },
+    {
+      "path": "icons/folder_type_images.svg",
+      "gitBlobSha": "6f974eef0b7c87a984f842089bf59a0dcbe602d2",
+      "size": 574
+    },
+    {
+      "path": "icons/folder_type_images_opened.svg",
+      "gitBlobSha": "d85ca53247545a65694f30bc77b4948ee0018c14",
+      "size": 694
+    },
+    {
+      "path": "icons/folder_type_include.svg",
+      "gitBlobSha": "e8bdff23b79763feb0876707c7c36f6046767c00",
+      "size": 700
+    },
+    {
+      "path": "icons/folder_type_include_opened.svg",
+      "gitBlobSha": "98fe7abfebcf34168a6210e0eeefc667fdffbe4f",
+      "size": 820
+    },
+    {
+      "path": "icons/folder_type_interfaces.svg",
+      "gitBlobSha": "a8ace33d3a0c3bbf3073ce000eecbef21f894476",
+      "size": 552
+    },
+    {
+      "path": "icons/folder_type_interfaces_opened.svg",
+      "gitBlobSha": "311d9ea31b73281b990f16bcd24399f671c1124f",
+      "size": 593
+    },
+    {
+      "path": "icons/folder_type_ios.svg",
+      "gitBlobSha": "519ab793dbd232628e035b62ff59d8857c8044a8",
+      "size": 731
+    },
+    {
+      "path": "icons/folder_type_ios_opened.svg",
+      "gitBlobSha": "62918967dad28d223f5eef6deb6842e50ba5d6a6",
+      "size": 861
+    },
+    {
+      "path": "icons/folder_type_js.svg",
+      "gitBlobSha": "44911e206eb0f8258cebe5c5d17810f583d3f0a3",
+      "size": 791
+    },
+    {
+      "path": "icons/folder_type_js_opened.svg",
+      "gitBlobSha": "df0d8b9c93604b0a0dad6bcb03eab0ed446cf2aa",
+      "size": 911
+    },
+    {
+      "path": "icons/folder_type_json.svg",
+      "gitBlobSha": "10f42cb93a71477ed08a336e3ea816621fba8eef",
+      "size": 1685
+    },
+    {
+      "path": "icons/folder_type_json_official.svg",
+      "gitBlobSha": "7badef7333be8a7a154cf1c2a168270d8617b7e1",
+      "size": 1130
+    },
+    {
+      "path": "icons/folder_type_json_official_opened.svg",
+      "gitBlobSha": "e8d06933aaa8569c848c7211879fe7c2651e16f0",
+      "size": 1172
+    },
+    {
+      "path": "icons/folder_type_json_opened.svg",
+      "gitBlobSha": "14c11d24651711ec67a8f120a5d101a5906bfd09",
+      "size": 1729
+    },
+    {
+      "path": "icons/folder_type_junie.svg",
+      "gitBlobSha": "b63dd672e5908e00f659c60ec419ad4adf111427",
+      "size": 547
+    },
+    {
+      "path": "icons/folder_type_junie_opened.svg",
+      "gitBlobSha": "072eb61a5843f59c6aa5d1290b7f139c1163b2e8",
+      "size": 582
+    },
+    {
+      "path": "icons/folder_type_kiro.svg",
+      "gitBlobSha": "f49cbd5e27a6fc632d9e3b85cc2848eb576b8311",
+      "size": 777
+    },
+    {
+      "path": "icons/folder_type_kiro_opened.svg",
+      "gitBlobSha": "4a259dbc11346432d07ac3cafeea5bc44af3a5a4",
+      "size": 875
+    },
+    {
+      "path": "icons/folder_type_kotlin.svg",
+      "gitBlobSha": "efd79546f1ca984203ffc8369c80519c59fd1bb9",
+      "size": 661
+    },
+    {
+      "path": "icons/folder_type_kotlin_opened.svg",
+      "gitBlobSha": "128893f4360290c8f804a2d19fb81a378985f5bc",
+      "size": 660
+    },
+    {
+      "path": "icons/folder_type_kubernetes.svg",
+      "gitBlobSha": "175e9da7adf2672fa097e61ff5bf7a4c402c7983",
+      "size": 3572
+    },
+    {
+      "path": "icons/folder_type_kubernetes_opened.svg",
+      "gitBlobSha": "07d434144fdbb437181559b17f37f6558baa45b6",
+      "size": 3692
+    },
+    {
+      "path": "icons/folder_type_less.svg",
+      "gitBlobSha": "c1e5485c8e3b9d224b088eef4c41575ee17941ba",
+      "size": 4028
+    },
+    {
+      "path": "icons/folder_type_less_opened.svg",
+      "gitBlobSha": "00741abf82e4318f24c44a48301451ffeb46059b",
+      "size": 4148
+    },
+    {
+      "path": "icons/folder_type_library.svg",
+      "gitBlobSha": "6bd6722fb282d88be36919f8318e4bb619110fa4",
+      "size": 1498
+    },
+    {
+      "path": "icons/folder_type_library_opened.svg",
+      "gitBlobSha": "48df2a991d667656fb690eeb16a0c33a9b4c124a",
+      "size": 1618
+    },
+    {
+      "path": "icons/folder_type_light_alpine.svg",
+      "gitBlobSha": "7188f32ddec764c4df28c9af6c63735b542e7cac",
+      "size": 1648
+    },
+    {
+      "path": "icons/folder_type_light_alpine_opened.svg",
+      "gitBlobSha": "a6c824baaf848a7a6896aeebf4dc0d9a4b208072",
+      "size": 1752
+    },
+    {
+      "path": "icons/folder_type_light_cursor.svg",
+      "gitBlobSha": "58d1ee20c486719e867e209b1643fd23c9c5f751",
+      "size": 1210
+    },
+    {
+      "path": "icons/folder_type_light_cursor_opened.svg",
+      "gitBlobSha": "3cb22b50fee1905c560bc904c251d69b0dba1489",
+      "size": 1303
+    },
+    {
+      "path": "icons/folder_type_light_cypress.svg",
+      "gitBlobSha": "166aa48e11489d57d1942ddc97a195a923415a55",
+      "size": 2634
+    },
+    {
+      "path": "icons/folder_type_light_cypress_opened.svg",
+      "gitBlobSha": "d1e29c77e0f8fe3a23a74d2baac00dc8b3ca8d61",
+      "size": 2750
+    },
+    {
+      "path": "icons/folder_type_light_devenv.svg",
+      "gitBlobSha": "7f8629fe91620c1f0770bd59ffbff4321ab146c3",
+      "size": 741
+    },
+    {
+      "path": "icons/folder_type_light_devenv_opened.svg",
+      "gitBlobSha": "42dc7b87c5eab1457d7367ac4ed41b7aac865606",
+      "size": 785
+    },
+    {
+      "path": "icons/folder_type_light_electron.svg",
+      "gitBlobSha": "ca0c1ae2b42d4bd918611d8e3fccd6df278e1ad4",
+      "size": 1736
+    },
+    {
+      "path": "icons/folder_type_light_electron_opened.svg",
+      "gitBlobSha": "79a8acb49c77239abd069690f8b454f1a11b9e68",
+      "size": 1782
+    },
+    {
+      "path": "icons/folder_type_light_expo.svg",
+      "gitBlobSha": "c39aa71854ccbd0606ce6292c0c43f0bbf87102b",
+      "size": 1358
+    },
+    {
+      "path": "icons/folder_type_light_expo_opened.svg",
+      "gitBlobSha": "cc6d7bb96da99a0bb7edee01762711af40d75e28",
+      "size": 1434
+    },
+    {
+      "path": "icons/folder_type_light_fedora.svg",
+      "gitBlobSha": "3648b0df762bda6f55c417a7ec60956e19cf5a80",
+      "size": 3646
+    },
+    {
+      "path": "icons/folder_type_light_fedora_opened.svg",
+      "gitBlobSha": "aff9936c9bd1dc73be34f30d507ea60c5e9b6a6b",
+      "size": 3753
+    },
+    {
+      "path": "icons/folder_type_light_fonts.svg",
+      "gitBlobSha": "1d3eab8ac249cfebaf7f7da9a05b731e50503ba8",
+      "size": 1583
+    },
+    {
+      "path": "icons/folder_type_light_fonts_opened.svg",
+      "gitBlobSha": "7ec60be1da9f72db6314edc2a4ed4049f40bb0c9",
+      "size": 1703
+    },
+    {
+      "path": "icons/folder_type_light_gradle.svg",
+      "gitBlobSha": "ea8f97ac4e54436bfa0bd311df23433c889d1320",
+      "size": 1118
+    },
+    {
+      "path": "icons/folder_type_light_gradle_opened.svg",
+      "gitBlobSha": "c49a9a086110056877e99c7fc5d374ef6001c00f",
+      "size": 1164
+    },
+    {
+      "path": "icons/folder_type_light_meteor.svg",
+      "gitBlobSha": "1f5986e30f38e000976bb297ac091322caf87dec",
+      "size": 1020
+    },
+    {
+      "path": "icons/folder_type_light_meteor_opened.svg",
+      "gitBlobSha": "676971b97a0219c8e1c8b785b9331af8a57753d5",
+      "size": 1140
+    },
+    {
+      "path": "icons/folder_type_light_mypy.svg",
+      "gitBlobSha": "b7eea98b4ae96d59c46447c9d994c48812f76c00",
+      "size": 711
+    },
+    {
+      "path": "icons/folder_type_light_mypy_opened.svg",
+      "gitBlobSha": "3107d64ed208013664e5c10388080c56b75f3629",
+      "size": 825
+    },
+    {
+      "path": "icons/folder_type_light_mysql.svg",
+      "gitBlobSha": "3dcf7eceb2a8d6475a1d730db3f0ea0e7cb49d8c",
+      "size": 2460
+    },
+    {
+      "path": "icons/folder_type_light_mysql_opened.svg",
+      "gitBlobSha": "5d156192b4a95c3e6593559c5b4973a2bee24c16",
+      "size": 2513
+    },
+    {
+      "path": "icons/folder_type_light_node.svg",
+      "gitBlobSha": "baca3cbdbcda86a6a891018d5836a0a96dc57b20",
+      "size": 1530
+    },
+    {
+      "path": "icons/folder_type_light_node_opened.svg",
+      "gitBlobSha": "3766a9074c35d10101fc9386a58203e7fe88db4d",
+      "size": 1650
+    },
+    {
+      "path": "icons/folder_type_light_ocx.svg",
+      "gitBlobSha": "cd31c9bc09a064c311085147ac63d498f92aad32",
+      "size": 1786
+    },
+    {
+      "path": "icons/folder_type_light_ocx_opened.svg",
+      "gitBlobSha": "6f02b64edd45f6ee2e678d104127fd85d918db32",
+      "size": 1829
+    },
+    {
+      "path": "icons/folder_type_light_redux.svg",
+      "gitBlobSha": "a72c8e8a387aa82d3189e0e9fd2d8f7022041084",
+      "size": 1404
+    },
+    {
+      "path": "icons/folder_type_light_redux_opened.svg",
+      "gitBlobSha": "1726a6faa2a4ba08eaf71d151e95f716600160c3",
+      "size": 1465
+    },
+    {
+      "path": "icons/folder_type_light_sass.svg",
+      "gitBlobSha": "becc6a79bd79ee5ef0ab8d078068b1e6f2de98c3",
+      "size": 1353
+    },
+    {
+      "path": "icons/folder_type_light_sass_opened.svg",
+      "gitBlobSha": "a6dc10139894aa83635d27ef50b3621415e7d5c4",
+      "size": 1473
+    },
+    {
+      "path": "icons/folder_type_light_zed.svg",
+      "gitBlobSha": "0270ece23b3f4d3e4c571b1fb79f4e7917df5f26",
+      "size": 1101
+    },
+    {
+      "path": "icons/folder_type_light_zed_opened.svg",
+      "gitBlobSha": "f22e9625a655f634c0b6405ca477aecb25166b0c",
+      "size": 1074
+    },
+    {
+      "path": "icons/folder_type_linux.svg",
+      "gitBlobSha": "bc4b513e642458caf131a5fa1333af067cf7922b",
+      "size": 5381
+    },
+    {
+      "path": "icons/folder_type_linux_opened.svg",
+      "gitBlobSha": "fb5e778e92e95a2a4bd70ad85ba3e07599042b30",
+      "size": 5482
+    },
+    {
+      "path": "icons/folder_type_locale.svg",
+      "gitBlobSha": "12544266009b657f4fbadd091f107ce311926407",
+      "size": 1390
+    },
+    {
+      "path": "icons/folder_type_locale_opened.svg",
+      "gitBlobSha": "fc4898bafdb95f724b827cf51bc1533d9e5aa504",
+      "size": 1510
+    },
+    {
+      "path": "icons/folder_type_log.svg",
+      "gitBlobSha": "5beeaf5a1506476b1693d36750e4ff939c650fbe",
+      "size": 1446
+    },
+    {
+      "path": "icons/folder_type_log_opened.svg",
+      "gitBlobSha": "1ea367c0980a9aeecf96cee65815908c46eb01c3",
+      "size": 1566
+    },
+    {
+      "path": "icons/folder_type_macos.svg",
+      "gitBlobSha": "91c5ecc32e4428460bf752006335949e41acc0cc",
+      "size": 1409
+    },
+    {
+      "path": "icons/folder_type_macos_opened.svg",
+      "gitBlobSha": "119bca8ae88a43c2e93e93050661ba073dae9943",
+      "size": 1510
+    },
+    {
+      "path": "icons/folder_type_mariadb.svg",
+      "gitBlobSha": "bada5fa28add7fa738e0a0750f29c2a7dff9c134",
+      "size": 2507
+    },
+    {
+      "path": "icons/folder_type_mariadb_opened.svg",
+      "gitBlobSha": "cfc5550953620e419bfb5bae205b3caff2767feb",
+      "size": 2613
+    },
+    {
+      "path": "icons/folder_type_maven.svg",
+      "gitBlobSha": "fb007d78811698754cc7a38d2d8989085db6cf73",
+      "size": 14953
+    },
+    {
+      "path": "icons/folder_type_maven_opened.svg",
+      "gitBlobSha": "89cbc901fb1b2a23053e5c1e046c128c0f37a75b",
+      "size": 15073
+    },
+    {
+      "path": "icons/folder_type_mediawiki.svg",
+      "gitBlobSha": "9909a925d36fa4c2de84a62f123ac8ff7250bfdb",
+      "size": 9779
+    },
+    {
+      "path": "icons/folder_type_mediawiki_opened.svg",
+      "gitBlobSha": "b1d5e6fce6108b3b8b4c4a3048951fdb56d98d7c",
+      "size": 9883
+    },
+    {
+      "path": "icons/folder_type_memcached.svg",
+      "gitBlobSha": "6728226a7f580b5b1f2465a87e9885f633c8a590",
+      "size": 9715
+    },
+    {
+      "path": "icons/folder_type_memcached_opened.svg",
+      "gitBlobSha": "a4628e752004a83be5349d8baf8a658fef5449e7",
+      "size": 9761
+    },
+    {
+      "path": "icons/folder_type_meteor.svg",
+      "gitBlobSha": "c6d826b69f9864a782bb11eff4eb76e81a3d0e98",
+      "size": 993
+    },
+    {
+      "path": "icons/folder_type_meteor_opened.svg",
+      "gitBlobSha": "da458c4c2be05e434d8593244fa45e9a86de289c",
+      "size": 1113
+    },
+    {
+      "path": "icons/folder_type_middleware.svg",
+      "gitBlobSha": "ece2482d3c5b6b0f4a1a064f11bcbca980d50b23",
+      "size": 1389
+    },
+    {
+      "path": "icons/folder_type_middleware_opened.svg",
+      "gitBlobSha": "4725feb8bc2829b2d3957401349421873844aa5e",
+      "size": 1431
+    },
+    {
+      "path": "icons/folder_type_minecraft.svg",
+      "gitBlobSha": "c4c73c776afd64ff411355289ea2ab59d5283e3f",
+      "size": 710
+    },
+    {
+      "path": "icons/folder_type_minecraft_opened.svg",
+      "gitBlobSha": "8f38200499c04058cf679aadf9c549e65a6aa6a2",
+      "size": 753
+    },
+    {
+      "path": "icons/folder_type_minikube.svg",
+      "gitBlobSha": "7d1050e62b700f4347514a18a5e75bf4a01c2e2c",
+      "size": 3397
+    },
+    {
+      "path": "icons/folder_type_minikube_opened.svg",
+      "gitBlobSha": "13f915b5af5e3fc16f3ae7d670bffd4099f60845",
+      "size": 3498
+    },
+    {
+      "path": "icons/folder_type_mjml.svg",
+      "gitBlobSha": "f5b939a2641b487310bc337465e7bdd611a2e1e4",
+      "size": 1282
+    },
+    {
+      "path": "icons/folder_type_mjml_opened.svg",
+      "gitBlobSha": "67ac9c725c7249223364332c8c5874e98cb5b2bb",
+      "size": 1402
+    },
+    {
+      "path": "icons/folder_type_mobile.svg",
+      "gitBlobSha": "7f8a3ab029c74a5d354581efa94fed9b321cece1",
+      "size": 843
+    },
+    {
+      "path": "icons/folder_type_mobile_opened.svg",
+      "gitBlobSha": "b30145e29faad3688f8b56afbc76183112d6b282",
+      "size": 920
+    },
+    {
+      "path": "icons/folder_type_mock.svg",
+      "gitBlobSha": "a9d05cb290544c6b2e0038414ed5350b264f1f6a",
+      "size": 1160
+    },
+    {
+      "path": "icons/folder_type_mock_opened.svg",
+      "gitBlobSha": "ec96d250976181ad3dadd1f969a8a6cb9df3b23c",
+      "size": 1261
+    },
+    {
+      "path": "icons/folder_type_model.svg",
+      "gitBlobSha": "e95eb8d573fdd73ad7d924eb4cfb24745288e875",
+      "size": 1517
+    },
+    {
+      "path": "icons/folder_type_model_opened.svg",
+      "gitBlobSha": "04f0568b153b9c772e0340466e21eb2c7a35c4ff",
+      "size": 1637
+    },
+    {
+      "path": "icons/folder_type_module.svg",
+      "gitBlobSha": "fa35274a58caee922478c6c4078da1787fba754b",
+      "size": 3908
+    },
+    {
+      "path": "icons/folder_type_module_opened.svg",
+      "gitBlobSha": "1d3988bfdbcb317d1954a01efbcfd4556ababeb8",
+      "size": 5618
+    },
+    {
+      "path": "icons/folder_type_mojo.svg",
+      "gitBlobSha": "9b1322aa51c04c5a6d2e3ffd8dde049b46f6d841",
+      "size": 1788
+    },
+    {
+      "path": "icons/folder_type_mojo_opened.svg",
+      "gitBlobSha": "452bd5dfeae278249aeb576412b4bc9402798a90",
+      "size": 1833
+    },
+    {
+      "path": "icons/folder_type_mongodb.svg",
+      "gitBlobSha": "275d31380328f2eddd0ad24709804a93afaaa78c",
+      "size": 553
+    },
+    {
+      "path": "icons/folder_type_mongodb_opened.svg",
+      "gitBlobSha": "30b252d76c1eb90646471bc696987cf98c992690",
+      "size": 623
+    },
+    {
+      "path": "icons/folder_type_mypy.svg",
+      "gitBlobSha": "b918c47cbbbced998c353df7dd9bae6f1afb5a15",
+      "size": 705
+    },
+    {
+      "path": "icons/folder_type_mypy_opened.svg",
+      "gitBlobSha": "e3d5f78cb5ec8348f879144466ca87f30ae489c5",
+      "size": 819
+    },
+    {
+      "path": "icons/folder_type_mysql.svg",
+      "gitBlobSha": "842edb24f5a5a57dd39adee237e8e8b85515e792",
+      "size": 2451
+    },
+    {
+      "path": "icons/folder_type_mysql_opened.svg",
+      "gitBlobSha": "f17c4acc317a964d9036a7656d7b4e9dec9989eb",
+      "size": 2507
+    },
+    {
+      "path": "icons/folder_type_netlify.svg",
+      "gitBlobSha": "ed7b67c691678f15da91677a7c51aba380dbe95c",
+      "size": 777
+    },
+    {
+      "path": "icons/folder_type_netlify_opened.svg",
+      "gitBlobSha": "f56bb303baa7303fd032c4ad15dd0142b28edcb7",
+      "size": 813
+    },
+    {
+      "path": "icons/folder_type_next.svg",
+      "gitBlobSha": "8cbbfb5cf542e1e722201dca8eb0a0d066f99e83",
+      "size": 1333
+    },
+    {
+      "path": "icons/folder_type_next_opened.svg",
+      "gitBlobSha": "bf8d82c84cd248c2ccb63446aed72c456372fbd7",
+      "size": 1368
+    },
+    {
+      "path": "icons/folder_type_nginx.svg",
+      "gitBlobSha": "1d7bcc87d73ff3dd2b13176ad0f04a6c017efe8b",
+      "size": 932
+    },
+    {
+      "path": "icons/folder_type_nginx_opened.svg",
+      "gitBlobSha": "78b5f99f2cbe3bfc91517b0f334673b2feba59bc",
+      "size": 1052
+    },
+    {
+      "path": "icons/folder_type_nix.svg",
+      "gitBlobSha": "bc2ad343cb5156edbc0dc98bcfd5c9f6d6dfe597",
+      "size": 3077
+    },
+    {
+      "path": "icons/folder_type_nix_opened.svg",
+      "gitBlobSha": "34c1ee0fe35731f9c72daac95f237e925e01a107",
+      "size": 3211
+    },
+    {
+      "path": "icons/folder_type_node.svg",
+      "gitBlobSha": "158670ec89e7a279e70a4151bd0d73dfd1523471",
+      "size": 1451
+    },
+    {
+      "path": "icons/folder_type_node_opened.svg",
+      "gitBlobSha": "20ed5170bb3290c638b0c0f23245fbd31c1f410a",
+      "size": 1571
+    },
+    {
+      "path": "icons/folder_type_notebooks.svg",
+      "gitBlobSha": "c36ce42e3a4757da7b99c1dcbe5d034895c90437",
+      "size": 837
+    },
+    {
+      "path": "icons/folder_type_notebooks_opened.svg",
+      "gitBlobSha": "bb14e04e8cb625ad34cb7ad808f67ccd723fa55f",
+      "size": 960
+    },
+    {
+      "path": "icons/folder_type_notification.svg",
+      "gitBlobSha": "16ddede70bc2e08af8c9e2986572e159fb1d7b1b",
+      "size": 1169
+    },
+    {
+      "path": "icons/folder_type_notification_opened.svg",
+      "gitBlobSha": "1cb60edbf29b897f34c62d5749abb1a09a40b58f",
+      "size": 1211
+    },
+    {
+      "path": "icons/folder_type_nuget.svg",
+      "gitBlobSha": "ec0dbe3e588a454f13679068fa3cb6106a3231b0",
+      "size": 1802
+    },
+    {
+      "path": "icons/folder_type_nuget_opened.svg",
+      "gitBlobSha": "07e52f1885f009a063dbdd3cf3b01add84ceb0ae",
+      "size": 1922
+    },
+    {
+      "path": "icons/folder_type_nuxt.svg",
+      "gitBlobSha": "aa101721fb6cc82cf7e247ff509e724aa6e6e8cf",
+      "size": 1132
+    },
+    {
+      "path": "icons/folder_type_nuxt_opened.svg",
+      "gitBlobSha": "9f5e405e77b8cbaf8b84180c3a150fa75d4cd4d2",
+      "size": 1120
+    },
+    {
+      "path": "icons/folder_type_ocx.svg",
+      "gitBlobSha": "2eb6df87786b5e43fe21bbd6023403327bbaf92b",
+      "size": 1780
+    },
+    {
+      "path": "icons/folder_type_ocx_opened.svg",
+      "gitBlobSha": "4dbfcfd19aed5e1561cf909bcc6ba5b2cf10073f",
+      "size": 1823
+    },
+    {
+      "path": "icons/folder_type_ohpm.svg",
+      "gitBlobSha": "316423927b1eed9307360b83c660acb351188f5a",
+      "size": 2145
+    },
+    {
+      "path": "icons/folder_type_ohpm_opened.svg",
+      "gitBlobSha": "1a5d36457f5c2469995fa88c24f78aae36d555b2",
+      "size": 2217
+    },
+    {
+      "path": "icons/folder_type_package.svg",
+      "gitBlobSha": "1570934b57b1ff81a82128c266abb41996b15243",
+      "size": 1305
+    },
+    {
+      "path": "icons/folder_type_package_opened.svg",
+      "gitBlobSha": "7104fd2c66e253e47c8e6a73110943d0d5123b0f",
+      "size": 1425
+    },
+    {
+      "path": "icons/folder_type_paket.svg",
+      "gitBlobSha": "d8343d4e293832f6d7681d310ae5731b7a666ffb",
+      "size": 1123
+    },
+    {
+      "path": "icons/folder_type_paket_opened.svg",
+      "gitBlobSha": "ea27ac204146acf4f8aae1dc175d58b82192171b",
+      "size": 1242
+    },
+    {
+      "path": "icons/folder_type_php.svg",
+      "gitBlobSha": "674ba2b7fb3abbf59a654d9235e270cc31220d10",
+      "size": 2746
+    },
+    {
+      "path": "icons/folder_type_php_opened.svg",
+      "gitBlobSha": "40233456fe3c8afd52faca9ccce5773876c666bd",
+      "size": 2862
+    },
+    {
+      "path": "icons/folder_type_platformio.svg",
+      "gitBlobSha": "def28425ae2eee5f001beae42120082cac5866ca",
+      "size": 1397
+    },
+    {
+      "path": "icons/folder_type_platformio_opened.svg",
+      "gitBlobSha": "4ceb0bde13d264758cc287809c92c2d2057331bf",
+      "size": 1441
+    },
+    {
+      "path": "icons/folder_type_plugin.svg",
+      "gitBlobSha": "18ac9a014a5f2d565c8aea93adb7a3dc3a6baf4f",
+      "size": 461
+    },
+    {
+      "path": "icons/folder_type_plugin_opened.svg",
+      "gitBlobSha": "8c57002253adaf9c5e9637480ee99134c58a92ad",
+      "size": 581
+    },
+    {
+      "path": "icons/folder_type_prisma.svg",
+      "gitBlobSha": "e4b467c2fb1022582e3d144ed39f6599feca661d",
+      "size": 788
+    },
+    {
+      "path": "icons/folder_type_prisma_opened.svg",
+      "gitBlobSha": "870bfafd3807ebf1398bed42b39513449b169baa",
+      "size": 897
+    },
+    {
+      "path": "icons/folder_type_private.svg",
+      "gitBlobSha": "d7f84a9fb01f82e1aa320995335fce1e2709e9d5",
+      "size": 417
+    },
+    {
+      "path": "icons/folder_type_private_opened.svg",
+      "gitBlobSha": "26b4c3ce701d07663e2e1dff6bd3c5743344fdb5",
+      "size": 553
+    },
+    {
+      "path": "icons/folder_type_public.svg",
+      "gitBlobSha": "edced71a228aea86e9e6aed732c06d95a99b24da",
+      "size": 849
+    },
+    {
+      "path": "icons/folder_type_public_opened.svg",
+      "gitBlobSha": "668d69bf03df9a13aa70078bfe37bd9f5b468c62",
+      "size": 1142
+    },
+    {
+      "path": "icons/folder_type_pytest.svg",
+      "gitBlobSha": "6aee5d8759ed588bea75f1d565796a452a0513b7",
+      "size": 591
+    },
+    {
+      "path": "icons/folder_type_pytest_opened.svg",
+      "gitBlobSha": "522a9e5d806e87ec0aa2bc76c2a72ba3b0197e4d",
+      "size": 688
+    },
+    {
+      "path": "icons/folder_type_python.svg",
+      "gitBlobSha": "ae4dfc2254c822ab1c6b95e8878c67ceac186fa4",
+      "size": 1443
+    },
+    {
+      "path": "icons/folder_type_python_opened.svg",
+      "gitBlobSha": "8246504f3f41bfd4b9692b1e292f8fe4253574d7",
+      "size": 1489
+    },
+    {
+      "path": "icons/folder_type_ravendb.svg",
+      "gitBlobSha": "cc26a3a4b43b9d50c0599fcb037310db7a72d6aa",
+      "size": 3559
+    },
+    {
+      "path": "icons/folder_type_ravendb_opened.svg",
+      "gitBlobSha": "aa49b8f62cc46530951b2c7ed7b2a1debc6686cd",
+      "size": 3679
+    },
+    {
+      "path": "icons/folder_type_redhat.svg",
+      "gitBlobSha": "17666f9b11dded72a608c3ecbd9f35247f1f4f68",
+      "size": 1207
+    },
+    {
+      "path": "icons/folder_type_redhat_opened.svg",
+      "gitBlobSha": "bfc25c3b62102ca912578e46190310072b621943",
+      "size": 1234
+    },
+    {
+      "path": "icons/folder_type_redis.svg",
+      "gitBlobSha": "5ce5e77d429ec97ed3592d6d0f02fa62b3fdc84f",
+      "size": 2415
+    },
+    {
+      "path": "icons/folder_type_redis_opened.svg",
+      "gitBlobSha": "a0f48bedf9f57e80f9451f555f0f42e76702ff78",
+      "size": 2535
+    },
+    {
+      "path": "icons/folder_type_redux.svg",
+      "gitBlobSha": "4312f6a3725e0ed841bfe8de54043bf86616aded",
+      "size": 1398
+    },
+    {
+      "path": "icons/folder_type_redux_opened.svg",
+      "gitBlobSha": "e65f8b211baa1eb3e537852305c64bcd1e726783",
+      "size": 1459
+    },
+    {
+      "path": "icons/folder_type_route.svg",
+      "gitBlobSha": "c4f31cc4be6edabb8d19ac0a1c9b66b5bb0c41e2",
+      "size": 1065
+    },
+    {
+      "path": "icons/folder_type_route_opened.svg",
+      "gitBlobSha": "d370d5f205fc48f9ed4d96e07cb04c4cc3198f29",
+      "size": 1185
+    },
+    {
+      "path": "icons/folder_type_sass.svg",
+      "gitBlobSha": "683023f953b94b6ff0edffb3beb282c36ddbb667",
+      "size": 1374
+    },
+    {
+      "path": "icons/folder_type_sass_opened.svg",
+      "gitBlobSha": "fbb075c3d8307d4e44a33e6b1e87ddf13b4aa68e",
+      "size": 1494
+    },
+    {
+      "path": "icons/folder_type_schema.svg",
+      "gitBlobSha": "947d49be5089d9d18fcbbe2ec3f8d721a9b0e028",
+      "size": 1184
+    },
+    {
+      "path": "icons/folder_type_schema_opened.svg",
+      "gitBlobSha": "651b863e64ea5a9ed2a91724b2edc75cf078c14e",
+      "size": 1173
+    },
+    {
+      "path": "icons/folder_type_script.svg",
+      "gitBlobSha": "6b3673d7a7e538bf73ba8c63ea58e9b66c47005f",
+      "size": 1785
+    },
+    {
+      "path": "icons/folder_type_script_opened.svg",
+      "gitBlobSha": "11fbdb120d83c32360f0a96f1b0755301bbf5ad5",
+      "size": 1842
+    },
+    {
+      "path": "icons/folder_type_seedkit.svg",
+      "gitBlobSha": "2fa640343451c101f07d4df7da65f1ac0f8fce4e",
+      "size": 958
+    },
+    {
+      "path": "icons/folder_type_seedkit_opened.svg",
+      "gitBlobSha": "ed571cf5c36eaedebb5f6a59b5cef6a39e2fabd6",
+      "size": 1003
+    },
+    {
+      "path": "icons/folder_type_server.svg",
+      "gitBlobSha": "b64e04b6c798f83bc417fe1b4c1678455f4194a9",
+      "size": 6145
+    },
+    {
+      "path": "icons/folder_type_server_opened.svg",
+      "gitBlobSha": "b86552673a94a0fd261bb400c995cce47a233194",
+      "size": 6265
+    },
+    {
+      "path": "icons/folder_type_services.svg",
+      "gitBlobSha": "f96aac4ea5e0c7cdf5c675baa27c3a54c570bcc0",
+      "size": 4286
+    },
+    {
+      "path": "icons/folder_type_services_opened.svg",
+      "gitBlobSha": "fc9317f3841b7061ab0dde234f5af96a4d5a0b44",
+      "size": 4330
+    },
+    {
+      "path": "icons/folder_type_shared.svg",
+      "gitBlobSha": "db4eee81cbf39441263df1dad0a0ac869b8bab25",
+      "size": 694
+    },
+    {
+      "path": "icons/folder_type_shared_opened.svg",
+      "gitBlobSha": "606f7748f9faa78f3853b40b72b772923e0311c7",
+      "size": 787
+    },
+    {
+      "path": "icons/folder_type_slackware.svg",
+      "gitBlobSha": "0e734a18d6ffa788f9270b35dc0587c44a2ad33d",
+      "size": 1462
+    },
+    {
+      "path": "icons/folder_type_slackware_opened.svg",
+      "gitBlobSha": "66fa79e94e2bd5726ff8f7eec0e2c723b05b6a22",
+      "size": 1566
+    },
+    {
+      "path": "icons/folder_type_snaplet.svg",
+      "gitBlobSha": "3ab79a28ee62dea96aecfa1771bb2c4f71914e84",
+      "size": 4148
+    },
+    {
+      "path": "icons/folder_type_snaplet_opened.svg",
+      "gitBlobSha": "a95d762cdbb538a409c0444ff47f41e60c15789e",
+      "size": 4261
+    },
+    {
+      "path": "icons/folder_type_spin.svg",
+      "gitBlobSha": "9189be8023cc5adf5d1019e7406b2569e436decd",
+      "size": 823
+    },
+    {
+      "path": "icons/folder_type_spin_opened.svg",
+      "gitBlobSha": "d46a6f6d56aad615a69a6ead99d99f079789c32c",
+      "size": 823
+    },
+    {
+      "path": "icons/folder_type_src.svg",
+      "gitBlobSha": "ff56a086d092a46fb6d799cf0d5ad206634fc86d",
+      "size": 1030
+    },
+    {
+      "path": "icons/folder_type_src_opened.svg",
+      "gitBlobSha": "ddf7e62b96f900f4c0c1555b5f1aeb59d43b576d",
+      "size": 1150
+    },
+    {
+      "path": "icons/folder_type_sso.svg",
+      "gitBlobSha": "8ec2416caa6952ec990b852e634434b7e357c2f0",
+      "size": 3449
+    },
+    {
+      "path": "icons/folder_type_sso_opened.svg",
+      "gitBlobSha": "34ceb5edc7a578fae61286e66a9f22f9cd6ed45b",
+      "size": 3493
+    },
+    {
+      "path": "icons/folder_type_story.svg",
+      "gitBlobSha": "0e2a338f5f450fd65375f7ecbd252c6eae073e73",
+      "size": 1121
+    },
+    {
+      "path": "icons/folder_type_story_opened.svg",
+      "gitBlobSha": "2468e476202861204eced59bbbe576740fd3a548",
+      "size": 1161
+    },
+    {
+      "path": "icons/folder_type_style.svg",
+      "gitBlobSha": "de0022860ca75e098bfdeb9e13942f7789de985d",
+      "size": 1470
+    },
+    {
+      "path": "icons/folder_type_style_opened.svg",
+      "gitBlobSha": "af7e1d65e8d390777776b1161e9c2b7385076c9d",
+      "size": 1590
+    },
+    {
+      "path": "icons/folder_type_supabase.svg",
+      "gitBlobSha": "ba0355af739ffad69c7901520eef9af169813635",
+      "size": 2494
+    },
+    {
+      "path": "icons/folder_type_supabase_opened.svg",
+      "gitBlobSha": "ffedf90e6e8278f0159b75a8b9159db1672c8cc1",
+      "size": 2592
+    },
+    {
+      "path": "icons/folder_type_suse.svg",
+      "gitBlobSha": "683816160701a5ce4e98343e7242ace95ab64bd2",
+      "size": 3228
+    },
+    {
+      "path": "icons/folder_type_suse_opened.svg",
+      "gitBlobSha": "b01816019e4ae62d645918fbe285825de82811ea",
+      "size": 3332
+    },
+    {
+      "path": "icons/folder_type_svelte.svg",
+      "gitBlobSha": "e789424541d8dc3937496319b66f4e1c48d2dce7",
+      "size": 1369
+    },
+    {
+      "path": "icons/folder_type_svelte_opened.svg",
+      "gitBlobSha": "70738b4a6386d0a31f2075c51978d760c7e896b7",
+      "size": 1489
+    },
+    {
+      "path": "icons/folder_type_swagger.svg",
+      "gitBlobSha": "2b61b487f1fb9655d050ae57fc7071b8c886ed27",
+      "size": 1637
+    },
+    {
+      "path": "icons/folder_type_swagger_opened.svg",
+      "gitBlobSha": "47718120b37d4ba2edcda8f323f170dd60e4dc77",
+      "size": 1717
+    },
+    {
+      "path": "icons/folder_type_tauri.svg",
+      "gitBlobSha": "d32425b9873b6801882a8f4fad5f0d6689cc5e1e",
+      "size": 830
+    },
+    {
+      "path": "icons/folder_type_tauri_opened.svg",
+      "gitBlobSha": "c0ab7cc154b4246443f02d8d378bbe0177be7101",
+      "size": 950
+    },
+    {
+      "path": "icons/folder_type_telegram.svg",
+      "gitBlobSha": "fceb59446fba503e44fe498146cc69c9c44870b8",
+      "size": 1237
+    },
+    {
+      "path": "icons/folder_type_telegram_opened.svg",
+      "gitBlobSha": "a5c08df87438301af10210f139ad3cd18f86051e",
+      "size": 1253
+    },
+    {
+      "path": "icons/folder_type_temp.svg",
+      "gitBlobSha": "b37c5f3d87eb1755bcd794c3b979e8c7767f928d",
+      "size": 649
+    },
+    {
+      "path": "icons/folder_type_temp_opened.svg",
+      "gitBlobSha": "bc947b2e28a029b93aebfee86d0993e34b822564",
+      "size": 736
+    },
+    {
+      "path": "icons/folder_type_template.svg",
+      "gitBlobSha": "1c7bc3072898b0aa3c8038cf4d087762cd5575c7",
+      "size": 946
+    },
+    {
+      "path": "icons/folder_type_template_opened.svg",
+      "gitBlobSha": "f43a8c9db322c4a8565316c134e138dd5b50302e",
+      "size": 1066
+    },
+    {
+      "path": "icons/folder_type_test.svg",
+      "gitBlobSha": "a312a141f86d33f8046a532c8951f7d3ae43e80c",
+      "size": 1232
+    },
+    {
+      "path": "icons/folder_type_test_opened.svg",
+      "gitBlobSha": "f595147b0550d0d88f8dc7d5210d8ccb2c49d8aa",
+      "size": 1352
+    },
+    {
+      "path": "icons/folder_type_theme.svg",
+      "gitBlobSha": "960759b5b43842cfe5bf9c098626a3a101988e51",
+      "size": 3403
+    },
+    {
+      "path": "icons/folder_type_theme_opened.svg",
+      "gitBlobSha": "8a373691ea80718be30f140523a815338403c023",
+      "size": 3437
+    },
+    {
+      "path": "icons/folder_type_tools.svg",
+      "gitBlobSha": "f8e151f1c865d63ca3f0d679243aa0ad41a5b082",
+      "size": 1771
+    },
+    {
+      "path": "icons/folder_type_tools_opened.svg",
+      "gitBlobSha": "15fee2d8f7fe17d2de1a9391dd2289e10745eef9",
+      "size": 1891
+    },
+    {
+      "path": "icons/folder_type_travis.svg",
+      "gitBlobSha": "d5e68f00f1cdaa9348c9460f6faff13fd855ca33",
+      "size": 16541
+    },
+    {
+      "path": "icons/folder_type_travis_opened.svg",
+      "gitBlobSha": "d2ce61ed131c2756b4f1f67df5f9413f55131178",
+      "size": 16661
+    },
+    {
+      "path": "icons/folder_type_trunk.svg",
+      "gitBlobSha": "c51ed53a3069c7631b44bc82eb6feb1009870d8e",
+      "size": 810
+    },
+    {
+      "path": "icons/folder_type_trunk_opened.svg",
+      "gitBlobSha": "7e3e7ff75584e383a3ce5ced7785483489a9aca3",
+      "size": 944
+    },
+    {
+      "path": "icons/folder_type_turbo.svg",
+      "gitBlobSha": "6cb52e3c9f7321620f698a694f735a8285ea8aa6",
+      "size": 949
+    },
+    {
+      "path": "icons/folder_type_turbo_opened.svg",
+      "gitBlobSha": "d4cb1a4340079081329f4f272d9722304e69a6ac",
+      "size": 989
+    },
+    {
+      "path": "icons/folder_type_typescript.svg",
+      "gitBlobSha": "bbb3234809df158fa10a10c7a085393966010c20",
+      "size": 2902
+    },
+    {
+      "path": "icons/folder_type_typescript_opened.svg",
+      "gitBlobSha": "0238faf640d976a5fb2d4c201eac9d1f0995ac6a",
+      "size": 3022
+    },
+    {
+      "path": "icons/folder_type_typings.svg",
+      "gitBlobSha": "fab9fd03d0c8649bdc989bf790051d0229073b50",
+      "size": 2899
+    },
+    {
+      "path": "icons/folder_type_typings2.svg",
+      "gitBlobSha": "678e6f4250a2a1deccd6b4507419b3a0a3781d9d",
+      "size": 1095
+    },
+    {
+      "path": "icons/folder_type_typings2_opened.svg",
+      "gitBlobSha": "f99fc147a03601768c8833316bbefd0b9710d5d2",
+      "size": 1215
+    },
+    {
+      "path": "icons/folder_type_typings_opened.svg",
+      "gitBlobSha": "c0c57961617b3b000d6e0856be9964fd89d0d5ea",
+      "size": 3019
+    },
+    {
+      "path": "icons/folder_type_vagrant.svg",
+      "gitBlobSha": "5981942efc430858405eefc30a09e9b5d94b98bb",
+      "size": 2739
+    },
+    {
+      "path": "icons/folder_type_vagrant_opened.svg",
+      "gitBlobSha": "c2394997c3b1cd2bf966946007b6e12f4f9263d3",
+      "size": 2859
+    },
+    {
+      "path": "icons/folder_type_vercel.svg",
+      "gitBlobSha": "d89bf95e8355fcb273f6f0e7a14ae2637cca2fc1",
+      "size": 954
+    },
+    {
+      "path": "icons/folder_type_vercel_opened.svg",
+      "gitBlobSha": "8ea60b848dc6a978f4ee723c760e0d4993d52c16",
+      "size": 954
+    },
+    {
+      "path": "icons/folder_type_video.svg",
+      "gitBlobSha": "214e234c9de83d9c5d30b660c725f29b6d6fe9ad",
+      "size": 3741
+    },
+    {
+      "path": "icons/folder_type_video_opened.svg",
+      "gitBlobSha": "73be14a7cf63b187d529996068370916d9614079",
+      "size": 3861
+    },
+    {
+      "path": "icons/folder_type_view.svg",
+      "gitBlobSha": "01a7e243b284baf0202663a998289b0e1be3bae3",
+      "size": 697
+    },
+    {
+      "path": "icons/folder_type_view_opened.svg",
+      "gitBlobSha": "e9f2aa293802f2f5ebf8a135a056117cfbc0fc08",
+      "size": 817
+    },
+    {
+      "path": "icons/folder_type_vitepress.svg",
+      "gitBlobSha": "1d6536acda54f6d0172d9e915bab5f4734e7cc02",
+      "size": 2272
+    },
+    {
+      "path": "icons/folder_type_vitepress_opened.svg",
+      "gitBlobSha": "01f1b988040e9a98f8de253604ec84b8f14335bf",
+      "size": 2286
+    },
+    {
+      "path": "icons/folder_type_void.svg",
+      "gitBlobSha": "bbcf04732b042f4d64224acad00648ef20033561",
+      "size": 3302
+    },
+    {
+      "path": "icons/folder_type_void_opened.svg",
+      "gitBlobSha": "fbdea90fc3ba1055dd2202a32ca766aa2a3dc9b9",
+      "size": 3406
+    },
+    {
+      "path": "icons/folder_type_vs.svg",
+      "gitBlobSha": "f1305f1a31aeb8f3c040aacda2c1a4e9d1dab9ad",
+      "size": 1239
+    },
+    {
+      "path": "icons/folder_type_vs2.svg",
+      "gitBlobSha": "5c037c6f0613ed2737777764e573f15135a715a1",
+      "size": 611
+    },
+    {
+      "path": "icons/folder_type_vs2_opened.svg",
+      "gitBlobSha": "a4e0b9b59ea7a7b1bad0f7f5c78e873d6066cbd3",
+      "size": 731
+    },
+    {
+      "path": "icons/folder_type_vs_opened.svg",
+      "gitBlobSha": "60aefc12a133dbda0710c9c425ea50129222f391",
+      "size": 1131
+    },
+    {
+      "path": "icons/folder_type_vscode.svg",
+      "gitBlobSha": "550ebee7134ddda600f4b9be354964b1de2c4a4f",
+      "size": 967
+    },
+    {
+      "path": "icons/folder_type_vscode2.svg",
+      "gitBlobSha": "11c2020a1d8e049e7b55b55709f80544bacd769f",
+      "size": 380
+    },
+    {
+      "path": "icons/folder_type_vscode2_opened.svg",
+      "gitBlobSha": "f13d012d2ee1182c26eeb89ab01d93a593dc4104",
+      "size": 500
+    },
+    {
+      "path": "icons/folder_type_vscode3.svg",
+      "gitBlobSha": "aa0305e4cdad07b7191b0f3481d04cb1925ce1ed",
+      "size": 615
+    },
+    {
+      "path": "icons/folder_type_vscode3_opened.svg",
+      "gitBlobSha": "aba174893062c5e1578d3a4490a3d413b9cf2c42",
+      "size": 735
+    },
+    {
+      "path": "icons/folder_type_vscode_opened.svg",
+      "gitBlobSha": "6ecfbce87db8fd47a25d155053d929e859a3595e",
+      "size": 1011
+    },
+    {
+      "path": "icons/folder_type_vscode_test.svg",
+      "gitBlobSha": "5ddd9abe93a8dc15aa2bc81ce57f6d5c5c4593b6",
+      "size": 972
+    },
+    {
+      "path": "icons/folder_type_vscode_test2.svg",
+      "gitBlobSha": "d5dc4b95e9ec214bedaf2d6eba2756396054c21f",
+      "size": 385
+    },
+    {
+      "path": "icons/folder_type_vscode_test2_opened.svg",
+      "gitBlobSha": "5541a68299a0b731b24629946a25d15ad9842d75",
+      "size": 505
+    },
+    {
+      "path": "icons/folder_type_vscode_test3.svg",
+      "gitBlobSha": "ba49fe30d4c2732f2f9a75c15df43533390b0207",
+      "size": 620
+    },
+    {
+      "path": "icons/folder_type_vscode_test3_opened.svg",
+      "gitBlobSha": "22fb0b40643a1358feb54cd1d42353e87d02f386",
+      "size": 740
+    },
+    {
+      "path": "icons/folder_type_vscode_test_opened.svg",
+      "gitBlobSha": "faec58137335d6fed017890922e60c7865d271d0",
+      "size": 1016
+    },
+    {
+      "path": "icons/folder_type_wasm.svg",
+      "gitBlobSha": "c8b3a05acd0c784ba4f322372915334562ccb6e7",
+      "size": 674
+    },
+    {
+      "path": "icons/folder_type_wasm_opened.svg",
+      "gitBlobSha": "1b2a6e410e438347fc8e47909ef579914b15de1d",
+      "size": 709
+    },
+    {
+      "path": "icons/folder_type_wasp.svg",
+      "gitBlobSha": "fc1a9f598bfbbcde19e949e59ed5bd1e6529e811",
+      "size": 783
+    },
+    {
+      "path": "icons/folder_type_wasp_opened.svg",
+      "gitBlobSha": "10798b65d55b4828a0df9cbcb42d7c2d72fc5e48",
+      "size": 863
+    },
+    {
+      "path": "icons/folder_type_webpack.svg",
+      "gitBlobSha": "104efd1851b22f1ddaaa178431d2323715ce040c",
+      "size": 887
+    },
+    {
+      "path": "icons/folder_type_webpack_opened.svg",
+      "gitBlobSha": "d639e6a0d647aeb7237c33ec13344bc4f74cbbbd",
+      "size": 1009
+    },
+    {
+      "path": "icons/folder_type_windows.svg",
+      "gitBlobSha": "571f051f99536e66e3c17cd6c525fe095abc8cec",
+      "size": 366
+    },
+    {
+      "path": "icons/folder_type_windows_opened.svg",
+      "gitBlobSha": "f5ec979d83910a0e6c364d83d0b7bd19c0c69292",
+      "size": 467
+    },
+    {
+      "path": "icons/folder_type_windsurf.svg",
+      "gitBlobSha": "07e9d3d67913e635000b99b09249b65efd4fbf9b",
+      "size": 1135
+    },
+    {
+      "path": "icons/folder_type_windsurf_opened.svg",
+      "gitBlobSha": "2e0ca53a53e040bd913c410e749db5b842f6a076",
+      "size": 1237
+    },
+    {
+      "path": "icons/folder_type_wit.svg",
+      "gitBlobSha": "c1693359cd0a989f9f8088ef87cd427985d1c780",
+      "size": 810
+    },
+    {
+      "path": "icons/folder_type_wit_opened.svg",
+      "gitBlobSha": "7d15ba067044d015dd74a95afa6d4276bf33baa5",
+      "size": 862
+    },
+    {
+      "path": "icons/folder_type_www.svg",
+      "gitBlobSha": "b1bb8d7505dd1b9d02c042f322dab84ff3352b56",
+      "size": 9128
+    },
+    {
+      "path": "icons/folder_type_www_opened.svg",
+      "gitBlobSha": "a6307744b30d466ee0b269e823878b489de76241",
+      "size": 9248
+    },
+    {
+      "path": "icons/folder_type_yarn.svg",
+      "gitBlobSha": "5a63515549a29415e641c81ac51fbf039beb8f3c",
+      "size": 938
+    },
+    {
+      "path": "icons/folder_type_yarn_opened.svg",
+      "gitBlobSha": "501431b036cc88ad139862318c14f0b9a858d792",
+      "size": 1065
+    },
+    {
+      "path": "icons/folder_type_zed.svg",
+      "gitBlobSha": "afbdcc2592cd37c6801ccd3f7dab5261b0a59a41",
+      "size": 748
+    },
+    {
+      "path": "icons/folder_type_zed_opened.svg",
+      "gitBlobSha": "b5f0c7137847a8d32e81b377fc4b1a23f18dae3d",
+      "size": 821
+    }
+  ]
+}

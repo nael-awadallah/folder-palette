@@ -1,0 +1,7084 @@
+{
+  "schemaVersion": 1,
+  "providerId": "material",
+  "providerVersion": "5.39.0",
+  "entries": [
+    {
+      "id": "admin",
+      "label": "Admin",
+      "keywords": [
+        "-admin",
+        "-admins",
+        "-manager",
+        "-managers",
+        "-moderator",
+        "-moderators",
+        ".admin",
+        ".admins",
+        ".manager",
+        ".managers",
+        ".moderator",
+        ".moderators",
+        "__admin__",
+        "__admins__",
+        "__manager__",
+        "__managers__",
+        "__moderator__",
+        "__moderators__",
+        "_admin",
+        "_admins",
+        "_manager",
+        "_managers",
+        "_moderator",
+        "_moderators",
+        "admin",
+        "admins",
+        "manager",
+        "managers",
+        "moderator",
+        "moderators"
+      ],
+      "native": {
+        "icon": "admin"
+      }
+    },
+    {
+      "id": "android",
+      "label": "Android",
+      "keywords": [
+        "-android",
+        ".android",
+        "__android__",
+        "_android",
+        "android"
+      ],
+      "native": {
+        "icon": "android"
+      }
+    },
+    {
+      "id": "angular",
+      "label": "Angular",
+      "keywords": [
+        "-angular",
+        ".angular",
+        "__angular__",
+        "_angular",
+        "angular"
+      ],
+      "native": {
+        "icon": "angular"
+      }
+    },
+    {
+      "id": "animation",
+      "label": "Animation",
+      "keywords": [
+        "-anim",
+        "-animated",
+        "-animation",
+        "-animations",
+        "-anims",
+        "-easing",
+        "-easings",
+        "-motion",
+        "-motions",
+        "-transition",
+        "-transitions",
+        ".anim",
+        ".animated",
+        ".animation",
+        ".animations",
+        ".anims",
+        ".easing",
+        ".easings",
+        ".motion",
+        ".motions",
+        ".transition",
+        ".transitions",
+        "__anim__",
+        "__animated__",
+        "__animation__",
+        "__animations__",
+        "__anims__",
+        "__easing__",
+        "__easings__",
+        "__motion__",
+        "__motions__",
+        "__transition__",
+        "__transitions__",
+        "_anim",
+        "_animated",
+        "_animation",
+        "_animations",
+        "_anims",
+        "_easing",
+        "_easings",
+        "_motion",
+        "_motions",
+        "_transition",
+        "_transitions",
+        "anim",
+        "animated",
+        "animation",
+        "animations",
+        "anims",
+        "easing",
+        "easings",
+        "motion",
+        "motions",
+        "transition",
+        "transitions"
+      ],
+      "native": {
+        "icon": "animation"
+      }
+    },
+    {
+      "id": "ansible",
+      "label": "Ansible",
+      "keywords": [
+        "-ansible",
+        ".ansible",
+        "__ansible__",
+        "_ansible",
+        "ansible"
+      ],
+      "native": {
+        "icon": "ansible"
+      }
+    },
+    {
+      "id": "api",
+      "label": "Api",
+      "keywords": [
+        "-api",
+        "-apis",
+        "-restapi",
+        ".api",
+        ".apis",
+        ".restapi",
+        "__api__",
+        "__apis__",
+        "__restapi__",
+        "_api",
+        "_apis",
+        "_restapi",
+        "api",
+        "apis",
+        "restapi"
+      ],
+      "native": {
+        "icon": "api"
+      }
+    },
+    {
+      "id": "apollo",
+      "label": "Apollo",
+      "keywords": [
+        "-apollo",
+        "-apollo-cache",
+        "-apollo-client",
+        "-apollo-config",
+        ".apollo",
+        ".apollo-cache",
+        ".apollo-client",
+        ".apollo-config",
+        "__apollo-cache__",
+        "__apollo-client__",
+        "__apollo-config__",
+        "__apollo__",
+        "_apollo",
+        "_apollo-cache",
+        "_apollo-client",
+        "_apollo-config",
+        "apollo",
+        "apollo-cache",
+        "apollo-client",
+        "apollo-config"
+      ],
+      "native": {
+        "icon": "apollo"
+      }
+    },
+    {
+      "id": "app",
+      "label": "App",
+      "keywords": [
+        "-app",
+        "-application",
+        "-applications",
+        "-apps",
+        ".app",
+        ".application",
+        ".applications",
+        ".apps",
+        "__app__",
+        "__application__",
+        "__applications__",
+        "__apps__",
+        "_app",
+        "_application",
+        "_applications",
+        "_apps",
+        "app",
+        "application",
+        "applications",
+        "apps"
+      ],
+      "native": {
+        "icon": "app"
+      }
+    },
+    {
+      "id": "appwrite",
+      "label": "Appwrite",
+      "keywords": [
+        "-appwrite",
+        ".appwrite",
+        "__appwrite__",
+        "_appwrite",
+        "appwrite"
+      ],
+      "native": {
+        "icon": "appwrite"
+      }
+    },
+    {
+      "id": "archive",
+      "label": "Archive",
+      "keywords": [
+        "-arc",
+        "-archival",
+        "-archive",
+        "-archives",
+        "-arcs",
+        ".arc",
+        ".archival",
+        ".archive",
+        ".archives",
+        ".arcs",
+        "__arc__",
+        "__archival__",
+        "__archive__",
+        "__archives__",
+        "__arcs__",
+        "_arc",
+        "_archival",
+        "_archive",
+        "_archives",
+        "_arcs",
+        "arc",
+        "archival",
+        "archive",
+        "archives",
+        "arcs"
+      ],
+      "native": {
+        "icon": "archive"
+      }
+    },
+    {
+      "id": "assembly",
+      "label": "Assembly",
+      "keywords": [
+        "-asm",
+        "-assembly",
+        ".asm",
+        ".assembly",
+        "__asm__",
+        "__assembly__",
+        "_asm",
+        "_assembly",
+        "asm",
+        "assembly"
+      ],
+      "native": {
+        "icon": "assembly"
+      }
+    },
+    {
+      "id": "astro",
+      "label": "Astro",
+      "keywords": [
+        "-astro",
+        ".astro",
+        "__astro__",
+        "_astro",
+        "astro"
+      ],
+      "native": {
+        "icon": "astro"
+      }
+    },
+    {
+      "id": "atom",
+      "label": "Atom",
+      "keywords": [
+        "-atom",
+        "-atoms",
+        ".atom",
+        ".atoms",
+        "__atom__",
+        "__atoms__",
+        "_atom",
+        "_atoms",
+        "atom",
+        "atoms"
+      ],
+      "native": {
+        "icon": "atom"
+      }
+    },
+    {
+      "id": "attachment",
+      "label": "Attachment",
+      "keywords": [
+        "-attachment",
+        "-attachments",
+        ".attachment",
+        ".attachments",
+        "__attachment__",
+        "__attachments__",
+        "_attachment",
+        "_attachments",
+        "attachment",
+        "attachments"
+      ],
+      "native": {
+        "icon": "attachment"
+      }
+    },
+    {
+      "id": "audio",
+      "label": "Audio",
+      "keywords": [
+        "-aud",
+        "-audio",
+        "-audios",
+        "-auds",
+        "-music",
+        "-playlist",
+        "-playlists",
+        "-recordings",
+        "-song",
+        "-songs",
+        "-sound",
+        "-sounds",
+        "-voice",
+        "-voices",
+        ".aud",
+        ".audio",
+        ".audios",
+        ".auds",
+        ".music",
+        ".playlist",
+        ".playlists",
+        ".recordings",
+        ".song",
+        ".songs",
+        ".sound",
+        ".sounds",
+        ".voice",
+        ".voices",
+        "__aud__",
+        "__audio__",
+        "__audios__",
+        "__auds__",
+        "__music__",
+        "__playlist__",
+        "__playlists__",
+        "__recordings__",
+        "__song__",
+        "__songs__",
+        "__sound__",
+        "__sounds__",
+        "__voice__",
+        "__voices__",
+        "_aud",
+        "_audio",
+        "_audios",
+        "_auds",
+        "_music",
+        "_playlist",
+        "_playlists",
+        "_recordings",
+        "_song",
+        "_songs",
+        "_sound",
+        "_sounds",
+        "_voice",
+        "_voices",
+        "aud",
+        "audio",
+        "audios",
+        "auds",
+        "music",
+        "playlist",
+        "playlists",
+        "recordings",
+        "song",
+        "songs",
+        "sound",
+        "sounds",
+        "voice",
+        "voices"
+      ],
+      "native": {
+        "icon": "audio"
+      }
+    },
+    {
+      "id": "aurelia",
+      "label": "Aurelia",
+      "keywords": [
+        "-aurelia_project",
+        ".aurelia_project",
+        "__aurelia_project__",
+        "_aurelia_project",
+        "aurelia_project"
+      ],
+      "native": {
+        "icon": "aurelia"
+      }
+    },
+    {
+      "id": "aws",
+      "label": "Aws",
+      "keywords": [
+        "-aws",
+        "-azure",
+        "-gcp",
+        ".aws",
+        ".azure",
+        ".gcp",
+        "__aws__",
+        "__azure__",
+        "__gcp__",
+        "_aws",
+        "_azure",
+        "_gcp",
+        "aws",
+        "azure",
+        "gcp"
+      ],
+      "native": {
+        "icon": "aws"
+      }
+    },
+    {
+      "id": "azure-pipelines",
+      "label": "Azure Pipelines",
+      "keywords": [
+        "-azure-pipelines",
+        "-azure-pipelines-ci",
+        ".azure-pipelines",
+        ".azure-pipelines-ci",
+        "__azure-pipelines-ci__",
+        "__azure-pipelines__",
+        "_azure-pipelines",
+        "_azure-pipelines-ci",
+        "azure-pipelines",
+        "azure-pipelines-ci"
+      ],
+      "native": {
+        "icon": "azure-pipelines"
+      }
+    },
+    {
+      "id": "backup",
+      "label": "Backup",
+      "keywords": [
+        "-back-up",
+        "-back-ups",
+        "-backup",
+        "-backups",
+        "-bak",
+        "-baks",
+        "-bkp",
+        "-bkps",
+        "-histories",
+        "-history",
+        ".back-up",
+        ".back-ups",
+        ".backup",
+        ".backups",
+        ".bak",
+        ".baks",
+        ".bkp",
+        ".bkps",
+        ".histories",
+        ".history",
+        "__back-up__",
+        "__back-ups__",
+        "__backup__",
+        "__backups__",
+        "__bak__",
+        "__baks__",
+        "__bkp__",
+        "__bkps__",
+        "__histories__",
+        "__history__",
+        "_back-up",
+        "_back-ups",
+        "_backup",
+        "_backups",
+        "_bak",
+        "_baks",
+        "_bkp",
+        "_bkps",
+        "_histories",
+        "_history",
+        "back-up",
+        "back-ups",
+        "backup",
+        "backups",
+        "bak",
+        "baks",
+        "bkp",
+        "bkps",
+        "histories",
+        "history"
+      ],
+      "native": {
+        "icon": "backup"
+      }
+    },
+    {
+      "id": "base",
+      "label": "Base",
+      "keywords": [
+        "-base",
+        "-bases",
+        ".base",
+        ".bases",
+        "__base__",
+        "__bases__",
+        "_base",
+        "_bases",
+        "base",
+        "bases"
+      ],
+      "native": {
+        "icon": "base"
+      }
+    },
+    {
+      "id": "batch",
+      "label": "Batch",
+      "keywords": [
+        "-batch",
+        "-batches",
+        "-batchs",
+        ".batch",
+        ".batches",
+        ".batchs",
+        "__batch__",
+        "__batches__",
+        "__batchs__",
+        "_batch",
+        "_batches",
+        "_batchs",
+        "batch",
+        "batches",
+        "batchs"
+      ],
+      "native": {
+        "icon": "batch"
+      }
+    },
+    {
+      "id": "benchmark",
+      "label": "Benchmark",
+      "keywords": [
+        "-bench",
+        "-benches",
+        "-benchmark",
+        "-benchmarks",
+        "-measure",
+        "-measurement",
+        "-measures",
+        "-perf",
+        "-performance",
+        "-profiling",
+        ".bench",
+        ".benches",
+        ".benchmark",
+        ".benchmarks",
+        ".measure",
+        ".measurement",
+        ".measures",
+        ".perf",
+        ".performance",
+        ".profiling",
+        "__bench__",
+        "__benches__",
+        "__benchmark__",
+        "__benchmarks__",
+        "__measure__",
+        "__measurement__",
+        "__measures__",
+        "__perf__",
+        "__performance__",
+        "__profiling__",
+        "_bench",
+        "_benches",
+        "_benchmark",
+        "_benchmarks",
+        "_measure",
+        "_measurement",
+        "_measures",
+        "_perf",
+        "_performance",
+        "_profiling",
+        "bench",
+        "benches",
+        "benchmark",
+        "benchmarks",
+        "measure",
+        "measurement",
+        "measures",
+        "perf",
+        "performance",
+        "profiling"
+      ],
+      "native": {
+        "icon": "benchmark"
+      }
+    },
+    {
+      "id": "bibliography",
+      "label": "Bibliography",
+      "keywords": [
+        "-bibliographies",
+        "-bibliography",
+        "-book",
+        "-books",
+        ".bibliographies",
+        ".bibliography",
+        ".book",
+        ".books",
+        "__bibliographies__",
+        "__bibliography__",
+        "__book__",
+        "__books__",
+        "_bibliographies",
+        "_bibliography",
+        "_book",
+        "_books",
+        "bibliographies",
+        "bibliography",
+        "book",
+        "books"
+      ],
+      "native": {
+        "icon": "bibliography"
+      }
+    },
+    {
+      "id": "bicep",
+      "label": "Bicep",
+      "keywords": [
+        "-bicep",
+        ".bicep",
+        "__bicep__",
+        "_bicep",
+        "bicep"
+      ],
+      "native": {
+        "icon": "bicep"
+      }
+    },
+    {
+      "id": "blender",
+      "label": "Blender",
+      "keywords": [
+        "-blender",
+        "-blender-assets",
+        "-blender-files",
+        "-blender-models",
+        "-blender-project",
+        ".blender",
+        ".blender-assets",
+        ".blender-files",
+        ".blender-models",
+        ".blender-project",
+        "__blender-assets__",
+        "__blender-files__",
+        "__blender-models__",
+        "__blender-project__",
+        "__blender__",
+        "_blender",
+        "_blender-assets",
+        "_blender-files",
+        "_blender-models",
+        "_blender-project",
+        "blender",
+        "blender-assets",
+        "blender-files",
+        "blender-models",
+        "blender-project"
+      ],
+      "native": {
+        "icon": "blender"
+      }
+    },
+    {
+      "id": "bloc",
+      "label": "Bloc",
+      "keywords": [
+        "-bloc",
+        "-blocs",
+        "-cubit",
+        "-cubits",
+        ".bloc",
+        ".blocs",
+        ".cubit",
+        ".cubits",
+        "__bloc__",
+        "__blocs__",
+        "__cubit__",
+        "__cubits__",
+        "_bloc",
+        "_blocs",
+        "_cubit",
+        "_cubits",
+        "bloc",
+        "blocs",
+        "cubit",
+        "cubits"
+      ],
+      "native": {
+        "icon": "bloc"
+      }
+    },
+    {
+      "id": "bower",
+      "label": "Bower",
+      "keywords": [
+        "-bower_components",
+        ".bower_components",
+        "__bower_components__",
+        "_bower_components",
+        "bower_components"
+      ],
+      "native": {
+        "icon": "bower"
+      }
+    },
+    {
+      "id": "buildkite",
+      "label": "Buildkite",
+      "keywords": [
+        "-buildkite",
+        ".buildkite",
+        "__buildkite__",
+        "_buildkite",
+        "buildkite"
+      ],
+      "native": {
+        "icon": "buildkite"
+      }
+    },
+    {
+      "id": "cart",
+      "label": "Cart",
+      "keywords": [
+        "-cart",
+        "-shop",
+        "-shopping",
+        "-shopping-cart",
+        ".cart",
+        ".shop",
+        ".shopping",
+        ".shopping-cart",
+        "__cart__",
+        "__shop__",
+        "__shopping-cart__",
+        "__shopping__",
+        "_cart",
+        "_shop",
+        "_shopping",
+        "_shopping-cart",
+        "cart",
+        "shop",
+        "shopping",
+        "shopping-cart"
+      ],
+      "native": {
+        "icon": "cart"
+      }
+    },
+    {
+      "id": "changesets",
+      "label": "Changesets",
+      "keywords": [
+        "-changeset",
+        "-changesets",
+        ".changeset",
+        ".changesets",
+        "__changeset__",
+        "__changesets__",
+        "_changeset",
+        "_changesets",
+        "changeset",
+        "changesets"
+      ],
+      "native": {
+        "icon": "changesets"
+      }
+    },
+    {
+      "id": "ci",
+      "label": "Ci",
+      "keywords": [
+        "-ci",
+        ".ci",
+        "__ci__",
+        "_ci",
+        "ci"
+      ],
+      "native": {
+        "icon": "ci"
+      }
+    },
+    {
+      "id": "circleci",
+      "label": "Circleci",
+      "keywords": [
+        "-circleci",
+        ".circleci",
+        "__circleci__",
+        "_circleci",
+        "circleci"
+      ],
+      "native": {
+        "icon": "circleci"
+      }
+    },
+    {
+      "id": "class",
+      "label": "Class",
+      "keywords": [
+        "-class",
+        "-classes",
+        "-model",
+        "-models",
+        "-schema",
+        "-schemas",
+        ".class",
+        ".classes",
+        ".model",
+        ".models",
+        ".schema",
+        ".schemas",
+        "__class__",
+        "__classes__",
+        "__model__",
+        "__models__",
+        "__schema__",
+        "__schemas__",
+        "_class",
+        "_classes",
+        "_model",
+        "_models",
+        "_schema",
+        "_schemas",
+        "class",
+        "classes",
+        "model",
+        "models",
+        "schema",
+        "schemas"
+      ],
+      "native": {
+        "icon": "class"
+      }
+    },
+    {
+      "id": "claude",
+      "label": "Claude",
+      "keywords": [
+        "-claude",
+        ".claude",
+        "__claude__",
+        "_claude",
+        "claude"
+      ],
+      "native": {
+        "icon": "claude"
+      }
+    },
+    {
+      "id": "client",
+      "label": "Client",
+      "keywords": [
+        "-client",
+        "-clients",
+        "-frontend",
+        "-frontends",
+        "-pwa",
+        "-spa",
+        ".client",
+        ".clients",
+        ".frontend",
+        ".frontends",
+        ".pwa",
+        ".spa",
+        "__client__",
+        "__clients__",
+        "__frontend__",
+        "__frontends__",
+        "__pwa__",
+        "__spa__",
+        "_client",
+        "_clients",
+        "_frontend",
+        "_frontends",
+        "_pwa",
+        "_spa",
+        "client",
+        "clients",
+        "frontend",
+        "frontends",
+        "pwa",
+        "spa"
+      ],
+      "native": {
+        "icon": "client"
+      }
+    },
+    {
+      "id": "cline",
+      "label": "Cline",
+      "keywords": [
+        "-cline_docs",
+        ".cline_docs",
+        "__cline_docs__",
+        "_cline_docs",
+        "cline_docs"
+      ],
+      "native": {
+        "icon": "cline"
+      }
+    },
+    {
+      "id": "cloud-functions",
+      "label": "Cloud Functions",
+      "keywords": [
+        "-cloud-functions",
+        "-cloudfunctions",
+        "-firebase-cloud-functions",
+        "-firebase-cloudfunctions",
+        ".cloud-functions",
+        ".cloudfunctions",
+        ".firebase-cloud-functions",
+        ".firebase-cloudfunctions",
+        "__cloud-functions__",
+        "__cloudfunctions__",
+        "__firebase-cloud-functions__",
+        "__firebase-cloudfunctions__",
+        "_cloud-functions",
+        "_cloudfunctions",
+        "_firebase-cloud-functions",
+        "_firebase-cloudfunctions",
+        "cloud-functions",
+        "cloudfunctions",
+        "firebase-cloud-functions",
+        "firebase-cloudfunctions"
+      ],
+      "native": {
+        "icon": "cloud-functions"
+      }
+    },
+    {
+      "id": "cloudflare",
+      "label": "Cloudflare",
+      "keywords": [
+        "-cloudflare",
+        ".cloudflare",
+        "__cloudflare__",
+        "_cloudflare",
+        "cloudflare"
+      ],
+      "native": {
+        "icon": "cloudflare"
+      }
+    },
+    {
+      "id": "cluster",
+      "label": "Cluster",
+      "keywords": [
+        "-cluster",
+        "-clusters",
+        ".cluster",
+        ".clusters",
+        "__cluster__",
+        "__clusters__",
+        "_cluster",
+        "_clusters",
+        "cluster",
+        "clusters"
+      ],
+      "native": {
+        "icon": "cluster"
+      }
+    },
+    {
+      "id": "cobol",
+      "label": "Cobol",
+      "keywords": [
+        "-cobol",
+        ".cobol",
+        "__cobol__",
+        "_cobol",
+        "cobol"
+      ],
+      "native": {
+        "icon": "cobol"
+      }
+    },
+    {
+      "id": "command",
+      "label": "Command",
+      "keywords": [
+        "-cli",
+        "-clis",
+        "-cmd",
+        "-command",
+        "-commandline",
+        "-commands",
+        ".cli",
+        ".clis",
+        ".cmd",
+        ".command",
+        ".commandline",
+        ".commands",
+        "__cli__",
+        "__clis__",
+        "__cmd__",
+        "__command__",
+        "__commandline__",
+        "__commands__",
+        "_cli",
+        "_clis",
+        "_cmd",
+        "_command",
+        "_commandline",
+        "_commands",
+        "cli",
+        "clis",
+        "cmd",
+        "command",
+        "commandline",
+        "commands"
+      ],
+      "native": {
+        "icon": "command"
+      }
+    },
+    {
+      "id": "components",
+      "label": "Components",
+      "keywords": [
+        "-components",
+        "-fragments",
+        "-widget",
+        "-widgets",
+        ".components",
+        ".fragments",
+        ".widget",
+        ".widgets",
+        "__components__",
+        "__fragments__",
+        "__widget__",
+        "__widgets__",
+        "_components",
+        "_fragments",
+        "_widget",
+        "_widgets",
+        "components",
+        "fragments",
+        "widget",
+        "widgets"
+      ],
+      "native": {
+        "icon": "components"
+      }
+    },
+    {
+      "id": "config",
+      "label": "Config",
+      "keywords": [
+        "-cfg",
+        "-cfgs",
+        "-conf",
+        "-config",
+        "-configs",
+        "-configuration",
+        "-configurations",
+        "-confs",
+        "-meta-inf",
+        "-option",
+        "-options",
+        "-pref",
+        "-preference",
+        "-preferences",
+        "-prefs",
+        "-properties",
+        "-props",
+        "-setting",
+        "-settings",
+        ".cfg",
+        ".cfgs",
+        ".conf",
+        ".config",
+        ".configs",
+        ".configuration",
+        ".configurations",
+        ".confs",
+        ".meta-inf",
+        ".option",
+        ".options",
+        ".pref",
+        ".preference",
+        ".preferences",
+        ".prefs",
+        ".properties",
+        ".props",
+        ".setting",
+        ".settings",
+        "__cfg__",
+        "__cfgs__",
+        "__conf__",
+        "__config__",
+        "__configs__",
+        "__configuration__",
+        "__configurations__",
+        "__confs__",
+        "__meta-inf__",
+        "__option__",
+        "__options__",
+        "__pref__",
+        "__preference__",
+        "__preferences__",
+        "__prefs__",
+        "__properties__",
+        "__props__",
+        "__setting__",
+        "__settings__",
+        "_cfg",
+        "_cfgs",
+        "_conf",
+        "_config",
+        "_configs",
+        "_configuration",
+        "_configurations",
+        "_confs",
+        "_meta-inf",
+        "_option",
+        "_options",
+        "_pref",
+        "_preference",
+        "_preferences",
+        "_prefs",
+        "_properties",
+        "_props",
+        "_setting",
+        "_settings",
+        "cfg",
+        "cfgs",
+        "conf",
+        "config",
+        "configs",
+        "configuration",
+        "configurations",
+        "confs",
+        "meta-inf",
+        "option",
+        "options",
+        "pref",
+        "preference",
+        "preferences",
+        "prefs",
+        "properties",
+        "props",
+        "setting",
+        "settings"
+      ],
+      "native": {
+        "icon": "config"
+      }
+    },
+    {
+      "id": "connection",
+      "label": "Connection",
+      "keywords": [
+        "-connection",
+        "-connections",
+        "-integration",
+        "-integrations",
+        "-remote",
+        "-remotes",
+        ".connection",
+        ".connections",
+        ".integration",
+        ".integrations",
+        ".remote",
+        ".remotes",
+        "__connection__",
+        "__connections__",
+        "__integration__",
+        "__integrations__",
+        "__remote__",
+        "__remotes__",
+        "_connection",
+        "_connections",
+        "_integration",
+        "_integrations",
+        "_remote",
+        "_remotes",
+        "connection",
+        "connections",
+        "integration",
+        "integrations",
+        "remote",
+        "remotes"
+      ],
+      "native": {
+        "icon": "connection"
+      }
+    },
+    {
+      "id": "console",
+      "label": "Console",
+      "keywords": [
+        "-console",
+        "-game",
+        "-games",
+        "-ps4",
+        "-ps5",
+        "-switch",
+        "-xbox",
+        ".console",
+        ".game",
+        ".games",
+        ".ps4",
+        ".ps5",
+        ".switch",
+        ".xbox",
+        "__console__",
+        "__game__",
+        "__games__",
+        "__ps4__",
+        "__ps5__",
+        "__switch__",
+        "__xbox__",
+        "_console",
+        "_game",
+        "_games",
+        "_ps4",
+        "_ps5",
+        "_switch",
+        "_xbox",
+        "console",
+        "game",
+        "games",
+        "ps4",
+        "ps5",
+        "switch",
+        "xbox"
+      ],
+      "native": {
+        "icon": "console"
+      }
+    },
+    {
+      "id": "constant",
+      "label": "Constant",
+      "keywords": [
+        "-const",
+        "-constant",
+        "-constants",
+        "-consts",
+        ".const",
+        ".constant",
+        ".constants",
+        ".consts",
+        "__const__",
+        "__constant__",
+        "__constants__",
+        "__consts__",
+        "_const",
+        "_constant",
+        "_constants",
+        "_consts",
+        "const",
+        "constant",
+        "constants",
+        "consts"
+      ],
+      "native": {
+        "icon": "constant"
+      }
+    },
+    {
+      "id": "container",
+      "label": "Container",
+      "keywords": [
+        "-container",
+        "-containers",
+        "-devcontainer",
+        ".container",
+        ".containers",
+        ".devcontainer",
+        "__container__",
+        "__containers__",
+        "__devcontainer__",
+        "_container",
+        "_containers",
+        "_devcontainer",
+        "container",
+        "containers",
+        "devcontainer"
+      ],
+      "native": {
+        "icon": "container"
+      }
+    },
+    {
+      "id": "content",
+      "label": "Content",
+      "keywords": [
+        "-content",
+        "-contents",
+        ".content",
+        ".contents",
+        "__content__",
+        "__contents__",
+        "_content",
+        "_contents",
+        "content",
+        "contents"
+      ],
+      "native": {
+        "icon": "content"
+      }
+    },
+    {
+      "id": "context",
+      "label": "Context",
+      "keywords": [
+        "-context",
+        "-contexts",
+        ".context",
+        ".contexts",
+        "__context__",
+        "__contexts__",
+        "_context",
+        "_contexts",
+        "context",
+        "contexts"
+      ],
+      "native": {
+        "icon": "context"
+      }
+    },
+    {
+      "id": "contract",
+      "label": "Contract",
+      "keywords": [
+        "-contract",
+        "-contract-test",
+        "-contract-testing",
+        "-contract-tests",
+        "-contracts",
+        "-pact",
+        "-pacts",
+        ".contract",
+        ".contract-test",
+        ".contract-testing",
+        ".contract-tests",
+        ".contracts",
+        ".pact",
+        ".pacts",
+        "__contract-test__",
+        "__contract-testing__",
+        "__contract-tests__",
+        "__contract__",
+        "__contracts__",
+        "__pact__",
+        "__pacts__",
+        "_contract",
+        "_contract-test",
+        "_contract-testing",
+        "_contract-tests",
+        "_contracts",
+        "_pact",
+        "_pacts",
+        "contract",
+        "contract-test",
+        "contract-testing",
+        "contract-tests",
+        "contracts",
+        "pact",
+        "pacts"
+      ],
+      "native": {
+        "icon": "contract"
+      }
+    },
+    {
+      "id": "controller",
+      "label": "Controller",
+      "keywords": [
+        "-controller",
+        "-controllers",
+        "-controls",
+        "-handler",
+        "-handlers",
+        "-provider",
+        "-providers",
+        "-service",
+        "-services",
+        ".controller",
+        ".controllers",
+        ".controls",
+        ".handler",
+        ".handlers",
+        ".provider",
+        ".providers",
+        ".service",
+        ".services",
+        "__controller__",
+        "__controllers__",
+        "__controls__",
+        "__handler__",
+        "__handlers__",
+        "__provider__",
+        "__providers__",
+        "__service__",
+        "__services__",
+        "_controller",
+        "_controllers",
+        "_controls",
+        "_handler",
+        "_handlers",
+        "_provider",
+        "_providers",
+        "_service",
+        "_services",
+        "controller",
+        "controllers",
+        "controls",
+        "handler",
+        "handlers",
+        "provider",
+        "providers",
+        "service",
+        "services"
+      ],
+      "native": {
+        "icon": "controller"
+      }
+    },
+    {
+      "id": "core",
+      "label": "Core",
+      "keywords": [
+        "-core",
+        ".core",
+        "__core__",
+        "_core",
+        "core"
+      ],
+      "native": {
+        "icon": "core"
+      }
+    },
+    {
+      "id": "coverage",
+      "label": "Coverage",
+      "keywords": [
+        "-coverage",
+        "-e2e",
+        "-integration-test",
+        "-integration-tests",
+        "-it",
+        "-nyc-output",
+        "-nyc_output",
+        ".coverage",
+        ".e2e",
+        ".integration-test",
+        ".integration-tests",
+        ".it",
+        ".nyc-output",
+        ".nyc_output",
+        "__coverage__",
+        "__e2e__",
+        "__integration-test__",
+        "__integration-tests__",
+        "__it__",
+        "__nyc-output__",
+        "__nyc_output__",
+        "_coverage",
+        "_e2e",
+        "_integration-test",
+        "_integration-tests",
+        "_it",
+        "_nyc-output",
+        "_nyc_output",
+        "coverage",
+        "e2e",
+        "integration-test",
+        "integration-tests",
+        "it",
+        "nyc-output",
+        "nyc_output"
+      ],
+      "native": {
+        "icon": "coverage"
+      }
+    },
+    {
+      "id": "css",
+      "label": "Css",
+      "keywords": [
+        "-css",
+        "-style",
+        "-styles",
+        "-stylesheet",
+        "-stylesheets",
+        ".css",
+        ".style",
+        ".styles",
+        ".stylesheet",
+        ".stylesheets",
+        "__css__",
+        "__style__",
+        "__styles__",
+        "__stylesheet__",
+        "__stylesheets__",
+        "_css",
+        "_style",
+        "_styles",
+        "_stylesheet",
+        "_stylesheets",
+        "css",
+        "style",
+        "styles",
+        "stylesheet",
+        "stylesheets"
+      ],
+      "native": {
+        "icon": "css"
+      }
+    },
+    {
+      "id": "cue",
+      "label": "Cue",
+      "keywords": [
+        "-cue",
+        "-cues",
+        ".cue",
+        ".cues",
+        "__cue__",
+        "__cues__",
+        "_cue",
+        "_cues",
+        "cue",
+        "cues"
+      ],
+      "native": {
+        "icon": "cue"
+      }
+    },
+    {
+      "id": "cursor",
+      "label": "Cursor",
+      "keywords": [
+        "-cursor",
+        ".cursor",
+        "__cursor__",
+        "_cursor",
+        "cursor"
+      ],
+      "native": {
+        "icon": "cursor"
+      }
+    },
+    {
+      "id": "custom",
+      "label": "Custom",
+      "keywords": [
+        "-custom",
+        "-customs",
+        ".custom",
+        ".customs",
+        "__custom__",
+        "__customs__",
+        "_custom",
+        "_customs",
+        "custom",
+        "customs"
+      ],
+      "native": {
+        "icon": "custom"
+      }
+    },
+    {
+      "id": "cypress",
+      "label": "Cypress",
+      "keywords": [
+        "-cypress",
+        ".cypress",
+        "__cypress__",
+        "_cypress",
+        "cypress"
+      ],
+      "native": {
+        "icon": "cypress"
+      }
+    },
+    {
+      "id": "dal",
+      "label": "Dal",
+      "keywords": [
+        "-dal",
+        "-data-access",
+        "-data-access-layer",
+        ".dal",
+        ".data-access",
+        ".data-access-layer",
+        "__dal__",
+        "__data-access-layer__",
+        "__data-access__",
+        "_dal",
+        "_data-access",
+        "_data-access-layer",
+        "dal",
+        "data-access",
+        "data-access-layer"
+      ],
+      "native": {
+        "icon": "dal"
+      }
+    },
+    {
+      "id": "dart",
+      "label": "Dart",
+      "keywords": [
+        "-dart",
+        "-dart_tool",
+        "-dart_tools",
+        ".dart",
+        ".dart_tool",
+        ".dart_tools",
+        "__dart__",
+        "__dart_tool__",
+        "__dart_tools__",
+        "_dart",
+        "_dart_tool",
+        "_dart_tools",
+        "dart",
+        "dart_tool",
+        "dart_tools"
+      ],
+      "native": {
+        "icon": "dart"
+      }
+    },
+    {
+      "id": "database",
+      "label": "Database",
+      "keywords": [
+        "-data",
+        "-database",
+        "-databases",
+        "-db",
+        "-sql",
+        ".data",
+        ".database",
+        ".databases",
+        ".db",
+        ".sql",
+        "__data__",
+        "__database__",
+        "__databases__",
+        "__db__",
+        "__sql__",
+        "_data",
+        "_database",
+        "_databases",
+        "_db",
+        "_sql",
+        "data",
+        "database",
+        "databases",
+        "db",
+        "sql"
+      ],
+      "native": {
+        "icon": "database"
+      }
+    },
+    {
+      "id": "debug",
+      "label": "Debug",
+      "keywords": [
+        "-debug",
+        "-debugger",
+        "-debugging",
+        ".debug",
+        ".debugger",
+        ".debugging",
+        "__debug__",
+        "__debugger__",
+        "__debugging__",
+        "_debug",
+        "_debugger",
+        "_debugging",
+        "debug",
+        "debugger",
+        "debugging"
+      ],
+      "native": {
+        "icon": "debug"
+      }
+    },
+    {
+      "id": "decorators",
+      "label": "Decorators",
+      "keywords": [
+        "-decorator",
+        "-decorators",
+        ".decorator",
+        ".decorators",
+        "__decorator__",
+        "__decorators__",
+        "_decorator",
+        "_decorators",
+        "decorator",
+        "decorators"
+      ],
+      "native": {
+        "icon": "decorators"
+      }
+    },
+    {
+      "id": "delta",
+      "label": "Delta",
+      "keywords": [
+        "-changes",
+        "-delta",
+        "-deltas",
+        ".changes",
+        ".delta",
+        ".deltas",
+        "__changes__",
+        "__delta__",
+        "__deltas__",
+        "_changes",
+        "_delta",
+        "_deltas",
+        "changes",
+        "delta",
+        "deltas"
+      ],
+      "native": {
+        "icon": "delta"
+      }
+    },
+    {
+      "id": "desktop",
+      "label": "Desktop",
+      "keywords": [
+        "-desktop",
+        "-display",
+        ".desktop",
+        ".display",
+        "__desktop__",
+        "__display__",
+        "_desktop",
+        "_display",
+        "desktop",
+        "display"
+      ],
+      "native": {
+        "icon": "desktop"
+      }
+    },
+    {
+      "id": "directive",
+      "label": "Directive",
+      "keywords": [
+        "-directive",
+        "-directives",
+        ".directive",
+        ".directives",
+        "__directive__",
+        "__directives__",
+        "_directive",
+        "_directives",
+        "directive",
+        "directives"
+      ],
+      "native": {
+        "icon": "directive"
+      }
+    },
+    {
+      "id": "dist",
+      "label": "Dist",
+      "keywords": [
+        "-bin",
+        "-build",
+        "-builds",
+        "-built",
+        "-compiled",
+        "-dist",
+        "-distribution",
+        "-out",
+        "-output",
+        "-outputs",
+        "-release",
+        ".bin",
+        ".build",
+        ".builds",
+        ".built",
+        ".compiled",
+        ".dist",
+        ".distribution",
+        ".out",
+        ".output",
+        ".outputs",
+        ".release",
+        "__bin__",
+        "__build__",
+        "__builds__",
+        "__built__",
+        "__compiled__",
+        "__dist__",
+        "__distribution__",
+        "__out__",
+        "__output__",
+        "__outputs__",
+        "__release__",
+        "_bin",
+        "_build",
+        "_builds",
+        "_built",
+        "_compiled",
+        "_dist",
+        "_distribution",
+        "_out",
+        "_output",
+        "_outputs",
+        "_release",
+        "bin",
+        "build",
+        "builds",
+        "built",
+        "compiled",
+        "dist",
+        "distribution",
+        "out",
+        "output",
+        "outputs",
+        "release"
+      ],
+      "native": {
+        "icon": "dist"
+      }
+    },
+    {
+      "id": "docker",
+      "label": "Docker",
+      "keywords": [
+        "-docker",
+        "-dockerfiles",
+        "-dockerhub",
+        ".docker",
+        ".dockerfiles",
+        ".dockerhub",
+        "__docker__",
+        "__dockerfiles__",
+        "__dockerhub__",
+        "_docker",
+        "_dockerfiles",
+        "_dockerhub",
+        "docker",
+        "dockerfiles",
+        "dockerhub"
+      ],
+      "native": {
+        "icon": "docker"
+      }
+    },
+    {
+      "id": "docs",
+      "label": "Docs",
+      "keywords": [
+        "-article",
+        "-articles",
+        "-blog",
+        "-diary",
+        "-doc",
+        "-docs",
+        "-document",
+        "-documentation",
+        "-documents",
+        "-knowledge",
+        "-news",
+        "-note",
+        "-notes",
+        "-post",
+        "-posts",
+        "-wiki",
+        ".article",
+        ".articles",
+        ".blog",
+        ".diary",
+        ".doc",
+        ".docs",
+        ".document",
+        ".documentation",
+        ".documents",
+        ".knowledge",
+        ".news",
+        ".note",
+        ".notes",
+        ".post",
+        ".posts",
+        ".wiki",
+        "__article__",
+        "__articles__",
+        "__blog__",
+        "__diary__",
+        "__doc__",
+        "__docs__",
+        "__document__",
+        "__documentation__",
+        "__documents__",
+        "__knowledge__",
+        "__news__",
+        "__note__",
+        "__notes__",
+        "__post__",
+        "__posts__",
+        "__wiki__",
+        "_article",
+        "_articles",
+        "_blog",
+        "_diary",
+        "_doc",
+        "_docs",
+        "_document",
+        "_documentation",
+        "_documents",
+        "_knowledge",
+        "_news",
+        "_note",
+        "_notes",
+        "_post",
+        "_posts",
+        "_wiki",
+        "article",
+        "articles",
+        "blog",
+        "diary",
+        "doc",
+        "docs",
+        "document",
+        "documentation",
+        "documents",
+        "knowledge",
+        "news",
+        "note",
+        "notes",
+        "post",
+        "posts",
+        "wiki"
+      ],
+      "native": {
+        "icon": "docs"
+      }
+    },
+    {
+      "id": "download",
+      "label": "Download",
+      "keywords": [
+        "-download",
+        "-downloader",
+        "-downloaders",
+        "-downloads",
+        ".download",
+        ".downloader",
+        ".downloaders",
+        ".downloads",
+        "__download__",
+        "__downloader__",
+        "__downloaders__",
+        "__downloads__",
+        "_download",
+        "_downloader",
+        "_downloaders",
+        "_downloads",
+        "download",
+        "downloader",
+        "downloaders",
+        "downloads"
+      ],
+      "native": {
+        "icon": "download"
+      }
+    },
+    {
+      "id": "drizzle",
+      "label": "Drizzle",
+      "keywords": [
+        "-drizzle",
+        ".drizzle",
+        "__drizzle__",
+        "_drizzle",
+        "drizzle"
+      ],
+      "native": {
+        "icon": "drizzle"
+      }
+    },
+    {
+      "id": "dump",
+      "label": "Dump",
+      "keywords": [
+        "-dump",
+        "-dumps",
+        ".dump",
+        ".dumps",
+        "__dump__",
+        "__dumps__",
+        "_dump",
+        "_dumps",
+        "dump",
+        "dumps"
+      ],
+      "native": {
+        "icon": "dump"
+      }
+    },
+    {
+      "id": "element",
+      "label": "Element",
+      "keywords": [
+        "-element",
+        "-elements",
+        ".element",
+        ".elements",
+        "__element__",
+        "__elements__",
+        "_element",
+        "_elements",
+        "element",
+        "elements"
+      ],
+      "native": {
+        "icon": "element"
+      }
+    },
+    {
+      "id": "enum",
+      "label": "Enum",
+      "keywords": [
+        "-enum",
+        "-enums",
+        ".enum",
+        ".enums",
+        "__enum__",
+        "__enums__",
+        "_enum",
+        "_enums",
+        "enum",
+        "enums"
+      ],
+      "native": {
+        "icon": "enum"
+      }
+    },
+    {
+      "id": "environment",
+      "label": "Environment",
+      "keywords": [
+        "-env",
+        "-environment",
+        "-environments",
+        "-envs",
+        "-venv",
+        ".env",
+        ".environment",
+        ".environments",
+        ".envs",
+        ".venv",
+        "__env__",
+        "__environment__",
+        "__environments__",
+        "__envs__",
+        "__venv__",
+        "_env",
+        "_environment",
+        "_environments",
+        "_envs",
+        "_venv",
+        "env",
+        "environment",
+        "environments",
+        "envs",
+        "venv"
+      ],
+      "native": {
+        "icon": "environment"
+      }
+    },
+    {
+      "id": "error",
+      "label": "Error",
+      "keywords": [
+        "-crash",
+        "-crashes",
+        "-err",
+        "-error",
+        "-errors",
+        "-errs",
+        ".crash",
+        ".crashes",
+        ".err",
+        ".error",
+        ".errors",
+        ".errs",
+        "__crash__",
+        "__crashes__",
+        "__err__",
+        "__error__",
+        "__errors__",
+        "__errs__",
+        "_crash",
+        "_crashes",
+        "_err",
+        "_error",
+        "_errors",
+        "_errs",
+        "crash",
+        "crashes",
+        "err",
+        "error",
+        "errors",
+        "errs"
+      ],
+      "native": {
+        "icon": "error"
+      }
+    },
+    {
+      "id": "eslint",
+      "label": "Eslint",
+      "keywords": [
+        "-eslint",
+        "-eslint-config",
+        "-eslint-configs",
+        "-eslint-plugin",
+        "-eslint-plugins",
+        ".eslint",
+        ".eslint-config",
+        ".eslint-configs",
+        ".eslint-plugin",
+        ".eslint-plugins",
+        "__eslint-config__",
+        "__eslint-configs__",
+        "__eslint-plugin__",
+        "__eslint-plugins__",
+        "__eslint__",
+        "_eslint",
+        "_eslint-config",
+        "_eslint-configs",
+        "_eslint-plugin",
+        "_eslint-plugins",
+        "eslint",
+        "eslint-config",
+        "eslint-configs",
+        "eslint-plugin",
+        "eslint-plugins"
+      ],
+      "native": {
+        "icon": "eslint"
+      }
+    },
+    {
+      "id": "event",
+      "label": "Event",
+      "keywords": [
+        "-event",
+        "-events",
+        ".event",
+        ".events",
+        "__event__",
+        "__events__",
+        "_event",
+        "_events",
+        "event",
+        "events"
+      ],
+      "native": {
+        "icon": "event"
+      }
+    },
+    {
+      "id": "examples",
+      "label": "Examples",
+      "keywords": [
+        "-demo",
+        "-demos",
+        "-example",
+        "-examples",
+        "-sample",
+        "-sample-data",
+        "-samples",
+        ".demo",
+        ".demos",
+        ".example",
+        ".examples",
+        ".sample",
+        ".sample-data",
+        ".samples",
+        "__demo__",
+        "__demos__",
+        "__example__",
+        "__examples__",
+        "__sample-data__",
+        "__sample__",
+        "__samples__",
+        "_demo",
+        "_demos",
+        "_example",
+        "_examples",
+        "_sample",
+        "_sample-data",
+        "_samples",
+        "demo",
+        "demos",
+        "example",
+        "examples",
+        "sample",
+        "sample-data",
+        "samples"
+      ],
+      "native": {
+        "icon": "examples"
+      }
+    },
+    {
+      "id": "expo",
+      "label": "Expo",
+      "keywords": [
+        "-expo",
+        "-expo-shared",
+        ".expo",
+        ".expo-shared",
+        "__expo-shared__",
+        "__expo__",
+        "_expo",
+        "_expo-shared",
+        "expo",
+        "expo-shared"
+      ],
+      "native": {
+        "icon": "expo"
+      }
+    },
+    {
+      "id": "export",
+      "label": "Export",
+      "keywords": [
+        "-export",
+        "-exported",
+        "-exports",
+        ".export",
+        ".exported",
+        ".exports",
+        "__export__",
+        "__exported__",
+        "__exports__",
+        "_export",
+        "_exported",
+        "_exports",
+        "export",
+        "exported",
+        "exports"
+      ],
+      "native": {
+        "icon": "export"
+      }
+    },
+    {
+      "id": "fastlane",
+      "label": "Fastlane",
+      "keywords": [
+        "-fastlane",
+        ".fastlane",
+        "__fastlane__",
+        "_fastlane",
+        "fastlane"
+      ],
+      "native": {
+        "icon": "fastlane"
+      }
+    },
+    {
+      "id": "favicon",
+      "label": "Favicon",
+      "keywords": [
+        "-favicon",
+        "-favicons",
+        ".favicon",
+        ".favicons",
+        "__favicon__",
+        "__favicons__",
+        "_favicon",
+        "_favicons",
+        "favicon",
+        "favicons"
+      ],
+      "native": {
+        "icon": "favicon"
+      }
+    },
+    {
+      "id": "features",
+      "label": "Features",
+      "keywords": [
+        "-feat",
+        "-feats",
+        "-feature",
+        "-features",
+        ".feat",
+        ".feats",
+        ".feature",
+        ".features",
+        "__feat__",
+        "__feats__",
+        "__feature__",
+        "__features__",
+        "_feat",
+        "_feats",
+        "_feature",
+        "_features",
+        "feat",
+        "feats",
+        "feature",
+        "features"
+      ],
+      "native": {
+        "icon": "features"
+      }
+    },
+    {
+      "id": "filter",
+      "label": "Filter",
+      "keywords": [
+        "-filter",
+        "-filters",
+        ".filter",
+        ".filters",
+        "__filter__",
+        "__filters__",
+        "_filter",
+        "_filters",
+        "filter",
+        "filters"
+      ],
+      "native": {
+        "icon": "filter"
+      }
+    },
+    {
+      "id": "firebase",
+      "label": "Firebase",
+      "keywords": [
+        "-firebase",
+        ".firebase",
+        "__firebase__",
+        "_firebase",
+        "firebase"
+      ],
+      "native": {
+        "icon": "firebase"
+      }
+    },
+    {
+      "id": "firestore",
+      "label": "Firestore",
+      "keywords": [
+        "-cloud-firestore",
+        "-firebase-firestore",
+        "-firestore",
+        ".cloud-firestore",
+        ".firebase-firestore",
+        ".firestore",
+        "__cloud-firestore__",
+        "__firebase-firestore__",
+        "__firestore__",
+        "_cloud-firestore",
+        "_firebase-firestore",
+        "_firestore",
+        "cloud-firestore",
+        "firebase-firestore",
+        "firestore"
+      ],
+      "native": {
+        "icon": "firestore"
+      }
+    },
+    {
+      "id": "flow",
+      "label": "Flow",
+      "keywords": [
+        "-flow-typed",
+        ".flow-typed",
+        "__flow-typed__",
+        "_flow-typed",
+        "flow-typed"
+      ],
+      "native": {
+        "icon": "flow"
+      }
+    },
+    {
+      "id": "flutter",
+      "label": "Flutter",
+      "keywords": [
+        "-flutter",
+        ".flutter",
+        "__flutter__",
+        "_flutter",
+        "flutter"
+      ],
+      "native": {
+        "icon": "flutter"
+      }
+    },
+    {
+      "id": "font",
+      "label": "Font",
+      "keywords": [
+        "-font",
+        "-fonts",
+        "-typeface",
+        "-typefaces",
+        ".font",
+        ".fonts",
+        ".typeface",
+        ".typefaces",
+        "__font__",
+        "__fonts__",
+        "__typeface__",
+        "__typefaces__",
+        "_font",
+        "_fonts",
+        "_typeface",
+        "_typefaces",
+        "font",
+        "fonts",
+        "typeface",
+        "typefaces"
+      ],
+      "native": {
+        "icon": "font"
+      }
+    },
+    {
+      "id": "forgejo",
+      "label": "Forgejo",
+      "keywords": [
+        "-forgejo",
+        ".forgejo",
+        "__forgejo__",
+        "_forgejo",
+        "forgejo"
+      ],
+      "native": {
+        "icon": "forgejo"
+      }
+    },
+    {
+      "id": "form",
+      "label": "Form",
+      "keywords": [
+        "-form",
+        "-forms",
+        ".form",
+        ".forms",
+        "__form__",
+        "__forms__",
+        "_form",
+        "_forms",
+        "form",
+        "forms"
+      ],
+      "native": {
+        "icon": "form"
+      }
+    },
+    {
+      "id": "functions",
+      "label": "Functions",
+      "keywords": [
+        "-calc",
+        "-calcs",
+        "-calculation",
+        "-calculations",
+        "-composable",
+        "-composables",
+        "-func",
+        "-funcs",
+        "-function",
+        "-functions",
+        "-lambda",
+        "-lambdas",
+        "-logic",
+        "-math",
+        "-maths",
+        ".calc",
+        ".calcs",
+        ".calculation",
+        ".calculations",
+        ".composable",
+        ".composables",
+        ".func",
+        ".funcs",
+        ".function",
+        ".functions",
+        ".lambda",
+        ".lambdas",
+        ".logic",
+        ".math",
+        ".maths",
+        "__calc__",
+        "__calcs__",
+        "__calculation__",
+        "__calculations__",
+        "__composable__",
+        "__composables__",
+        "__func__",
+        "__funcs__",
+        "__function__",
+        "__functions__",
+        "__lambda__",
+        "__lambdas__",
+        "__logic__",
+        "__math__",
+        "__maths__",
+        "_calc",
+        "_calcs",
+        "_calculation",
+        "_calculations",
+        "_composable",
+        "_composables",
+        "_func",
+        "_funcs",
+        "_function",
+        "_functions",
+        "_lambda",
+        "_lambdas",
+        "_logic",
+        "_math",
+        "_maths",
+        "calc",
+        "calcs",
+        "calculation",
+        "calculations",
+        "composable",
+        "composables",
+        "func",
+        "funcs",
+        "function",
+        "functions",
+        "lambda",
+        "lambdas",
+        "logic",
+        "math",
+        "maths"
+      ],
+      "native": {
+        "icon": "functions"
+      }
+    },
+    {
+      "id": "gamemaker",
+      "label": "Gamemaker",
+      "keywords": [
+        "-gamemaker",
+        "-gamemaker2",
+        ".gamemaker",
+        ".gamemaker2",
+        "__gamemaker2__",
+        "__gamemaker__",
+        "_gamemaker",
+        "_gamemaker2",
+        "gamemaker",
+        "gamemaker2"
+      ],
+      "native": {
+        "icon": "gamemaker"
+      }
+    },
+    {
+      "id": "gemini-ai",
+      "label": "Gemini Ai",
+      "keywords": [
+        "-gemini",
+        "-gemini-ai",
+        "-geminiai",
+        ".gemini",
+        ".gemini-ai",
+        ".geminiai",
+        "__gemini-ai__",
+        "__gemini__",
+        "__geminiai__",
+        "_gemini",
+        "_gemini-ai",
+        "_geminiai",
+        "gemini",
+        "gemini-ai",
+        "geminiai"
+      ],
+      "native": {
+        "icon": "gemini-ai"
+      }
+    },
+    {
+      "id": "generator",
+      "label": "Generator",
+      "keywords": [
+        "-auto",
+        "-cfn-gen",
+        "-gen",
+        "-generated",
+        "-generator",
+        "-generators",
+        "-gens",
+        ".auto",
+        ".cfn-gen",
+        ".gen",
+        ".generated",
+        ".generator",
+        ".generators",
+        ".gens",
+        "__auto__",
+        "__cfn-gen__",
+        "__gen__",
+        "__generated__",
+        "__generator__",
+        "__generators__",
+        "__gens__",
+        "_auto",
+        "_cfn-gen",
+        "_gen",
+        "_generated",
+        "_generator",
+        "_generators",
+        "_gens",
+        "auto",
+        "cfn-gen",
+        "gen",
+        "generated",
+        "generator",
+        "generators",
+        "gens"
+      ],
+      "native": {
+        "icon": "generator"
+      }
+    },
+    {
+      "id": "gh-workflows",
+      "label": "Gh Workflows",
+      "keywords": [
+        "-github/workflows",
+        ".github/workflows",
+        "__github/workflows__",
+        "_github/workflows",
+        "github/workflows"
+      ],
+      "native": {
+        "icon": "gh-workflows"
+      }
+    },
+    {
+      "id": "git",
+      "label": "Git",
+      "keywords": [
+        "-git",
+        "-githooks",
+        "-patches",
+        "-submodules",
+        ".git",
+        ".githooks",
+        ".patches",
+        ".submodules",
+        "__git__",
+        "__githooks__",
+        "__patches__",
+        "__submodules__",
+        "_git",
+        "_githooks",
+        "_patches",
+        "_submodules",
+        "git",
+        "githooks",
+        "patches",
+        "submodules"
+      ],
+      "native": {
+        "icon": "git"
+      }
+    },
+    {
+      "id": "gitea",
+      "label": "Gitea",
+      "keywords": [
+        "-gitea",
+        ".gitea",
+        "__gitea__",
+        "_gitea",
+        "gitea"
+      ],
+      "native": {
+        "icon": "gitea"
+      }
+    },
+    {
+      "id": "github",
+      "label": "Github",
+      "keywords": [
+        "-github",
+        ".github",
+        "__github__",
+        "_github",
+        "github"
+      ],
+      "native": {
+        "icon": "github"
+      }
+    },
+    {
+      "id": "gitlab",
+      "label": "Gitlab",
+      "keywords": [
+        "-gitlab",
+        ".gitlab",
+        "__gitlab__",
+        "_gitlab",
+        "gitlab"
+      ],
+      "native": {
+        "icon": "gitlab"
+      }
+    },
+    {
+      "id": "global",
+      "label": "Global",
+      "keywords": [
+        "-global",
+        ".global",
+        "__global__",
+        "_global",
+        "global"
+      ],
+      "native": {
+        "icon": "global"
+      }
+    },
+    {
+      "id": "go",
+      "label": "Go",
+      "keywords": [
+        "-go",
+        "-golang",
+        ".go",
+        ".golang",
+        "__go__",
+        "__golang__",
+        "_go",
+        "_golang",
+        "go",
+        "golang"
+      ],
+      "native": {
+        "icon": "go"
+      }
+    },
+    {
+      "id": "godot",
+      "label": "Godot",
+      "keywords": [
+        "-godot",
+        "-godot-cpp",
+        ".godot",
+        ".godot-cpp",
+        "__godot-cpp__",
+        "__godot__",
+        "_godot",
+        "_godot-cpp",
+        "godot",
+        "godot-cpp"
+      ],
+      "native": {
+        "icon": "godot"
+      }
+    },
+    {
+      "id": "gradle",
+      "label": "Gradle",
+      "keywords": [
+        "-gradle",
+        ".gradle",
+        "__gradle__",
+        "_gradle",
+        "gradle"
+      ],
+      "native": {
+        "icon": "gradle"
+      }
+    },
+    {
+      "id": "graphql",
+      "label": "Graphql",
+      "keywords": [
+        "-gql",
+        "-graphql",
+        ".gql",
+        ".graphql",
+        "__gql__",
+        "__graphql__",
+        "_gql",
+        "_graphql",
+        "gql",
+        "graphql"
+      ],
+      "native": {
+        "icon": "graphql"
+      }
+    },
+    {
+      "id": "guard",
+      "label": "Guard",
+      "keywords": [
+        "-guard",
+        "-guards",
+        ".guard",
+        ".guards",
+        "__guard__",
+        "__guards__",
+        "_guard",
+        "_guards",
+        "guard",
+        "guards"
+      ],
+      "native": {
+        "icon": "guard"
+      }
+    },
+    {
+      "id": "gulp",
+      "label": "Gulp",
+      "keywords": [
+        "-gulp",
+        "-gulp-tasks",
+        "-gulpfile.babel.js",
+        "-gulpfile.js",
+        "-gulpfile.mjs",
+        "-gulpfile.ts",
+        "-gulpfiles",
+        ".gulp",
+        ".gulp-tasks",
+        ".gulpfile.babel.js",
+        ".gulpfile.js",
+        ".gulpfile.mjs",
+        ".gulpfile.ts",
+        ".gulpfiles",
+        "__gulp-tasks__",
+        "__gulp__",
+        "__gulpfile.babel.js__",
+        "__gulpfile.js__",
+        "__gulpfile.mjs__",
+        "__gulpfile.ts__",
+        "__gulpfiles__",
+        "_gulp",
+        "_gulp-tasks",
+        "_gulpfile.babel.js",
+        "_gulpfile.js",
+        "_gulpfile.mjs",
+        "_gulpfile.ts",
+        "_gulpfiles",
+        "gulp",
+        "gulp-tasks",
+        "gulpfile.babel.js",
+        "gulpfile.js",
+        "gulpfile.mjs",
+        "gulpfile.ts",
+        "gulpfiles"
+      ],
+      "native": {
+        "icon": "gulp"
+      }
+    },
+    {
+      "id": "helm",
+      "label": "Helm",
+      "keywords": [
+        "-helm",
+        "-helmchart",
+        "-helmcharts",
+        ".helm",
+        ".helmchart",
+        ".helmcharts",
+        "__helm__",
+        "__helmchart__",
+        "__helmcharts__",
+        "_helm",
+        "_helmchart",
+        "_helmcharts",
+        "helm",
+        "helmchart",
+        "helmcharts"
+      ],
+      "native": {
+        "icon": "helm"
+      }
+    },
+    {
+      "id": "helper",
+      "label": "Helper",
+      "keywords": [
+        "-helper",
+        "-helpers",
+        ".helper",
+        ".helpers",
+        "__helper__",
+        "__helpers__",
+        "_helper",
+        "_helpers",
+        "helper",
+        "helpers"
+      ],
+      "native": {
+        "icon": "helper"
+      }
+    },
+    {
+      "id": "home",
+      "label": "Home",
+      "keywords": [
+        "-home",
+        "-landing",
+        "-main",
+        "-start",
+        ".home",
+        ".landing",
+        ".main",
+        ".start",
+        "__home__",
+        "__landing__",
+        "__main__",
+        "__start__",
+        "_home",
+        "_landing",
+        "_main",
+        "_start",
+        "home",
+        "landing",
+        "main",
+        "start"
+      ],
+      "native": {
+        "icon": "home"
+      }
+    },
+    {
+      "id": "hook",
+      "label": "Hook",
+      "keywords": [
+        "-hook",
+        "-hooks",
+        ".hook",
+        ".hooks",
+        "__hook__",
+        "__hooks__",
+        "_hook",
+        "_hooks",
+        "hook",
+        "hooks"
+      ],
+      "native": {
+        "icon": "hook"
+      }
+    },
+    {
+      "id": "husky",
+      "label": "Husky",
+      "keywords": [
+        "-husky",
+        ".husky",
+        "__husky__",
+        "_husky",
+        "husky"
+      ],
+      "native": {
+        "icon": "husky"
+      }
+    },
+    {
+      "id": "i18n",
+      "label": "I18n",
+      "keywords": [
+        "-i18n",
+        "-internationalization",
+        "-l10n",
+        "-lang",
+        "-langs",
+        "-language",
+        "-languages",
+        "-locale",
+        "-locales",
+        "-localization",
+        "-translate",
+        "-translation",
+        "-translations",
+        "-tx",
+        ".i18n",
+        ".internationalization",
+        ".l10n",
+        ".lang",
+        ".langs",
+        ".language",
+        ".languages",
+        ".locale",
+        ".locales",
+        ".localization",
+        ".translate",
+        ".translation",
+        ".translations",
+        ".tx",
+        "__i18n__",
+        "__internationalization__",
+        "__l10n__",
+        "__lang__",
+        "__langs__",
+        "__language__",
+        "__languages__",
+        "__locale__",
+        "__locales__",
+        "__localization__",
+        "__translate__",
+        "__translation__",
+        "__translations__",
+        "__tx__",
+        "_i18n",
+        "_internationalization",
+        "_l10n",
+        "_lang",
+        "_langs",
+        "_language",
+        "_languages",
+        "_locale",
+        "_locales",
+        "_localization",
+        "_translate",
+        "_translation",
+        "_translations",
+        "_tx",
+        "i18n",
+        "internationalization",
+        "l10n",
+        "lang",
+        "langs",
+        "language",
+        "languages",
+        "locale",
+        "locales",
+        "localization",
+        "translate",
+        "translation",
+        "translations",
+        "tx"
+      ],
+      "native": {
+        "icon": "i18n"
+      }
+    },
+    {
+      "id": "images",
+      "label": "Images",
+      "keywords": [
+        "-fig",
+        "-figs",
+        "-figure",
+        "-figures",
+        "-ico",
+        "-icon",
+        "-icons",
+        "-icos",
+        "-image",
+        "-images",
+        "-img",
+        "-imgs",
+        "-photo",
+        "-photograph",
+        "-photographs",
+        "-photos",
+        "-pic",
+        "-pics",
+        "-picture",
+        "-pictures",
+        "-screengrab",
+        "-screengrabs",
+        "-screenshot",
+        "-screenshots",
+        "-texture",
+        "-textures",
+        ".fig",
+        ".figs",
+        ".figure",
+        ".figures",
+        ".ico",
+        ".icon",
+        ".icons",
+        ".icos",
+        ".image",
+        ".images",
+        ".img",
+        ".imgs",
+        ".photo",
+        ".photograph",
+        ".photographs",
+        ".photos",
+        ".pic",
+        ".pics",
+        ".picture",
+        ".pictures",
+        ".screengrab",
+        ".screengrabs",
+        ".screenshot",
+        ".screenshots",
+        ".texture",
+        ".textures",
+        "__fig__",
+        "__figs__",
+        "__figure__",
+        "__figures__",
+        "__ico__",
+        "__icon__",
+        "__icons__",
+        "__icos__",
+        "__image__",
+        "__images__",
+        "__img__",
+        "__imgs__",
+        "__photo__",
+        "__photograph__",
+        "__photographs__",
+        "__photos__",
+        "__pic__",
+        "__pics__",
+        "__picture__",
+        "__pictures__",
+        "__screengrab__",
+        "__screengrabs__",
+        "__screenshot__",
+        "__screenshots__",
+        "__texture__",
+        "__textures__",
+        "_fig",
+        "_figs",
+        "_figure",
+        "_figures",
+        "_ico",
+        "_icon",
+        "_icons",
+        "_icos",
+        "_image",
+        "_images",
+        "_img",
+        "_imgs",
+        "_photo",
+        "_photograph",
+        "_photographs",
+        "_photos",
+        "_pic",
+        "_pics",
+        "_picture",
+        "_pictures",
+        "_screengrab",
+        "_screengrabs",
+        "_screenshot",
+        "_screenshots",
+        "_texture",
+        "_textures",
+        "fig",
+        "figs",
+        "figure",
+        "figures",
+        "ico",
+        "icon",
+        "icons",
+        "icos",
+        "image",
+        "images",
+        "img",
+        "imgs",
+        "photo",
+        "photograph",
+        "photographs",
+        "photos",
+        "pic",
+        "pics",
+        "picture",
+        "pictures",
+        "screengrab",
+        "screengrabs",
+        "screenshot",
+        "screenshots",
+        "texture",
+        "textures"
+      ],
+      "native": {
+        "icon": "images"
+      }
+    },
+    {
+      "id": "import",
+      "label": "Import",
+      "keywords": [
+        "-import",
+        "-imported",
+        "-imports",
+        ".import",
+        ".imported",
+        ".imports",
+        "__import__",
+        "__imported__",
+        "__imports__",
+        "_import",
+        "_imported",
+        "_imports",
+        "import",
+        "imported",
+        "imports"
+      ],
+      "native": {
+        "icon": "import"
+      }
+    },
+    {
+      "id": "include",
+      "label": "Include",
+      "keywords": [
+        "-inc",
+        "-inc64",
+        "-include",
+        "-includes",
+        "-partial",
+        "-partials",
+        ".inc",
+        ".inc64",
+        ".include",
+        ".includes",
+        ".partial",
+        ".partials",
+        "__inc64__",
+        "__inc__",
+        "__include__",
+        "__includes__",
+        "__partial__",
+        "__partials__",
+        "_inc",
+        "_inc64",
+        "_include",
+        "_includes",
+        "_partial",
+        "_partials",
+        "inc",
+        "inc64",
+        "include",
+        "includes",
+        "partial",
+        "partials"
+      ],
+      "native": {
+        "icon": "include"
+      }
+    },
+    {
+      "id": "input",
+      "label": "Input",
+      "keywords": [
+        "-in",
+        "-input",
+        "-inputs",
+        "-io",
+        ".in",
+        ".input",
+        ".inputs",
+        ".io",
+        "__in__",
+        "__input__",
+        "__inputs__",
+        "__io__",
+        "_in",
+        "_input",
+        "_inputs",
+        "_io",
+        "in",
+        "input",
+        "inputs",
+        "io"
+      ],
+      "native": {
+        "icon": "input"
+      }
+    },
+    {
+      "id": "intellij",
+      "label": "Intellij",
+      "keywords": [
+        "-idea",
+        ".idea",
+        "__idea__",
+        "_idea",
+        "idea"
+      ],
+      "native": {
+        "icon": "intellij"
+      }
+    },
+    {
+      "id": "interceptor",
+      "label": "Interceptor",
+      "keywords": [
+        "-interceptor",
+        "-interceptors",
+        ".interceptor",
+        ".interceptors",
+        "__interceptor__",
+        "__interceptors__",
+        "_interceptor",
+        "_interceptors",
+        "interceptor",
+        "interceptors"
+      ],
+      "native": {
+        "icon": "interceptor"
+      }
+    },
+    {
+      "id": "interface",
+      "label": "Interface",
+      "keywords": [
+        "-interface",
+        "-interfaces",
+        ".interface",
+        ".interfaces",
+        "__interface__",
+        "__interfaces__",
+        "_interface",
+        "_interfaces",
+        "interface",
+        "interfaces"
+      ],
+      "native": {
+        "icon": "interface"
+      }
+    },
+    {
+      "id": "ios",
+      "label": "Ios",
+      "keywords": [
+        "-ios",
+        ".ios",
+        "__ios__",
+        "_ios",
+        "ios"
+      ],
+      "native": {
+        "icon": "ios"
+      }
+    },
+    {
+      "id": "java",
+      "label": "Java",
+      "keywords": [
+        "-java",
+        ".java",
+        "__java__",
+        "_java",
+        "java"
+      ],
+      "native": {
+        "icon": "java"
+      }
+    },
+    {
+      "id": "javascript",
+      "label": "Javascript",
+      "keywords": [
+        "-cjs",
+        "-javascript",
+        "-javascripts",
+        "-js",
+        "-mjs",
+        ".cjs",
+        ".javascript",
+        ".javascripts",
+        ".js",
+        ".mjs",
+        "__cjs__",
+        "__javascript__",
+        "__javascripts__",
+        "__js__",
+        "__mjs__",
+        "_cjs",
+        "_javascript",
+        "_javascripts",
+        "_js",
+        "_mjs",
+        "cjs",
+        "javascript",
+        "javascripts",
+        "js",
+        "mjs"
+      ],
+      "native": {
+        "icon": "javascript"
+      }
+    },
+    {
+      "id": "jinja",
+      "label": "Jinja",
+      "keywords": [
+        "-j2",
+        "-jinja",
+        "-jinja2",
+        ".j2",
+        ".jinja",
+        ".jinja2",
+        "__j2__",
+        "__jinja2__",
+        "__jinja__",
+        "_j2",
+        "_jinja",
+        "_jinja2",
+        "j2",
+        "jinja",
+        "jinja2"
+      ],
+      "native": {
+        "icon": "jinja"
+      }
+    },
+    {
+      "id": "job",
+      "label": "Job",
+      "keywords": [
+        "-job",
+        "-jobs",
+        ".job",
+        ".jobs",
+        "__job__",
+        "__jobs__",
+        "_job",
+        "_jobs",
+        "job",
+        "jobs"
+      ],
+      "native": {
+        "icon": "job"
+      }
+    },
+    {
+      "id": "json",
+      "label": "Json",
+      "keywords": [
+        "-json",
+        "-jsonc",
+        "-jsonl",
+        "-jsons",
+        ".json",
+        ".jsonc",
+        ".jsonl",
+        ".jsons",
+        "__json__",
+        "__jsonc__",
+        "__jsonl__",
+        "__jsons__",
+        "_json",
+        "_jsonc",
+        "_jsonl",
+        "_jsons",
+        "json",
+        "jsonc",
+        "jsonl",
+        "jsons"
+      ],
+      "native": {
+        "icon": "json"
+      }
+    },
+    {
+      "id": "jupyter",
+      "label": "Jupyter",
+      "keywords": [
+        "-ipynb",
+        "-jupyter",
+        "-notebook",
+        "-notebooks",
+        ".ipynb",
+        ".jupyter",
+        ".notebook",
+        ".notebooks",
+        "__ipynb__",
+        "__jupyter__",
+        "__notebook__",
+        "__notebooks__",
+        "_ipynb",
+        "_jupyter",
+        "_notebook",
+        "_notebooks",
+        "ipynb",
+        "jupyter",
+        "notebook",
+        "notebooks"
+      ],
+      "native": {
+        "icon": "jupyter"
+      }
+    },
+    {
+      "id": "keys",
+      "label": "Keys",
+      "keywords": [
+        "-jwt",
+        "-key",
+        "-keys",
+        "-secret",
+        "-secrets",
+        "-token",
+        "-tokens",
+        ".jwt",
+        ".key",
+        ".keys",
+        ".secret",
+        ".secrets",
+        ".token",
+        ".tokens",
+        "__jwt__",
+        "__key__",
+        "__keys__",
+        "__secret__",
+        "__secrets__",
+        "__token__",
+        "__tokens__",
+        "_jwt",
+        "_key",
+        "_keys",
+        "_secret",
+        "_secrets",
+        "_token",
+        "_tokens",
+        "jwt",
+        "key",
+        "keys",
+        "secret",
+        "secrets",
+        "token",
+        "tokens"
+      ],
+      "native": {
+        "icon": "keys"
+      }
+    },
+    {
+      "id": "kotlin",
+      "label": "Kotlin",
+      "keywords": [
+        "-kotlin",
+        ".kotlin",
+        "__kotlin__",
+        "_kotlin",
+        "kotlin"
+      ],
+      "native": {
+        "icon": "kotlin"
+      }
+    },
+    {
+      "id": "kubernetes",
+      "label": "Kubernetes",
+      "keywords": [
+        "-k8s",
+        "-kubernetes",
+        ".k8s",
+        ".kubernetes",
+        "__k8s__",
+        "__kubernetes__",
+        "_k8s",
+        "_kubernetes",
+        "k8s",
+        "kubernetes"
+      ],
+      "native": {
+        "icon": "kubernetes"
+      }
+    },
+    {
+      "id": "kusto",
+      "label": "Kusto",
+      "keywords": [
+        "-kql",
+        "-kusto",
+        ".kql",
+        ".kusto",
+        "__kql__",
+        "__kusto__",
+        "_kql",
+        "_kusto",
+        "kql",
+        "kusto"
+      ],
+      "native": {
+        "icon": "kusto"
+      }
+    },
+    {
+      "id": "layout",
+      "label": "Layout",
+      "keywords": [
+        "-layout",
+        "-layouts",
+        ".layout",
+        ".layouts",
+        "__layout__",
+        "__layouts__",
+        "_layout",
+        "_layouts",
+        "layout",
+        "layouts"
+      ],
+      "native": {
+        "icon": "layout"
+      }
+    },
+    {
+      "id": "lefthook",
+      "label": "Lefthook",
+      "keywords": [
+        "-lefthook",
+        "-lefthook-local",
+        ".lefthook",
+        ".lefthook-local",
+        "__lefthook-local__",
+        "__lefthook__",
+        "_lefthook",
+        "_lefthook-local",
+        "lefthook",
+        "lefthook-local"
+      ],
+      "native": {
+        "icon": "lefthook"
+      }
+    },
+    {
+      "id": "less",
+      "label": "Less",
+      "keywords": [
+        "-less",
+        ".less",
+        "__less__",
+        "_less",
+        "less"
+      ],
+      "native": {
+        "icon": "less"
+      }
+    },
+    {
+      "id": "lib",
+      "label": "Lib",
+      "keywords": [
+        "-crates",
+        "-external",
+        "-externals",
+        "-lib",
+        "-lib64",
+        "-libraries",
+        "-library",
+        "-libs",
+        "-third-party",
+        "-thirdparty",
+        "-vendor",
+        "-vendors",
+        ".crates",
+        ".external",
+        ".externals",
+        ".lib",
+        ".lib64",
+        ".libraries",
+        ".library",
+        ".libs",
+        ".third-party",
+        ".thirdparty",
+        ".vendor",
+        ".vendors",
+        "__crates__",
+        "__external__",
+        "__externals__",
+        "__lib64__",
+        "__lib__",
+        "__libraries__",
+        "__library__",
+        "__libs__",
+        "__third-party__",
+        "__thirdparty__",
+        "__vendor__",
+        "__vendors__",
+        "_crates",
+        "_external",
+        "_externals",
+        "_lib",
+        "_lib64",
+        "_libraries",
+        "_library",
+        "_libs",
+        "_third-party",
+        "_thirdparty",
+        "_vendor",
+        "_vendors",
+        "crates",
+        "external",
+        "externals",
+        "lib",
+        "lib64",
+        "libraries",
+        "library",
+        "libs",
+        "third-party",
+        "thirdparty",
+        "vendor",
+        "vendors"
+      ],
+      "native": {
+        "icon": "lib"
+      }
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "keywords": [
+        "-license",
+        "-licenses",
+        ".license",
+        ".licenses",
+        "__license__",
+        "__licenses__",
+        "_license",
+        "_licenses",
+        "license",
+        "licenses"
+      ],
+      "native": {
+        "icon": "license"
+      }
+    },
+    {
+      "id": "link",
+      "label": "Link",
+      "keywords": [
+        "-link",
+        "-links",
+        ".link",
+        ".links",
+        "__link__",
+        "__links__",
+        "_link",
+        "_links",
+        "link",
+        "links"
+      ],
+      "native": {
+        "icon": "link"
+      }
+    },
+    {
+      "id": "linux",
+      "label": "Linux",
+      "keywords": [
+        "-centos",
+        "-deb",
+        "-debian",
+        "-deepin",
+        "-linux",
+        "-linuxbsd",
+        "-mint",
+        "-popos",
+        "-ubuntu",
+        "-unix",
+        "-wsl",
+        ".centos",
+        ".deb",
+        ".debian",
+        ".deepin",
+        ".linux",
+        ".linuxbsd",
+        ".mint",
+        ".popos",
+        ".ubuntu",
+        ".unix",
+        ".wsl",
+        "__centos__",
+        "__deb__",
+        "__debian__",
+        "__deepin__",
+        "__linux__",
+        "__linuxbsd__",
+        "__mint__",
+        "__popos__",
+        "__ubuntu__",
+        "__unix__",
+        "__wsl__",
+        "_centos",
+        "_deb",
+        "_debian",
+        "_deepin",
+        "_linux",
+        "_linuxbsd",
+        "_mint",
+        "_popos",
+        "_ubuntu",
+        "_unix",
+        "_wsl",
+        "centos",
+        "deb",
+        "debian",
+        "deepin",
+        "linux",
+        "linuxbsd",
+        "mint",
+        "popos",
+        "ubuntu",
+        "unix",
+        "wsl"
+      ],
+      "native": {
+        "icon": "linux"
+      }
+    },
+    {
+      "id": "liquibase",
+      "label": "Liquibase",
+      "keywords": [
+        "-liquibase",
+        ".liquibase",
+        "__liquibase__",
+        "_liquibase",
+        "liquibase"
+      ],
+      "native": {
+        "icon": "liquibase"
+      }
+    },
+    {
+      "id": "log",
+      "label": "Log",
+      "keywords": [
+        "-log",
+        "-logging",
+        "-logs",
+        ".log",
+        ".logging",
+        ".logs",
+        "__log__",
+        "__logging__",
+        "__logs__",
+        "_log",
+        "_logging",
+        "_logs",
+        "log",
+        "logging",
+        "logs"
+      ],
+      "native": {
+        "icon": "log"
+      }
+    },
+    {
+      "id": "lottie",
+      "label": "Lottie",
+      "keywords": [
+        "-lottie",
+        "-lottiefiles",
+        "-lotties",
+        ".lottie",
+        ".lottiefiles",
+        ".lotties",
+        "__lottie__",
+        "__lottiefiles__",
+        "__lotties__",
+        "_lottie",
+        "_lottiefiles",
+        "_lotties",
+        "lottie",
+        "lottiefiles",
+        "lotties"
+      ],
+      "native": {
+        "icon": "lottie"
+      }
+    },
+    {
+      "id": "lua",
+      "label": "Lua",
+      "keywords": [
+        "-lua",
+        ".lua",
+        "__lua__",
+        "_lua",
+        "lua"
+      ],
+      "native": {
+        "icon": "lua"
+      }
+    },
+    {
+      "id": "luau",
+      "label": "Luau",
+      "keywords": [
+        "-luau",
+        ".luau",
+        "__luau__",
+        "_luau",
+        "luau"
+      ],
+      "native": {
+        "icon": "luau"
+      }
+    },
+    {
+      "id": "macos",
+      "label": "Macos",
+      "keywords": [
+        "-apple",
+        "-ds_store",
+        "-ipad",
+        "-iphone",
+        "-ipod",
+        "-mac",
+        "-macbook",
+        "-macbook-air",
+        "-macos",
+        "-macosx",
+        "-osx",
+        ".apple",
+        ".ds_store",
+        ".ipad",
+        ".iphone",
+        ".ipod",
+        ".mac",
+        ".macbook",
+        ".macbook-air",
+        ".macos",
+        ".macosx",
+        ".osx",
+        "__apple__",
+        "__ds_store__",
+        "__ipad__",
+        "__iphone__",
+        "__ipod__",
+        "__mac__",
+        "__macbook-air__",
+        "__macbook__",
+        "__macos__",
+        "__macosx__",
+        "__osx__",
+        "_apple",
+        "_ds_store",
+        "_ipad",
+        "_iphone",
+        "_ipod",
+        "_mac",
+        "_macbook",
+        "_macbook-air",
+        "_macos",
+        "_macosx",
+        "_osx",
+        "apple",
+        "ds_store",
+        "ipad",
+        "iphone",
+        "ipod",
+        "mac",
+        "macbook",
+        "macbook-air",
+        "macos",
+        "macosx",
+        "osx"
+      ],
+      "native": {
+        "icon": "macos"
+      }
+    },
+    {
+      "id": "mail",
+      "label": "Mail",
+      "keywords": [
+        "-email",
+        "-emails",
+        "-mail",
+        "-mailers",
+        "-mails",
+        "-smtp",
+        ".email",
+        ".emails",
+        ".mail",
+        ".mailers",
+        ".mails",
+        ".smtp",
+        "__email__",
+        "__emails__",
+        "__mail__",
+        "__mailers__",
+        "__mails__",
+        "__smtp__",
+        "_email",
+        "_emails",
+        "_mail",
+        "_mailers",
+        "_mails",
+        "_smtp",
+        "email",
+        "emails",
+        "mail",
+        "mailers",
+        "mails",
+        "smtp"
+      ],
+      "native": {
+        "icon": "mail"
+      }
+    },
+    {
+      "id": "mappings",
+      "label": "Mappings",
+      "keywords": [
+        "-mapping",
+        "-mappings",
+        ".mapping",
+        ".mappings",
+        "__mapping__",
+        "__mappings__",
+        "_mapping",
+        "_mappings",
+        "mapping",
+        "mappings"
+      ],
+      "native": {
+        "icon": "mappings"
+      }
+    },
+    {
+      "id": "markdown",
+      "label": "Markdown",
+      "keywords": [
+        "-markdown",
+        "-md",
+        ".markdown",
+        ".md",
+        "__markdown__",
+        "__md__",
+        "_markdown",
+        "_md",
+        "markdown",
+        "md"
+      ],
+      "native": {
+        "icon": "markdown"
+      }
+    },
+    {
+      "id": "mercurial",
+      "label": "Mercurial",
+      "keywords": [
+        "-hg",
+        "-hgext",
+        "-hghooks",
+        ".hg",
+        ".hgext",
+        ".hghooks",
+        "__hg__",
+        "__hgext__",
+        "__hghooks__",
+        "_hg",
+        "_hgext",
+        "_hghooks",
+        "hg",
+        "hgext",
+        "hghooks"
+      ],
+      "native": {
+        "icon": "mercurial"
+      }
+    },
+    {
+      "id": "messages",
+      "label": "Messages",
+      "keywords": [
+        "-chat",
+        "-chats",
+        "-conversation",
+        "-conversations",
+        "-dialog",
+        "-dialogs",
+        "-forum",
+        "-message",
+        "-messages",
+        "-messaging",
+        ".chat",
+        ".chats",
+        ".conversation",
+        ".conversations",
+        ".dialog",
+        ".dialogs",
+        ".forum",
+        ".message",
+        ".messages",
+        ".messaging",
+        "__chat__",
+        "__chats__",
+        "__conversation__",
+        "__conversations__",
+        "__dialog__",
+        "__dialogs__",
+        "__forum__",
+        "__message__",
+        "__messages__",
+        "__messaging__",
+        "_chat",
+        "_chats",
+        "_conversation",
+        "_conversations",
+        "_dialog",
+        "_dialogs",
+        "_forum",
+        "_message",
+        "_messages",
+        "_messaging",
+        "chat",
+        "chats",
+        "conversation",
+        "conversations",
+        "dialog",
+        "dialogs",
+        "forum",
+        "message",
+        "messages",
+        "messaging"
+      ],
+      "native": {
+        "icon": "messages"
+      }
+    },
+    {
+      "id": "meta",
+      "label": "Meta",
+      "keywords": [
+        "-meta",
+        "-metadata",
+        ".meta",
+        ".metadata",
+        "__meta__",
+        "__metadata__",
+        "_meta",
+        "_metadata",
+        "meta",
+        "metadata"
+      ],
+      "native": {
+        "icon": "meta"
+      }
+    },
+    {
+      "id": "metro",
+      "label": "Metro",
+      "keywords": [
+        "-metro",
+        ".metro",
+        "__metro__",
+        "_metro",
+        "metro"
+      ],
+      "native": {
+        "icon": "metro"
+      }
+    },
+    {
+      "id": "middleware",
+      "label": "Middleware",
+      "keywords": [
+        "-middleware",
+        "-middlewares",
+        ".middleware",
+        ".middlewares",
+        "__middleware__",
+        "__middlewares__",
+        "_middleware",
+        "_middlewares",
+        "middleware",
+        "middlewares"
+      ],
+      "native": {
+        "icon": "middleware"
+      }
+    },
+    {
+      "id": "migrations",
+      "label": "Migrations",
+      "keywords": [
+        "-migration",
+        "-migrations",
+        ".migration",
+        ".migrations",
+        "__migration__",
+        "__migrations__",
+        "_migration",
+        "_migrations",
+        "migration",
+        "migrations"
+      ],
+      "native": {
+        "icon": "migrations"
+      }
+    },
+    {
+      "id": "mjml",
+      "label": "Mjml",
+      "keywords": [
+        "-mjml",
+        ".mjml",
+        "__mjml__",
+        "_mjml",
+        "mjml"
+      ],
+      "native": {
+        "icon": "mjml"
+      }
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "keywords": [
+        "-mobile",
+        "-mobiles",
+        "-phone",
+        "-phones",
+        "-portability",
+        "-portable",
+        ".mobile",
+        ".mobiles",
+        ".phone",
+        ".phones",
+        ".portability",
+        ".portable",
+        "__mobile__",
+        "__mobiles__",
+        "__phone__",
+        "__phones__",
+        "__portability__",
+        "__portable__",
+        "_mobile",
+        "_mobiles",
+        "_phone",
+        "_phones",
+        "_portability",
+        "_portable",
+        "mobile",
+        "mobiles",
+        "phone",
+        "phones",
+        "portability",
+        "portable"
+      ],
+      "native": {
+        "icon": "mobile"
+      }
+    },
+    {
+      "id": "mock",
+      "label": "Mock",
+      "keywords": [
+        "-concept",
+        "-concepts",
+        "-draft",
+        "-drafts",
+        "-fixture",
+        "-fixtures",
+        "-mock",
+        "-mocks",
+        "-sketch",
+        "-sketches",
+        ".concept",
+        ".concepts",
+        ".draft",
+        ".drafts",
+        ".fixture",
+        ".fixtures",
+        ".mock",
+        ".mocks",
+        ".sketch",
+        ".sketches",
+        "__concept__",
+        "__concepts__",
+        "__draft__",
+        "__drafts__",
+        "__fixture__",
+        "__fixtures__",
+        "__mock__",
+        "__mocks__",
+        "__sketch__",
+        "__sketches__",
+        "_concept",
+        "_concepts",
+        "_draft",
+        "_drafts",
+        "_fixture",
+        "_fixtures",
+        "_mock",
+        "_mocks",
+        "_sketch",
+        "_sketches",
+        "concept",
+        "concepts",
+        "draft",
+        "drafts",
+        "fixture",
+        "fixtures",
+        "mock",
+        "mocks",
+        "sketch",
+        "sketches"
+      ],
+      "native": {
+        "icon": "mock"
+      }
+    },
+    {
+      "id": "mojo",
+      "label": "Mojo",
+      "keywords": [
+        "-mojo",
+        ".mojo",
+        "__mojo__",
+        "_mojo",
+        "mojo"
+      ],
+      "native": {
+        "icon": "mojo"
+      }
+    },
+    {
+      "id": "molecule",
+      "label": "Molecule",
+      "keywords": [
+        "-molecule",
+        "-molecules",
+        ".molecule",
+        ".molecules",
+        "__molecule__",
+        "__molecules__",
+        "_molecule",
+        "_molecules",
+        "molecule",
+        "molecules"
+      ],
+      "native": {
+        "icon": "molecule"
+      }
+    },
+    {
+      "id": "moon",
+      "label": "Moon",
+      "keywords": [
+        "-moon",
+        ".moon",
+        "__moon__",
+        "_moon",
+        "moon"
+      ],
+      "native": {
+        "icon": "moon"
+      }
+    },
+    {
+      "id": "netlify",
+      "label": "Netlify",
+      "keywords": [
+        "-netlify",
+        ".netlify",
+        "__netlify__",
+        "_netlify",
+        "netlify"
+      ],
+      "native": {
+        "icon": "netlify"
+      }
+    },
+    {
+      "id": "next",
+      "label": "Next",
+      "keywords": [
+        "-next",
+        ".next",
+        "__next__",
+        "_next",
+        "next"
+      ],
+      "native": {
+        "icon": "next"
+      }
+    },
+    {
+      "id": "nginx",
+      "label": "Nginx",
+      "keywords": [
+        "-nginx",
+        ".nginx",
+        "__nginx__",
+        "_nginx",
+        "nginx"
+      ],
+      "native": {
+        "icon": "nginx"
+      }
+    },
+    {
+      "id": "ngrx-store",
+      "label": "Ngrx Store",
+      "keywords": [
+        "-store",
+        ".store",
+        "__store__",
+        "_store",
+        "store"
+      ],
+      "native": {
+        "icon": "ngrx-store"
+      }
+    },
+    {
+      "id": "node",
+      "label": "Node",
+      "keywords": [
+        "-node",
+        "-node_modules",
+        "-nodejs",
+        ".node",
+        ".node_modules",
+        ".nodejs",
+        "__node__",
+        "__node_modules__",
+        "__nodejs__",
+        "_node",
+        "_node_modules",
+        "_nodejs",
+        "node",
+        "node_modules",
+        "nodejs"
+      ],
+      "native": {
+        "icon": "node"
+      }
+    },
+    {
+      "id": "nuxt",
+      "label": "Nuxt",
+      "keywords": [
+        "-nuxt",
+        ".nuxt",
+        "__nuxt__",
+        "_nuxt",
+        "nuxt"
+      ],
+      "native": {
+        "icon": "nuxt"
+      }
+    },
+    {
+      "id": "obsidian",
+      "label": "Obsidian",
+      "keywords": [
+        "-obsidian",
+        ".obsidian",
+        "__obsidian__",
+        "_obsidian",
+        "obsidian"
+      ],
+      "native": {
+        "icon": "obsidian"
+      }
+    },
+    {
+      "id": "opencode",
+      "label": "Opencode",
+      "keywords": [
+        "-opencode",
+        ".opencode",
+        "__opencode__",
+        "_opencode",
+        "opencode"
+      ],
+      "native": {
+        "icon": "opencode"
+      }
+    },
+    {
+      "id": "organism",
+      "label": "Organism",
+      "keywords": [
+        "-organism",
+        "-organisms",
+        ".organism",
+        ".organisms",
+        "__organism__",
+        "__organisms__",
+        "_organism",
+        "_organisms",
+        "organism",
+        "organisms"
+      ],
+      "native": {
+        "icon": "organism"
+      }
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "keywords": [
+        "-etc",
+        "-extra",
+        "-extras",
+        "-misc",
+        "-miscellaneous",
+        "-other",
+        "-others",
+        ".etc",
+        ".extra",
+        ".extras",
+        ".misc",
+        ".miscellaneous",
+        ".other",
+        ".others",
+        "__etc__",
+        "__extra__",
+        "__extras__",
+        "__misc__",
+        "__miscellaneous__",
+        "__other__",
+        "__others__",
+        "_etc",
+        "_extra",
+        "_extras",
+        "_misc",
+        "_miscellaneous",
+        "_other",
+        "_others",
+        "etc",
+        "extra",
+        "extras",
+        "misc",
+        "miscellaneous",
+        "other",
+        "others"
+      ],
+      "native": {
+        "icon": "other"
+      }
+    },
+    {
+      "id": "packages",
+      "label": "Packages",
+      "keywords": [
+        "-dependencies",
+        "-devpackages",
+        "-package",
+        "-packages",
+        "-pkg",
+        "-pkgs",
+        "-serverpackages",
+        ".dependencies",
+        ".devpackages",
+        ".package",
+        ".packages",
+        ".pkg",
+        ".pkgs",
+        ".serverpackages",
+        "__dependencies__",
+        "__devpackages__",
+        "__package__",
+        "__packages__",
+        "__pkg__",
+        "__pkgs__",
+        "__serverpackages__",
+        "_dependencies",
+        "_devpackages",
+        "_package",
+        "_packages",
+        "_pkg",
+        "_pkgs",
+        "_serverpackages",
+        "dependencies",
+        "devpackages",
+        "package",
+        "packages",
+        "pkg",
+        "pkgs",
+        "serverpackages"
+      ],
+      "native": {
+        "icon": "packages"
+      }
+    },
+    {
+      "id": "pdf",
+      "label": "Pdf",
+      "keywords": [
+        "-pdf",
+        "-pdfs",
+        ".pdf",
+        ".pdfs",
+        "__pdf__",
+        "__pdfs__",
+        "_pdf",
+        "_pdfs",
+        "pdf",
+        "pdfs"
+      ],
+      "native": {
+        "icon": "pdf"
+      }
+    },
+    {
+      "id": "pdm",
+      "label": "Pdm",
+      "keywords": [
+        "-pdm-build",
+        "-pdm-plugins",
+        ".pdm-build",
+        ".pdm-plugins",
+        "__pdm-build__",
+        "__pdm-plugins__",
+        "_pdm-build",
+        "_pdm-plugins",
+        "pdm-build",
+        "pdm-plugins"
+      ],
+      "native": {
+        "icon": "pdm"
+      }
+    },
+    {
+      "id": "php",
+      "label": "Php",
+      "keywords": [
+        "-php",
+        ".php",
+        "__php__",
+        "_php",
+        "php"
+      ],
+      "native": {
+        "icon": "php"
+      }
+    },
+    {
+      "id": "phpmailer",
+      "label": "Phpmailer",
+      "keywords": [
+        "-phpmailer",
+        ".phpmailer",
+        "__phpmailer__",
+        "_phpmailer",
+        "phpmailer"
+      ],
+      "native": {
+        "icon": "phpmailer"
+      }
+    },
+    {
+      "id": "pipe",
+      "label": "Pipe",
+      "keywords": [
+        "-pipe",
+        "-pipeline",
+        "-pipelines",
+        "-pipes",
+        ".pipe",
+        ".pipeline",
+        ".pipelines",
+        ".pipes",
+        "__pipe__",
+        "__pipeline__",
+        "__pipelines__",
+        "__pipes__",
+        "_pipe",
+        "_pipeline",
+        "_pipelines",
+        "_pipes",
+        "pipe",
+        "pipeline",
+        "pipelines",
+        "pipes"
+      ],
+      "native": {
+        "icon": "pipe"
+      }
+    },
+    {
+      "id": "plastic",
+      "label": "Plastic",
+      "keywords": [
+        "-plastic",
+        ".plastic",
+        "__plastic__",
+        "_plastic",
+        "plastic"
+      ],
+      "native": {
+        "icon": "plastic"
+      }
+    },
+    {
+      "id": "plugin",
+      "label": "Plugin",
+      "keywords": [
+        "-addin",
+        "-addins",
+        "-addon",
+        "-addons",
+        "-extension",
+        "-extensions",
+        "-mod",
+        "-modding",
+        "-mods",
+        "-module",
+        "-modules",
+        "-plugin",
+        "-plugins",
+        ".addin",
+        ".addins",
+        ".addon",
+        ".addons",
+        ".extension",
+        ".extensions",
+        ".mod",
+        ".modding",
+        ".mods",
+        ".module",
+        ".modules",
+        ".plugin",
+        ".plugins",
+        "__addin__",
+        "__addins__",
+        "__addon__",
+        "__addons__",
+        "__extension__",
+        "__extensions__",
+        "__mod__",
+        "__modding__",
+        "__mods__",
+        "__module__",
+        "__modules__",
+        "__plugin__",
+        "__plugins__",
+        "_addin",
+        "_addins",
+        "_addon",
+        "_addons",
+        "_extension",
+        "_extensions",
+        "_mod",
+        "_modding",
+        "_mods",
+        "_module",
+        "_modules",
+        "_plugin",
+        "_plugins",
+        "addin",
+        "addins",
+        "addon",
+        "addons",
+        "extension",
+        "extensions",
+        "mod",
+        "modding",
+        "mods",
+        "module",
+        "modules",
+        "plugin",
+        "plugins"
+      ],
+      "native": {
+        "icon": "plugin"
+      }
+    },
+    {
+      "id": "policy",
+      "label": "Policy",
+      "keywords": [
+        "-policies",
+        "-policy",
+        ".policies",
+        ".policy",
+        "__policies__",
+        "__policy__",
+        "_policies",
+        "_policy",
+        "policies",
+        "policy"
+      ],
+      "native": {
+        "icon": "policy"
+      }
+    },
+    {
+      "id": "postman",
+      "label": "Postman",
+      "keywords": [
+        "-postman",
+        ".postman",
+        "__postman__",
+        "_postman",
+        "postman"
+      ],
+      "native": {
+        "icon": "postman"
+      }
+    },
+    {
+      "id": "powershell",
+      "label": "Powershell",
+      "keywords": [
+        "-powershell",
+        "-ps",
+        "-ps1",
+        ".powershell",
+        ".ps",
+        ".ps1",
+        "__powershell__",
+        "__ps1__",
+        "__ps__",
+        "_powershell",
+        "_ps",
+        "_ps1",
+        "powershell",
+        "ps",
+        "ps1"
+      ],
+      "native": {
+        "icon": "powershell"
+      }
+    },
+    {
+      "id": "prisma",
+      "label": "Prisma",
+      "keywords": [
+        "-prisma",
+        "-prisma/schema",
+        ".prisma",
+        ".prisma/schema",
+        "__prisma/schema__",
+        "__prisma__",
+        "_prisma",
+        "_prisma/schema",
+        "prisma",
+        "prisma/schema"
+      ],
+      "native": {
+        "icon": "prisma"
+      }
+    },
+    {
+      "id": "private",
+      "label": "Private",
+      "keywords": [
+        "-private",
+        ".private",
+        "__private__",
+        "_private",
+        "private"
+      ],
+      "native": {
+        "icon": "private"
+      }
+    },
+    {
+      "id": "project",
+      "label": "Project",
+      "keywords": [
+        "-proj",
+        "-project",
+        "-projects",
+        "-projs",
+        ".proj",
+        ".project",
+        ".projects",
+        ".projs",
+        "__proj__",
+        "__project__",
+        "__projects__",
+        "__projs__",
+        "_proj",
+        "_project",
+        "_projects",
+        "_projs",
+        "proj",
+        "project",
+        "projects",
+        "projs"
+      ],
+      "native": {
+        "icon": "project"
+      }
+    },
+    {
+      "id": "prompts",
+      "label": "Prompts",
+      "keywords": [
+        "-prompt",
+        "-prompts",
+        ".prompt",
+        ".prompts",
+        "__prompt__",
+        "__prompts__",
+        "_prompt",
+        "_prompts",
+        "prompt",
+        "prompts"
+      ],
+      "native": {
+        "icon": "prompts"
+      }
+    },
+    {
+      "id": "proto",
+      "label": "Proto",
+      "keywords": [
+        "-proto",
+        "-protobuf",
+        "-protobufs",
+        "-protos",
+        ".proto",
+        ".protobuf",
+        ".protobufs",
+        ".protos",
+        "__protobuf__",
+        "__protobufs__",
+        "__protos__",
+        "_proto",
+        "_protobuf",
+        "_protobufs",
+        "_protos",
+        "proto",
+        "protobuf",
+        "protobufs",
+        "protos"
+      ],
+      "native": {
+        "icon": "proto"
+      }
+    },
+    {
+      "id": "public",
+      "label": "Public",
+      "keywords": [
+        "-browser",
+        "-browsers",
+        "-proxy",
+        "-public",
+        "-site",
+        "-web",
+        "-website",
+        "-websites",
+        "-www",
+        "-wwwroot",
+        ".browser",
+        ".browsers",
+        ".proxy",
+        ".public",
+        ".site",
+        ".web",
+        ".website",
+        ".websites",
+        ".www",
+        ".wwwroot",
+        "__browser__",
+        "__browsers__",
+        "__proxy__",
+        "__public__",
+        "__site__",
+        "__web__",
+        "__website__",
+        "__websites__",
+        "__www__",
+        "__wwwroot__",
+        "_browser",
+        "_browsers",
+        "_proxy",
+        "_public",
+        "_site",
+        "_web",
+        "_website",
+        "_websites",
+        "_www",
+        "_wwwroot",
+        "browser",
+        "browsers",
+        "proxy",
+        "public",
+        "site",
+        "web",
+        "website",
+        "websites",
+        "www",
+        "wwwroot"
+      ],
+      "native": {
+        "icon": "public"
+      }
+    },
+    {
+      "id": "python",
+      "label": "Python",
+      "keywords": [
+        "-pycache",
+        "-pytest_cache",
+        "-python",
+        ".pycache",
+        ".pytest_cache",
+        ".python",
+        "__pycache__",
+        "__pytest_cache__",
+        "__python__",
+        "_pycache",
+        "_pytest_cache",
+        "_python",
+        "pycache",
+        "pytest_cache",
+        "python"
+      ],
+      "native": {
+        "icon": "python"
+      }
+    },
+    {
+      "id": "pytorch",
+      "label": "Pytorch",
+      "keywords": [
+        "-pytorch",
+        "-torch",
+        ".pytorch",
+        ".torch",
+        "__pytorch__",
+        "__torch__",
+        "_pytorch",
+        "_torch",
+        "pytorch",
+        "torch"
+      ],
+      "native": {
+        "icon": "pytorch"
+      }
+    },
+    {
+      "id": "quasar",
+      "label": "Quasar",
+      "keywords": [
+        "-quasar",
+        ".quasar",
+        "__quasar__",
+        "_quasar",
+        "quasar"
+      ],
+      "native": {
+        "icon": "quasar"
+      }
+    },
+    {
+      "id": "queue",
+      "label": "Queue",
+      "keywords": [
+        "-bull",
+        "-mq",
+        "-queue",
+        "-queues",
+        ".bull",
+        ".mq",
+        ".queue",
+        ".queues",
+        "__bull__",
+        "__mq__",
+        "__queue__",
+        "__queues__",
+        "_bull",
+        "_mq",
+        "_queue",
+        "_queues",
+        "bull",
+        "mq",
+        "queue",
+        "queues"
+      ],
+      "native": {
+        "icon": "queue"
+      }
+    },
+    {
+      "id": "r",
+      "label": "R",
+      "keywords": [
+        "-r",
+        ".r",
+        "__r__",
+        "_r",
+        "r"
+      ],
+      "native": {
+        "icon": "r"
+      }
+    },
+    {
+      "id": "react-components",
+      "label": "React Components",
+      "keywords": [
+        "-components",
+        "-jsx",
+        "-react",
+        "-react-components",
+        "-reactjs",
+        ".components",
+        ".jsx",
+        ".react",
+        ".react-components",
+        ".reactjs",
+        "__components__",
+        "__jsx__",
+        "__react-components__",
+        "__react__",
+        "__reactjs__",
+        "_components",
+        "_jsx",
+        "_react",
+        "_react-components",
+        "_reactjs",
+        "components",
+        "jsx",
+        "react",
+        "react-components",
+        "reactjs"
+      ],
+      "native": {
+        "icon": "react-components"
+      }
+    },
+    {
+      "id": "redux-reducer",
+      "label": "Redux Reducer",
+      "keywords": [
+        "-reducer",
+        "-reducers",
+        "-redux-reducer",
+        "-redux-reducers",
+        ".reducer",
+        ".reducers",
+        ".redux-reducer",
+        ".redux-reducers",
+        "__reducer__",
+        "__reducers__",
+        "__redux-reducer__",
+        "__redux-reducers__",
+        "_reducer",
+        "_reducers",
+        "_redux-reducer",
+        "_redux-reducers",
+        "reducer",
+        "reducers",
+        "redux-reducer",
+        "redux-reducers"
+      ],
+      "native": {
+        "icon": "redux-reducer"
+      }
+    },
+    {
+      "id": "repository",
+      "label": "Repository",
+      "keywords": [
+        "-repo",
+        "-repos",
+        "-repositories",
+        "-repository",
+        ".repo",
+        ".repos",
+        ".repositories",
+        ".repository",
+        "__repo__",
+        "__repos__",
+        "__repositories__",
+        "__repository__",
+        "_repo",
+        "_repos",
+        "_repositories",
+        "_repository",
+        "repo",
+        "repos",
+        "repositories",
+        "repository"
+      ],
+      "native": {
+        "icon": "repository"
+      }
+    },
+    {
+      "id": "resolver",
+      "label": "Resolver",
+      "keywords": [
+        "-resolver",
+        "-resolvers",
+        ".resolver",
+        ".resolvers",
+        "__resolver__",
+        "__resolvers__",
+        "_resolver",
+        "_resolvers",
+        "resolver",
+        "resolvers"
+      ],
+      "native": {
+        "icon": "resolver"
+      }
+    },
+    {
+      "id": "resource",
+      "label": "Resource",
+      "keywords": [
+        "-asset",
+        "-assets",
+        "-report",
+        "-reports",
+        "-res",
+        "-resource",
+        "-resources",
+        "-static",
+        ".asset",
+        ".assets",
+        ".report",
+        ".reports",
+        ".res",
+        ".resource",
+        ".resources",
+        ".static",
+        "__asset__",
+        "__assets__",
+        "__report__",
+        "__reports__",
+        "__res__",
+        "__resource__",
+        "__resources__",
+        "__static__",
+        "_asset",
+        "_assets",
+        "_report",
+        "_reports",
+        "_res",
+        "_resource",
+        "_resources",
+        "_static",
+        "asset",
+        "assets",
+        "report",
+        "reports",
+        "res",
+        "resource",
+        "resources",
+        "static"
+      ],
+      "native": {
+        "icon": "resource"
+      }
+    },
+    {
+      "id": "review",
+      "label": "Review",
+      "keywords": [
+        "-preview",
+        "-previews",
+        "-review",
+        "-reviewed",
+        "-reviews",
+        "-revisal",
+        "-revisals",
+        ".preview",
+        ".previews",
+        ".review",
+        ".reviewed",
+        ".reviews",
+        ".revisal",
+        ".revisals",
+        "__preview__",
+        "__previews__",
+        "__review__",
+        "__reviewed__",
+        "__reviews__",
+        "__revisal__",
+        "__revisals__",
+        "_preview",
+        "_previews",
+        "_review",
+        "_reviewed",
+        "_reviews",
+        "_revisal",
+        "_revisals",
+        "preview",
+        "previews",
+        "review",
+        "reviewed",
+        "reviews",
+        "revisal",
+        "revisals"
+      ],
+      "native": {
+        "icon": "review"
+      }
+    },
+    {
+      "id": "robot",
+      "label": "Robot",
+      "keywords": [
+        "-agent",
+        "-agents",
+        "-bot",
+        "-bots",
+        "-robot",
+        "-robots",
+        ".agent",
+        ".agents",
+        ".bot",
+        ".bots",
+        ".robot",
+        ".robots",
+        "__agent__",
+        "__agents__",
+        "__bot__",
+        "__bots__",
+        "__robot__",
+        "__robots__",
+        "_agent",
+        "_agents",
+        "_bot",
+        "_bots",
+        "_robot",
+        "_robots",
+        "agent",
+        "agents",
+        "bot",
+        "bots",
+        "robot",
+        "robots"
+      ],
+      "native": {
+        "icon": "robot"
+      }
+    },
+    {
+      "id": "routes",
+      "label": "Routes",
+      "keywords": [
+        "-navigation",
+        "-navigations",
+        "-router",
+        "-routers",
+        "-routes",
+        "-routing",
+        ".navigation",
+        ".navigations",
+        ".router",
+        ".routers",
+        ".routes",
+        ".routing",
+        "__navigation__",
+        "__navigations__",
+        "__router__",
+        "__routers__",
+        "__routes__",
+        "__routing__",
+        "_navigation",
+        "_navigations",
+        "_router",
+        "_routers",
+        "_routes",
+        "_routing",
+        "navigation",
+        "navigations",
+        "router",
+        "routers",
+        "routes",
+        "routing"
+      ],
+      "native": {
+        "icon": "routes"
+      }
+    },
+    {
+      "id": "rules",
+      "label": "Rules",
+      "keywords": [
+        "-rule",
+        "-rules",
+        "-validation",
+        "-validations",
+        "-validator",
+        "-validators",
+        ".rule",
+        ".rules",
+        ".validation",
+        ".validations",
+        ".validator",
+        ".validators",
+        "__rule__",
+        "__rules__",
+        "__validation__",
+        "__validations__",
+        "__validator__",
+        "__validators__",
+        "_rule",
+        "_rules",
+        "_validation",
+        "_validations",
+        "_validator",
+        "_validators",
+        "rule",
+        "rules",
+        "validation",
+        "validations",
+        "validator",
+        "validators"
+      ],
+      "native": {
+        "icon": "rules"
+      }
+    },
+    {
+      "id": "rust",
+      "label": "Rust",
+      "keywords": [
+        "-cargo",
+        "-rust",
+        ".cargo",
+        ".rust",
+        "__cargo__",
+        "__rust__",
+        "_cargo",
+        "_rust",
+        "cargo",
+        "rust"
+      ],
+      "native": {
+        "icon": "rust"
+      }
+    },
+    {
+      "id": "salt",
+      "label": "Salt",
+      "keywords": [
+        "-salt",
+        "-saltstack",
+        ".salt",
+        ".saltstack",
+        "__salt__",
+        "__saltstack__",
+        "_salt",
+        "_saltstack",
+        "salt",
+        "saltstack"
+      ],
+      "native": {
+        "icon": "salt"
+      }
+    },
+    {
+      "id": "sandbox",
+      "label": "Sandbox",
+      "keywords": [
+        "-playground",
+        "-playgrounds",
+        "-sandbox",
+        "-sandboxes",
+        ".playground",
+        ".playgrounds",
+        ".sandbox",
+        ".sandboxes",
+        "__playground__",
+        "__playgrounds__",
+        "__sandbox__",
+        "__sandboxes__",
+        "_playground",
+        "_playgrounds",
+        "_sandbox",
+        "_sandboxes",
+        "playground",
+        "playgrounds",
+        "sandbox",
+        "sandboxes"
+      ],
+      "native": {
+        "icon": "sandbox"
+      }
+    },
+    {
+      "id": "sass",
+      "label": "Sass",
+      "keywords": [
+        "-sass",
+        "-scss",
+        ".sass",
+        ".scss",
+        "__sass__",
+        "__scss__",
+        "_sass",
+        "_scss",
+        "sass",
+        "scss"
+      ],
+      "native": {
+        "icon": "sass"
+      }
+    },
+    {
+      "id": "scala",
+      "label": "Scala",
+      "keywords": [
+        "-scala",
+        ".scala",
+        "__scala__",
+        "_scala",
+        "scala"
+      ],
+      "native": {
+        "icon": "scala"
+      }
+    },
+    {
+      "id": "scons",
+      "label": "Scons",
+      "keywords": [
+        "-sconf_temp",
+        "-scons",
+        "-scons_cache",
+        ".sconf_temp",
+        ".scons",
+        ".scons_cache",
+        "__sconf_temp__",
+        "__scons__",
+        "__scons_cache__",
+        "_sconf_temp",
+        "_scons",
+        "_scons_cache",
+        "sconf_temp",
+        "scons",
+        "scons_cache"
+      ],
+      "native": {
+        "icon": "scons"
+      }
+    },
+    {
+      "id": "scripts",
+      "label": "Scripts",
+      "keywords": [
+        "-script",
+        "-scripting",
+        "-scripts",
+        "-xtask",
+        ".script",
+        ".scripting",
+        ".scripts",
+        ".xtask",
+        "__script__",
+        "__scripting__",
+        "__scripts__",
+        "__xtask__",
+        "_script",
+        "_scripting",
+        "_scripts",
+        "_xtask",
+        "script",
+        "scripting",
+        "scripts",
+        "xtask"
+      ],
+      "native": {
+        "icon": "scripts"
+      }
+    },
+    {
+      "id": "secure",
+      "label": "Secure",
+      "keywords": [
+        "-auth",
+        "-authentication",
+        "-cert",
+        "-certificate",
+        "-certificates",
+        "-certs",
+        "-cipher",
+        "-cypher",
+        "-secure",
+        "-security",
+        "-ssl",
+        "-tls",
+        ".auth",
+        ".authentication",
+        ".cert",
+        ".certificate",
+        ".certificates",
+        ".certs",
+        ".cipher",
+        ".cypher",
+        ".secure",
+        ".security",
+        ".ssl",
+        ".tls",
+        "__auth__",
+        "__authentication__",
+        "__cert__",
+        "__certificate__",
+        "__certificates__",
+        "__certs__",
+        "__cipher__",
+        "__cypher__",
+        "__secure__",
+        "__security__",
+        "__ssl__",
+        "__tls__",
+        "_auth",
+        "_authentication",
+        "_cert",
+        "_certificate",
+        "_certificates",
+        "_certs",
+        "_cipher",
+        "_cypher",
+        "_secure",
+        "_security",
+        "_ssl",
+        "_tls",
+        "auth",
+        "authentication",
+        "cert",
+        "certificate",
+        "certificates",
+        "certs",
+        "cipher",
+        "cypher",
+        "secure",
+        "security",
+        "ssl",
+        "tls"
+      ],
+      "native": {
+        "icon": "secure"
+      }
+    },
+    {
+      "id": "seeders",
+      "label": "Seeders",
+      "keywords": [
+        "-seed",
+        "-seeders",
+        "-seeding",
+        "-seeds",
+        ".seed",
+        ".seeders",
+        ".seeding",
+        ".seeds",
+        "__seed__",
+        "__seeders__",
+        "__seeding__",
+        "__seeds__",
+        "_seed",
+        "_seeders",
+        "_seeding",
+        "_seeds",
+        "seed",
+        "seeders",
+        "seeding",
+        "seeds"
+      ],
+      "native": {
+        "icon": "seeders"
+      }
+    },
+    {
+      "id": "server",
+      "label": "Server",
+      "keywords": [
+        "-backend",
+        "-backends",
+        "-infra",
+        "-infrastructure",
+        "-inventories",
+        "-inventory",
+        "-server",
+        "-servers",
+        ".backend",
+        ".backends",
+        ".infra",
+        ".infrastructure",
+        ".inventories",
+        ".inventory",
+        ".server",
+        ".servers",
+        "__backend__",
+        "__backends__",
+        "__infra__",
+        "__infrastructure__",
+        "__inventories__",
+        "__inventory__",
+        "__server__",
+        "__servers__",
+        "_backend",
+        "_backends",
+        "_infra",
+        "_infrastructure",
+        "_inventories",
+        "_inventory",
+        "_server",
+        "_servers",
+        "backend",
+        "backends",
+        "infra",
+        "infrastructure",
+        "inventories",
+        "inventory",
+        "server",
+        "servers"
+      ],
+      "native": {
+        "icon": "server"
+      }
+    },
+    {
+      "id": "serverless",
+      "label": "Serverless",
+      "keywords": [
+        "-serverless",
+        ".serverless",
+        "__serverless__",
+        "_serverless",
+        "serverless"
+      ],
+      "native": {
+        "icon": "serverless"
+      }
+    },
+    {
+      "id": "shader",
+      "label": "Shader",
+      "keywords": [
+        "-glsl",
+        "-hlsl",
+        "-shader",
+        "-shaders",
+        ".glsl",
+        ".hlsl",
+        ".shader",
+        ".shaders",
+        "__glsl__",
+        "__hlsl__",
+        "__shader__",
+        "__shaders__",
+        "_glsl",
+        "_hlsl",
+        "_shader",
+        "_shaders",
+        "glsl",
+        "hlsl",
+        "shader",
+        "shaders"
+      ],
+      "native": {
+        "icon": "shader"
+      }
+    },
+    {
+      "id": "shared",
+      "label": "Shared",
+      "keywords": [
+        "-common",
+        "-shared",
+        ".common",
+        ".shared",
+        "__common__",
+        "__shared__",
+        "_common",
+        "_shared",
+        "common",
+        "shared"
+      ],
+      "native": {
+        "icon": "shared"
+      }
+    },
+    {
+      "id": "simulations",
+      "label": "Simulations",
+      "keywords": [
+        "-sim",
+        "-sims",
+        "-simulation",
+        "-simulations",
+        ".sim",
+        ".sims",
+        ".simulation",
+        ".simulations",
+        "__sim__",
+        "__sims__",
+        "__simulation__",
+        "__simulations__",
+        "_sim",
+        "_sims",
+        "_simulation",
+        "_simulations",
+        "sim",
+        "sims",
+        "simulation",
+        "simulations"
+      ],
+      "native": {
+        "icon": "simulations"
+      }
+    },
+    {
+      "id": "skills",
+      "label": "Skills",
+      "keywords": [
+        "-skill",
+        "-skills",
+        ".skill",
+        ".skills",
+        "__skill__",
+        "__skills__",
+        "_skill",
+        "_skills",
+        "skill",
+        "skills"
+      ],
+      "native": {
+        "icon": "skills"
+      }
+    },
+    {
+      "id": "snapcraft",
+      "label": "Snapcraft",
+      "keywords": [
+        "-snap",
+        "-snapcraft",
+        ".snap",
+        ".snapcraft",
+        "__snap__",
+        "__snapcraft__",
+        "_snap",
+        "_snapcraft",
+        "snap",
+        "snapcraft"
+      ],
+      "native": {
+        "icon": "snapcraft"
+      }
+    },
+    {
+      "id": "snippet",
+      "label": "Snippet",
+      "keywords": [
+        "-snippet",
+        "-snippets",
+        ".snippet",
+        ".snippets",
+        "__snippet__",
+        "__snippets__",
+        "_snippet",
+        "_snippets",
+        "snippet",
+        "snippets"
+      ],
+      "native": {
+        "icon": "snippet"
+      }
+    },
+    {
+      "id": "src",
+      "label": "Src",
+      "keywords": [
+        "-code",
+        "-source",
+        "-sources",
+        "-src",
+        "-srcs",
+        ".code",
+        ".source",
+        ".sources",
+        ".src",
+        ".srcs",
+        "__code__",
+        "__source__",
+        "__sources__",
+        "__src__",
+        "__srcs__",
+        "_code",
+        "_source",
+        "_sources",
+        "_src",
+        "_srcs",
+        "code",
+        "source",
+        "sources",
+        "src",
+        "srcs"
+      ],
+      "native": {
+        "icon": "src"
+      }
+    },
+    {
+      "id": "src-tauri",
+      "label": "Src Tauri",
+      "keywords": [
+        "-src-tauri",
+        ".src-tauri",
+        "__src-tauri__",
+        "_src-tauri",
+        "src-tauri"
+      ],
+      "native": {
+        "icon": "src-tauri"
+      }
+    },
+    {
+      "id": "stack",
+      "label": "Stack",
+      "keywords": [
+        "-stack",
+        "-stacks",
+        ".stack",
+        ".stacks",
+        "__stack__",
+        "__stacks__",
+        "_stack",
+        "_stacks",
+        "stack",
+        "stacks"
+      ],
+      "native": {
+        "icon": "stack"
+      }
+    },
+    {
+      "id": "stencil",
+      "label": "Stencil",
+      "keywords": [
+        "-stencil",
+        ".stencil",
+        "__stencil__",
+        "_stencil",
+        "stencil"
+      ],
+      "native": {
+        "icon": "stencil"
+      }
+    },
+    {
+      "id": "store",
+      "label": "Store",
+      "keywords": [
+        "-store",
+        "-stores",
+        ".store",
+        ".stores",
+        "__store__",
+        "__stores__",
+        "_store",
+        "_stores",
+        "store",
+        "stores"
+      ],
+      "native": {
+        "icon": "store"
+      }
+    },
+    {
+      "id": "storybook",
+      "label": "Storybook",
+      "keywords": [
+        "-stories",
+        "-storybook",
+        ".stories",
+        ".storybook",
+        "__stories__",
+        "__storybook__",
+        "_stories",
+        "_storybook",
+        "stories",
+        "storybook"
+      ],
+      "native": {
+        "icon": "storybook"
+      }
+    },
+    {
+      "id": "stylus",
+      "label": "Stylus",
+      "keywords": [
+        "-stylus",
+        ".stylus",
+        "__stylus__",
+        "_stylus",
+        "stylus"
+      ],
+      "native": {
+        "icon": "stylus"
+      }
+    },
+    {
+      "id": "sublime",
+      "label": "Sublime",
+      "keywords": [
+        "-sublime",
+        ".sublime",
+        "__sublime__",
+        "_sublime",
+        "sublime"
+      ],
+      "native": {
+        "icon": "sublime"
+      }
+    },
+    {
+      "id": "supabase",
+      "label": "Supabase",
+      "keywords": [
+        "-supabase",
+        ".supabase",
+        "__supabase__",
+        "_supabase",
+        "supabase"
+      ],
+      "native": {
+        "icon": "supabase"
+      }
+    },
+    {
+      "id": "svelte",
+      "label": "Svelte",
+      "keywords": [
+        "-svelte",
+        "-svelte-kit",
+        ".svelte",
+        ".svelte-kit",
+        "__svelte-kit__",
+        "__svelte__",
+        "_svelte",
+        "_svelte-kit",
+        "svelte",
+        "svelte-kit"
+      ],
+      "native": {
+        "icon": "svelte"
+      }
+    },
+    {
+      "id": "svg",
+      "label": "Svg",
+      "keywords": [
+        "-svg",
+        "-svgs",
+        "-vector",
+        "-vectors",
+        ".svg",
+        ".svgs",
+        ".vector",
+        ".vectors",
+        "__svg__",
+        "__svgs__",
+        "__vector__",
+        "__vectors__",
+        "_svg",
+        "_svgs",
+        "_vector",
+        "_vectors",
+        "svg",
+        "svgs",
+        "vector",
+        "vectors"
+      ],
+      "native": {
+        "icon": "svg"
+      }
+    },
+    {
+      "id": "syntax",
+      "label": "Syntax",
+      "keywords": [
+        "-spellcheck",
+        "-spellcheckers",
+        "-syntax",
+        "-syntaxes",
+        ".spellcheck",
+        ".spellcheckers",
+        ".syntax",
+        ".syntaxes",
+        "__spellcheck__",
+        "__spellcheckers__",
+        "__syntax__",
+        "__syntaxes__",
+        "_spellcheck",
+        "_spellcheckers",
+        "_syntax",
+        "_syntaxes",
+        "spellcheck",
+        "spellcheckers",
+        "syntax",
+        "syntaxes"
+      ],
+      "native": {
+        "icon": "syntax"
+      }
+    },
+    {
+      "id": "target",
+      "label": "Target",
+      "keywords": [
+        "-target",
+        ".target",
+        "__target__",
+        "_target",
+        "target"
+      ],
+      "native": {
+        "icon": "target"
+      }
+    },
+    {
+      "id": "taskfile",
+      "label": "Taskfile",
+      "keywords": [
+        "-taskfile",
+        "-taskfiles",
+        ".taskfile",
+        ".taskfiles",
+        "__taskfile__",
+        "__taskfiles__",
+        "_taskfile",
+        "_taskfiles",
+        "taskfile",
+        "taskfiles"
+      ],
+      "native": {
+        "icon": "taskfile"
+      }
+    },
+    {
+      "id": "tasks",
+      "label": "Tasks",
+      "keywords": [
+        "-tasks",
+        "-tickets",
+        ".tasks",
+        ".tickets",
+        "__tasks__",
+        "__tickets__",
+        "_tasks",
+        "_tickets",
+        "tasks",
+        "tickets"
+      ],
+      "native": {
+        "icon": "tasks"
+      }
+    },
+    {
+      "id": "television",
+      "label": "Television",
+      "keywords": [
+        "-television",
+        "-tv",
+        ".television",
+        ".tv",
+        "__television__",
+        "__tv__",
+        "_television",
+        "_tv",
+        "television",
+        "tv"
+      ],
+      "native": {
+        "icon": "television"
+      }
+    },
+    {
+      "id": "temp",
+      "label": "Temp",
+      "keywords": [
+        "-cache",
+        "-cached",
+        "-temp",
+        "-tmp",
+        ".cache",
+        ".cached",
+        ".temp",
+        ".tmp",
+        "__cache__",
+        "__cached__",
+        "__temp__",
+        "__tmp__",
+        "_cache",
+        "_cached",
+        "_temp",
+        "_tmp",
+        "cache",
+        "cached",
+        "temp",
+        "tmp"
+      ],
+      "native": {
+        "icon": "temp"
+      }
+    },
+    {
+      "id": "template",
+      "label": "Template",
+      "keywords": [
+        "-github/issue_template",
+        "-github/pull_request_template",
+        "-template",
+        "-templates",
+        ".github/issue_template",
+        ".github/pull_request_template",
+        ".template",
+        ".templates",
+        "__github/issue_template__",
+        "__github/pull_request_template__",
+        "__template__",
+        "__templates__",
+        "_github/issue_template",
+        "_github/pull_request_template",
+        "_template",
+        "_templates",
+        "github/issue_template",
+        "github/pull_request_template",
+        "template",
+        "templates"
+      ],
+      "native": {
+        "icon": "template"
+      }
+    },
+    {
+      "id": "terraform",
+      "label": "Terraform",
+      "keywords": [
+        "-terraform",
+        ".terraform",
+        "__terraform__",
+        "_terraform",
+        "terraform"
+      ],
+      "native": {
+        "icon": "terraform"
+      }
+    },
+    {
+      "id": "test",
+      "label": "Test",
+      "keywords": [
+        "-snapshots",
+        "-spec",
+        "-specs",
+        "-test",
+        "-testfiles",
+        "-testing",
+        "-tests",
+        ".snapshots",
+        ".spec",
+        ".specs",
+        ".test",
+        ".testfiles",
+        ".testing",
+        ".tests",
+        "__snapshots__",
+        "__spec__",
+        "__specs__",
+        "__test__",
+        "__testfiles__",
+        "__testing__",
+        "__tests__",
+        "_snapshots",
+        "_spec",
+        "_specs",
+        "_test",
+        "_testfiles",
+        "_testing",
+        "_tests",
+        "snapshots",
+        "spec",
+        "specs",
+        "test",
+        "testfiles",
+        "testing",
+        "tests"
+      ],
+      "native": {
+        "icon": "test"
+      }
+    },
+    {
+      "id": "theme",
+      "label": "Theme",
+      "keywords": [
+        "-color",
+        "-colors",
+        "-colour",
+        "-colours",
+        "-design",
+        "-designs",
+        "-palette",
+        "-palettes",
+        "-theme",
+        "-themes",
+        ".color",
+        ".colors",
+        ".colour",
+        ".colours",
+        ".design",
+        ".designs",
+        ".palette",
+        ".palettes",
+        ".theme",
+        ".themes",
+        "__color__",
+        "__colors__",
+        "__colour__",
+        "__colours__",
+        "__design__",
+        "__designs__",
+        "__palette__",
+        "__palettes__",
+        "__theme__",
+        "__themes__",
+        "_color",
+        "_colors",
+        "_colour",
+        "_colours",
+        "_design",
+        "_designs",
+        "_palette",
+        "_palettes",
+        "_theme",
+        "_themes",
+        "color",
+        "colors",
+        "colour",
+        "colours",
+        "design",
+        "designs",
+        "palette",
+        "palettes",
+        "theme",
+        "themes"
+      ],
+      "native": {
+        "icon": "theme"
+      }
+    },
+    {
+      "id": "toc",
+      "label": "Toc",
+      "keywords": [
+        "-table-of-contents",
+        "-toc",
+        ".table-of-contents",
+        ".toc",
+        "__table-of-contents__",
+        "__toc__",
+        "_table-of-contents",
+        "_toc",
+        "table-of-contents",
+        "toc"
+      ],
+      "native": {
+        "icon": "toc"
+      }
+    },
+    {
+      "id": "tools",
+      "label": "Tools",
+      "keywords": [
+        "-devtools",
+        "-kit",
+        "-kits",
+        "-toolbox",
+        "-toolboxes",
+        "-tooling",
+        "-toolkit",
+        "-toolkits",
+        "-tools",
+        ".devtools",
+        ".kit",
+        ".kits",
+        ".toolbox",
+        ".toolboxes",
+        ".tooling",
+        ".toolkit",
+        ".toolkits",
+        ".tools",
+        "__devtools__",
+        "__kit__",
+        "__kits__",
+        "__toolbox__",
+        "__toolboxes__",
+        "__tooling__",
+        "__toolkit__",
+        "__toolkits__",
+        "__tools__",
+        "_devtools",
+        "_kit",
+        "_kits",
+        "_toolbox",
+        "_toolboxes",
+        "_tooling",
+        "_toolkit",
+        "_toolkits",
+        "_tools",
+        "devtools",
+        "kit",
+        "kits",
+        "toolbox",
+        "toolboxes",
+        "tooling",
+        "toolkit",
+        "toolkits",
+        "tools"
+      ],
+      "native": {
+        "icon": "tools"
+      }
+    },
+    {
+      "id": "trash",
+      "label": "Trash",
+      "keywords": [
+        "-trash",
+        ".trash",
+        "__trash__",
+        "_trash",
+        "trash"
+      ],
+      "native": {
+        "icon": "trash"
+      }
+    },
+    {
+      "id": "trigger",
+      "label": "Trigger",
+      "keywords": [
+        "-trigger",
+        "-triggers",
+        ".trigger",
+        ".triggers",
+        "__trigger__",
+        "__triggers__",
+        "_trigger",
+        "_triggers",
+        "trigger",
+        "triggers"
+      ],
+      "native": {
+        "icon": "trigger"
+      }
+    },
+    {
+      "id": "turborepo",
+      "label": "Turborepo",
+      "keywords": [
+        "-turbo",
+        ".turbo",
+        "__turbo__",
+        "_turbo",
+        "turbo"
+      ],
+      "native": {
+        "icon": "turborepo"
+      }
+    },
+    {
+      "id": "typescript",
+      "label": "Typescript",
+      "keywords": [
+        "-@types",
+        "-cts",
+        "-mts",
+        "-ts",
+        "-types",
+        "-typescript",
+        "-typings",
+        ".@types",
+        ".cts",
+        ".mts",
+        ".ts",
+        ".types",
+        ".typescript",
+        ".typings",
+        "@types",
+        "_@types",
+        "__@types__",
+        "__cts__",
+        "__mts__",
+        "__ts__",
+        "__types__",
+        "__typescript__",
+        "__typings__",
+        "_cts",
+        "_mts",
+        "_ts",
+        "_types",
+        "_typescript",
+        "_typings",
+        "cts",
+        "mts",
+        "ts",
+        "types",
+        "typescript",
+        "typings"
+      ],
+      "native": {
+        "icon": "typescript"
+      }
+    },
+    {
+      "id": "ui",
+      "label": "Ui",
+      "keywords": [
+        "-gui",
+        "-presentation",
+        "-ui",
+        "-ux",
+        ".gui",
+        ".presentation",
+        ".ui",
+        ".ux",
+        "__gui__",
+        "__presentation__",
+        "__ui__",
+        "__ux__",
+        "_gui",
+        "_presentation",
+        "_ui",
+        "_ux",
+        "gui",
+        "presentation",
+        "ui",
+        "ux"
+      ],
+      "native": {
+        "icon": "ui"
+      }
+    },
+    {
+      "id": "unity",
+      "label": "Unity",
+      "keywords": [
+        "-unity",
+        ".unity",
+        "__unity__",
+        "_unity",
+        "unity"
+      ],
+      "native": {
+        "icon": "unity"
+      }
+    },
+    {
+      "id": "update",
+      "label": "Update",
+      "keywords": [
+        "-update",
+        "-updates",
+        "-upgrade",
+        "-upgrades",
+        ".update",
+        ".updates",
+        ".upgrade",
+        ".upgrades",
+        "__update__",
+        "__updates__",
+        "__upgrade__",
+        "__upgrades__",
+        "_update",
+        "_updates",
+        "_upgrade",
+        "_upgrades",
+        "update",
+        "updates",
+        "upgrade",
+        "upgrades"
+      ],
+      "native": {
+        "icon": "update"
+      }
+    },
+    {
+      "id": "upload",
+      "label": "Upload",
+      "keywords": [
+        "-upload",
+        "-uploads",
+        ".upload",
+        ".uploads",
+        "__upload__",
+        "__uploads__",
+        "_upload",
+        "_uploads",
+        "upload",
+        "uploads"
+      ],
+      "native": {
+        "icon": "upload"
+      }
+    },
+    {
+      "id": "utils",
+      "label": "Utils",
+      "keywords": [
+        "-util",
+        "-utilities",
+        "-utility",
+        "-utils",
+        ".util",
+        ".utilities",
+        ".utility",
+        ".utils",
+        "__util__",
+        "__utilities__",
+        "__utility__",
+        "__utils__",
+        "_util",
+        "_utilities",
+        "_utility",
+        "_utils",
+        "util",
+        "utilities",
+        "utility",
+        "utils"
+      ],
+      "native": {
+        "icon": "utils"
+      }
+    },
+    {
+      "id": "vercel",
+      "label": "Vercel",
+      "keywords": [
+        "-now",
+        "-vercel",
+        ".now",
+        ".vercel",
+        "__now__",
+        "__vercel__",
+        "_now",
+        "_vercel",
+        "now",
+        "vercel"
+      ],
+      "native": {
+        "icon": "vercel"
+      }
+    },
+    {
+      "id": "verdaccio",
+      "label": "Verdaccio",
+      "keywords": [
+        "-verdaccio",
+        ".verdaccio",
+        "__verdaccio__",
+        "_verdaccio",
+        "verdaccio"
+      ],
+      "native": {
+        "icon": "verdaccio"
+      }
+    },
+    {
+      "id": "video",
+      "label": "Video",
+      "keywords": [
+        "-media",
+        "-movie",
+        "-movies",
+        "-vid",
+        "-video",
+        "-videos",
+        "-vids",
+        ".media",
+        ".movie",
+        ".movies",
+        ".vid",
+        ".video",
+        ".videos",
+        ".vids",
+        "__media__",
+        "__movie__",
+        "__movies__",
+        "__vid__",
+        "__video__",
+        "__videos__",
+        "__vids__",
+        "_media",
+        "_movie",
+        "_movies",
+        "_vid",
+        "_video",
+        "_videos",
+        "_vids",
+        "media",
+        "movie",
+        "movies",
+        "vid",
+        "video",
+        "videos",
+        "vids"
+      ],
+      "native": {
+        "icon": "video"
+      }
+    },
+    {
+      "id": "views",
+      "label": "Views",
+      "keywords": [
+        "-html",
+        "-page",
+        "-pages",
+        "-public_html",
+        "-screen",
+        "-screens",
+        "-view",
+        "-views",
+        ".html",
+        ".page",
+        ".pages",
+        ".public_html",
+        ".screen",
+        ".screens",
+        ".view",
+        ".views",
+        "__html__",
+        "__page__",
+        "__pages__",
+        "__public_html__",
+        "__screen__",
+        "__screens__",
+        "__view__",
+        "__views__",
+        "_html",
+        "_page",
+        "_pages",
+        "_public_html",
+        "_screen",
+        "_screens",
+        "_view",
+        "_views",
+        "html",
+        "page",
+        "pages",
+        "public_html",
+        "screen",
+        "screens",
+        "view",
+        "views"
+      ],
+      "native": {
+        "icon": "views"
+      }
+    },
+    {
+      "id": "vm",
+      "label": "Vm",
+      "keywords": [
+        "-vm",
+        "-vms",
+        ".vm",
+        ".vms",
+        "__vm__",
+        "__vms__",
+        "_vm",
+        "_vms",
+        "vm",
+        "vms"
+      ],
+      "native": {
+        "icon": "vm"
+      }
+    },
+    {
+      "id": "vscode",
+      "label": "Vscode",
+      "keywords": [
+        "-vscode",
+        "-vscode-test",
+        ".vscode",
+        ".vscode-test",
+        "__vscode-test__",
+        "__vscode__",
+        "_vscode",
+        "_vscode-test",
+        "vscode",
+        "vscode-test"
+      ],
+      "native": {
+        "icon": "vscode"
+      }
+    },
+    {
+      "id": "vue",
+      "label": "Vue",
+      "keywords": [
+        "-components",
+        "-vue",
+        ".components",
+        ".vue",
+        "__components__",
+        "__vue__",
+        "_components",
+        "_vue",
+        "components",
+        "vue"
+      ],
+      "native": {
+        "icon": "vue"
+      }
+    },
+    {
+      "id": "vue-directives",
+      "label": "Vue Directives",
+      "keywords": [
+        "-directives",
+        ".directives",
+        "__directives__",
+        "_directives",
+        "directives"
+      ],
+      "native": {
+        "icon": "vue-directives"
+      }
+    },
+    {
+      "id": "vuepress",
+      "label": "Vuepress",
+      "keywords": [
+        "-vuepress",
+        ".vuepress",
+        "__vuepress__",
+        "_vuepress",
+        "vuepress"
+      ],
+      "native": {
+        "icon": "vuepress"
+      }
+    },
+    {
+      "id": "vuex-store",
+      "label": "Vuex Store",
+      "keywords": [
+        "-store",
+        "-stores",
+        ".store",
+        ".stores",
+        "__store__",
+        "__stores__",
+        "_store",
+        "_stores",
+        "store",
+        "stores"
+      ],
+      "native": {
+        "icon": "vuex-store"
+      }
+    },
+    {
+      "id": "wakatime",
+      "label": "Wakatime",
+      "keywords": [
+        "-wakatime",
+        ".wakatime",
+        "__wakatime__",
+        "_wakatime",
+        "wakatime"
+      ],
+      "native": {
+        "icon": "wakatime"
+      }
+    },
+    {
+      "id": "webpack",
+      "label": "Webpack",
+      "keywords": [
+        "-webpack",
+        ".webpack",
+        "__webpack__",
+        "_webpack",
+        "webpack"
+      ],
+      "native": {
+        "icon": "webpack"
+      }
+    },
+    {
+      "id": "windows",
+      "label": "Windows",
+      "keywords": [
+        "-win",
+        "-win10",
+        "-win11",
+        "-win32",
+        "-windows",
+        "-windows10",
+        "-windows11",
+        "-windowsnt",
+        "-windowsxp",
+        "-winnt",
+        "-winxp",
+        ".win",
+        ".win10",
+        ".win11",
+        ".win32",
+        ".windows",
+        ".windows10",
+        ".windows11",
+        ".windowsnt",
+        ".windowsxp",
+        ".winnt",
+        ".winxp",
+        "__win10__",
+        "__win11__",
+        "__win32__",
+        "__win__",
+        "__windows10__",
+        "__windows11__",
+        "__windows__",
+        "__windowsnt__",
+        "__windowsxp__",
+        "__winnt__",
+        "__winxp__",
+        "_win",
+        "_win10",
+        "_win11",
+        "_win32",
+        "_windows",
+        "_windows10",
+        "_windows11",
+        "_windowsnt",
+        "_windowsxp",
+        "_winnt",
+        "_winxp",
+        "win",
+        "win10",
+        "win11",
+        "win32",
+        "windows",
+        "windows10",
+        "windows11",
+        "windowsnt",
+        "windowsxp",
+        "winnt",
+        "winxp"
+      ],
+      "native": {
+        "icon": "windows"
+      }
+    },
+    {
+      "id": "wordpress",
+      "label": "Wordpress",
+      "keywords": [
+        "-wordpress-org",
+        "-wp-content",
+        ".wordpress-org",
+        ".wp-content",
+        "__wordpress-org__",
+        "__wp-content__",
+        "_wordpress-org",
+        "_wp-content",
+        "wordpress-org",
+        "wp-content"
+      ],
+      "native": {
+        "icon": "wordpress"
+      }
+    },
+    {
+      "id": "yarn",
+      "label": "Yarn",
+      "keywords": [
+        "-yarn",
+        ".yarn",
+        "__yarn__",
+        "_yarn",
+        "yarn"
+      ],
+      "native": {
+        "icon": "yarn"
+      }
+    },
+    {
+      "id": "zeabur",
+      "label": "Zeabur",
+      "keywords": [
+        "-zeabur",
+        ".zeabur",
+        "__zeabur__",
+        "_zeabur",
+        "zeabur"
+      ],
+      "native": {
+        "icon": "zeabur"
+      }
+    },
+    {
+      "id": "zed",
+      "label": "Zed",
+      "keywords": [
+        "-zed",
+        ".zed",
+        "__zed__",
+        "_zed",
+        "zed"
+      ],
+      "native": {
+        "icon": "zed"
+      }
+    }
+  ]
+}

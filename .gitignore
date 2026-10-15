@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+/.*/
+!/.github/
+*.vsix
+artifacts/
+docs/
+test/compatibility/
+evaluation/

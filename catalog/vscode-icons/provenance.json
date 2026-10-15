@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "providerId": "vscode-icons",
+  "providerVersion": "13.0.0",
+  "repository": "https://github.com/vscode-icons/vscode-icons",
+  "commit": "866d4f48701ba71e39d309e9e519bcf2eaf1c3e2",
+  "source": "src/iconsManifest/supportedFolders.ts",
+  "sourceSha256": "1a9cce25d2d7725321a4b9f68645d54896d63c56769b3f2ed53e6a507508477a",
+  "assetIndexSha256": "ca570596a58b64e30a64c924c9e43d462e9b69804227961d8fabf584e20ac141",
+  "generatorVersion": 1,
+  "license": "MIT",
+  "assetsRedistributed": false,
+  "catalogSha256": "a63763a0cf6a22294cc2c87eaef607e25b539a87bda12191f71a58031ec2e433"
+}

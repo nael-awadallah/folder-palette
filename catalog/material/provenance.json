@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "providerId": "material",
+  "providerVersion": "5.39.0",
+  "repository": "https://github.com/material-extensions/vscode-material-icon-theme",
+  "commit": "92a9c5b25a5f4ae4c6a475fb99e434caffef5871",
+  "source": "material-icon-theme@5.39.0 documented generateManifest",
+  "packageIntegrity": "sha512-6dUQXJgNBlklaILIOlCZXhSBTsBmLkt11XMoTY7Uyb4ZikelGgZHOY4AdOWBA+SXz51cVWfOVnTHrTwGM91eYw==",
+  "generatorVersion": 1,
+  "license": "MIT",
+  "assetsRedistributed": false,
+  "exclusions": "Built-in clones, custom clones/paths, file icons, default-only and variant definitions are not selectable.",
+  "catalogSha256": "15f5c6fe89c7d71fd34e345ff87fcc9fe0eb493db447e1cd03f5a0e389d865f0"
+}
