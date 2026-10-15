@@ -1,169 +1,197 @@
-# FolderPalette
+<h1 align="center">FolderPalette</h1>
 
-**Native folder icon customization for Material Icon Theme and vscode-icons.**
+<p align="center"><strong>Your folders. Your theme. A clearer Explorer.</strong></p>
 
-Keep the file icon theme you prefer. FolderPalette uses VS Code's native commands
-and pickers, selects the provider from your active File Icon Theme, and bundles
-separate offline catalogs. It ships no icon theme, Explorer replacement or provider artwork.
+<p align="center">
+  Native folder-association tools for <strong>Material Icon Theme</strong> and <strong>vscode-icons</strong>.
+</p>
 
-> **Development preview — customization writes are disabled for both providers.**
-> Change and Reset expose prerequisites and read-only inspection. Manage lists
-> existing associations and opens their native Settings entries. Saving, resetting
-> or replacing customizations remains unavailable until provider safety is verified.
-> This preview does not claim completed rendering, refresh or isolation support.
+<p align="center">
+  <a href="https://github.com/nael-awadallah/folder-palette"><img src="https://img.shields.io/badge/version-0.1.0-4FD1C5?style=flat-square&amp;labelColor=18212B" alt="Version 0.1.0"></a>
+  <a href="#compatibility"><img src="https://img.shields.io/badge/VS%20Code-1.142%2B-8FAFC0?style=flat-square&amp;labelColor=18212B" alt="VS Code 1.142 or later; Windows desktop tested"></a>
+  <a href="https://github.com/nael-awadallah/folder-palette/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-E5B567?style=flat-square&amp;labelColor=18212B" alt="MIT license"></a>
+  <a href="#current-preview"><img src="https://img.shields.io/badge/status-development%20preview-D9986A?style=flat-square&amp;labelColor=18212B" alt="Development preview"></a>
+</p>
 
-## Compatibility
+<p align="center">
+  <a href="#get-started">Get started</a> ·
+  <a href="#commands">Commands</a> ·
+  <a href="#compatibility">Compatibility</a> ·
+  <a href="https://github.com/nael-awadallah/folder-palette/issues">Report an issue</a>
+</p>
 
-| Provider | Catalog target | Extension ID | Theme ID |
-|---|---|---|---|
-| Material Icon Theme | 5.39.0 | `PKief.material-icon-theme` | `material-icon-theme` |
-| vscode-icons | 13.0.0 | `vscode-icons-team.vscode-icons` | `vscode-icons` |
+Keep the icon theme you already use. FolderPalette brings provider-aware commands,
+readable native pickers, and separate offline icon catalogs to VS Code. It ships
+no theme of its own and never requires you to install both providers.
 
-You need only your chosen provider. Both may be installed; the active exact theme
-ID selects the adapter. Other versions are untested and gated, including vscode-icons
-12.18.0. Windows x64 desktop VS Code **1.142.0** has installed-extension smoke coverage
-for activation, routing and read-only commands. This is separate from provider
-rendering acceptance. See [compatibility and current limits](documentation/compatibility.md).
+## Current preview
 
-## Install the development preview
+> **Version 0.1.0 is a development preview. Saving, resetting, and replacing folder
+> customizations are disabled for both providers while compatibility verification
+> is incomplete.** You can inspect existing associations and open their native
+> Settings entries. This version does not claim complete icon rendering or refresh support.
 
-1. Install your preferred provider from Extensions. Its gear menu's **Install
-   Another Version…** lets you select an exact catalog target.
+What you can explore today:
+
+- **Follow your active theme.** The selected File Icon Theme chooses the provider;
+  installing another provider does not silently switch it.
+- **Understand existing rules.** Inspect match text, native icon IDs, storage,
+  inheritance, conflicts, and advanced rules, even if the original folder is gone.
+- **Keep native settings intact.** Unknown icons and advanced descriptors remain
+  visible. Unsupported mutations stay read-only with an Open Settings action.
+- **Use bundled catalogs.** Provider-specific metadata includes 267 Material choices
+  and 199 vscode-icons choices, with no runtime catalog downloads.
+
+No telemetry, accounts, backend, automatic provider installation, or workspace crawl.
+
+## Get started
+
+1. Install **one** provider: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+   or [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons).
+   See the exact catalog targets below; use **Install Another Version…** when needed.
 2. Run **Preferences: File Icon Theme** and choose that provider yourself.
-3. Build the VSIX using the development instructions below, then run **Extensions:
-   Install from VSIX…**. Reload if VS Code asks.
-4. Open the Command Palette and run a FolderPalette command, or right-click one
-   local Explorer folder for Change/Reset.
+3. In Extensions, open the **…** menu, choose **Install from VSIX…**, and select
+   `folder-palette-0.1.0.vsix`. Reload if prompted. Build the file with the
+   [development commands](#development) if you do not already have it.
+4. Open the Command Palette and run **FolderPalette: Manage Folder Associations…**
+   to inspect the active provider's stored customizations.
 
-FolderPalette never installs or explicitly activates a provider, changes your
-theme automatically, or requires both providers as dependencies. Unsupported/no
-theme or an unavailable provider opens prerequisite help with explicit theme-picker
-and provider details actions. Cancel changes nothing. Activation status alone
-is not treated as proof of enablement.
+FolderPalette never changes your theme automatically. An unsupported theme or
+unavailable provider opens prerequisite help with explicit theme-picker and
+extension-details actions. Cancel leaves settings unchanged.
 
-Evaluate in disposable directories rather than a daily profile:
+For an isolated evaluation:
 
 ```powershell
-code --user-data-dir ./evaluation/user-data --extensions-dir ./evaluation/extensions --install-extension ./artifacts/folder-palette-0.1.0-dev.2-local-test.vsix
+code --user-data-dir ./evaluation/user-data --extensions-dir ./evaluation/extensions --install-extension ./artifacts/folder-palette-0.1.0.vsix
 code --new-window --user-data-dir ./evaluation/user-data --extensions-dir ./evaluation/extensions ./evaluation/workspace
 ```
 
-Install/select the provider inside that same isolated instance. These example
-evaluation directories are local-only and should not be committed.
+Install and select the provider inside that same instance. Evaluation directories
+stay local and are excluded from source control.
 
-## Commands and matching
+## Commands
 
-| Command | Purpose in this preview |
-|---|---|
-| **FolderPalette: Change Folder Icon…** | Explain the active provider's closed write prerequisites |
-| **FolderPalette: Reset Folder Icon…** | Select a local folder and inspect applicable stored rules |
-| **FolderPalette: Manage Folder Associations…** | Inspect active-provider customizations, including missing original folders |
+| Command | What it does in this preview |
+| --- | --- |
+| **FolderPalette: Change Folder Icon…** | Explains the active provider's customization prerequisites. |
+| **FolderPalette: Reset Folder Icon…** | Selects one local folder and inspects its applicable stored rules. |
+| **FolderPalette: Manage Folder Associations…** | Lists the active provider's customizations and opens their native Settings entries. |
 
-Only one explicit folder is targeted; multiple selection asks you to choose one.
-There is no bulk edit or workspace crawl. Matching differs from storage:
+Change and Reset also appear when you right-click a local Explorer folder.
+Multiple selected folders require choosing one target; there is no bulk edit.
+Native pickers support search, Escape to cancel, and Back where available.
+A theme or provider-version change clears stale selections rather than translating icon IDs.
 
-- `src` matches repeated folder names; `backend/src` describes an immediate
-  parent/name pair wherever it occurs, not an arbitrary full path. No globs.
-- User/Workspace storage does not make matching unique to a path.
-- Material-generated aliases belong only to Material. Named roots use its separate
-  root-association map and the root basename, not a multi-root display alias.
-- vscode-icons named-root editing is excluded. A single-root edit will never be
-  simulated by changing the all-roots default.
+## Compatibility
 
-When safe write policies are available, review shows the exact match, aliases,
-icon, scope, native rule identity and fallback before Apply. Escape cancels and
-Back revisits a step. Theme/version changes discard pending selections instead
-of translating icon IDs. Pre-Apply cancellation makes no writes. Catalog search
-uses provider-specific text labels, native IDs and keywords, without simulated
-Codicon previews, runtime downloads or fabricated affected-folder counts.
+| Provider | Catalog target | Extension ID | Active theme ID |
+| --- | --- | --- | --- |
+| Material Icon Theme | **5.39.0** | `PKief.material-icon-theme` | `material-icon-theme` |
+| vscode-icons | **13.0.0** | `vscode-icons-team.vscode-icons` | `vscode-icons` |
 
-## Reset and preservation
+Installed-extension checks cover **Windows x64 desktop VS Code 1.142.0**, each
+provider alone, and both installed with either theme active. These checks cover
+activation, routing, read-only inspection, cancellation, and theme-switch handling;
+they do not establish full customization or Explorer rendering support.
 
-Reset is designed to remove one stored customization, never restore an entire
-provider manifest. Removing Material's `src` from
-`{"src":"images","docs":"book"}` leaves `{"docs":"book"}` in the selected
-regular/root map and layer. Removing vscode-icons' `src` from
-`[{"icon":"src","extensions":["src","source"],"format":"svg"}]` retains
-`source` and its descriptor. Duplicate array members retain exact reviewed identities.
+Other provider versions, including vscode-icons 12.18.0, remain untested and gated.
+macOS, Linux, remote hosts, WSL, SSH, containers, web, and older VS Code versions
+are unverified. Virtual workspaces are unsupported. Future customization also
+requires a trusted local desktop workspace and a verified provider policy.
 
-Unrelated keys, native fields, spelling/order, unknown icons and the inactive
-provider's settings are preserved. Unsafe advanced modifiers such as `extends`,
-`overrides`, disabling and unknown properties stay visible and read-only with a
-Settings action. Broader rules, duplicate matches, inherited settings or defaults
-can still supply an icon after reset; `{}`/`[]` does not promise blocked inheritance.
-There is no gray/default replacement, migration between providers or rename repair.
-These mutation paths remain disabled in this preview.
+Read [compatibility and current limits](documentation/compatibility.md) for the
+provider-specific scope, refresh, and isolation details.
 
-## Refresh, limits and troubleshooting
+## How folder matching works
 
-Material relies on its configuration listener. vscode-icons uses its listener or
-its documented `vscode-icons.regenerateIcons` path only when a verified policy
-requires it. Saved settings, requested apply and completed rendering are distinct;
-a resolved command is not visual proof. Pending/failed apply preserves the saved
-state: return to the saved provider, inspect its output/prompts, and use its
-supported Apply Icons Customization action if appropriate. FolderPalette does not
-change provider prompts or detection preferences to simplify refresh.
+**Matching and storage answer different questions.** `src` matches repeated folder
+names. `backend/src` identifies an immediate parent/name pair wherever it occurs;
+it is not an arbitrary full path. User or Workspace storage does not make a rule
+unique to one directory. Globs and wildcards are not supported.
 
-Check the active File Icon Theme, exact provider version, extension availability,
-workspace trust and suppression presets. Material's `folders.theme: none`, or
-vscode-icons' `hideFolders`/`foldersAllDefaultIcon`, can suppress custom icons.
-Read the **FolderPalette** Output channel for provider/version/capability reasons;
-full settings and unnecessary personal paths are omitted. Check the provider's
-own output for regeneration errors. Restart a workflow after a theme change.
+Material generates its own name variants and has a separate named-root association
+map. Root matching uses the folder basename, not its workspace display alias.
+vscode-icons named-root editing is excluded; FolderPalette never substitutes a
+change to every root's default icon for a single-root edit.
 
-Material 5.39.0 showed User-over-Workspace rendering despite VS Code's effective
-Workspace value and shared generated-theme interference between windows. User
-scope alone does not establish isolation. vscode-icons apply, collision rendering
-and isolation remain unverified. Both production policies permit **zero writes**.
-No full screen-reader/high-contrast, expanded/collapsed, restart persistence or
-multi-window rendering acceptance is claimed. macOS, Linux, remote/WSL/SSH/container
-hosts, web and older versions are unverified; virtual workspaces are unsupported.
-Customization additionally requires a trusted local desktop workspace.
+The mutation workflows are designed around reviewing one exact stored rule:
 
-There is no telemetry, account, backend or runtime network dependency.
+| Native format | Example of a selected-rule removal |
+| --- | --- |
+| Material object | Removing `src` from `{"src":"images","docs":"book"}` retains `docs`. |
+| vscode-icons array | Removing `src` from a descriptor matching `["src","source"]` retains `source` and the descriptor's other fields. |
+
+These writes remain disabled in 0.1.0. When compatibility permits them, review must
+explain the native identity, icon, scope, aliases, conflicts, and remaining fallback
+before Apply. Inherited rules, broader matches, duplicates, or provider defaults
+may still supply an icon after removal; empty `{}` or `[]` does not block inheritance.
+Unrelated settings, the inactive provider, and unsafe advanced modifiers are preserved.
+
+## Troubleshooting
+
+- **No customization actions?** Writes are intentionally disabled in this preview.
+  Check the **FolderPalette** Output channel for provider and capability details.
+- **Wrong or missing provider?** Check **Preferences: File Icon Theme**, the installed
+  version, and whether the provider is available in this window. An installed or
+  active extension alone does not select its adapter.
+- **Icons suppressed?** Material's `folders.theme: none`, or vscode-icons'
+  `hideFolders` / `foldersAllDefaultIcon` presets, can suppress custom icons.
+  FolderPalette explains these settings without changing them for you.
+- **Icons differ across windows?** Material 5.39.0 has observed shared generated-theme
+  interference and User-over-Workspace rendering. User storage alone does not prove
+  isolation. vscode-icons rendering and isolation remain unverified.
+
+Saving a setting, requesting provider refresh, and completing rendering are separate
+outcomes. Material uses its configuration listener; vscode-icons has its documented
+regeneration path. Pending or failed refresh must preserve saved settings and stay
+visible; provider prompts, output, and supported apply actions remain provider-owned.
+Full apply/failure, persistence, accessibility, and multi-window acceptance are pending.
 
 ## Development
 
-Use Node **22.14.0+** and the committed lockfile. Unit checks need no installed provider.
+Use **Node.js 22.14.0 or later** and the committed lockfile. Unit checks need no
+installed theme provider.
 
 ```powershell
 npm ci --ignore-scripts
 npm run check
 npm run package
-npm run package:inspect -- artifacts/folder-palette-0.1.0-dev.2-local-test.vsix
+npm run package:inspect -- artifacts/folder-palette-0.1.0.vsix
 ```
 
-`check` runs strict types, ESLint, units, offline catalog comparison and build.
-`package` builds a VSIX with pinned `@vscode/vsce` and inspects the actual ZIP
-against an exact allowlist, catalog versions/checksums, runtime and attribution.
-Source maps, dependencies, source inputs, local diagnostics and secret filenames
-are excluded. The inspection JSON records bytes, SHA-256 and all members.
-The only external runtime module is VS Code's `vscode` API.
+The VSIX is written to `artifacts/folder-palette-0.1.0.vsix`. Packaging checks the
+actual archive against a strict file allowlist, catalog versions and checksums,
+runtime code, and license notices. Dependencies, source maps, and local diagnostics
+are excluded. The extension's only external runtime module is VS Code's `vscode` API.
 
-Per-provider commands include `catalog:material:generate`, `catalog:material:check`,
-`catalog:vscode-icons:generate` and `catalog:vscode-icons:check`. Combined
-`catalog:generate`/`catalog:check` use pinned local inputs offline. `catalog:fetch`
-is an explicit maintenance-only network operation. See
-[catalog maintenance](documentation/catalog-maintenance.md) and [notices](catalog/NOTICE.md).
+| Task | Command |
+| --- | --- |
+| Generate or check both catalogs offline | `npm run catalog:generate` / `npm run catalog:check` |
+| Check Material catalog | `npm run catalog:material:check` |
+| Check vscode-icons catalog | `npm run catalog:vscode-icons:check` |
+| Test the installed VSIX | `npm run test:integration` |
 
-For installed-VSIX tests, set `FOLDER_PALETTE_CODE_EXECUTABLE` to an existing Code.exe.
-Optionally supply exact provider directories through `FOLDER_PALETTE_MATERIAL_DIRECTORY`
-(5.39.0) and `FOLDER_PALETTE_VSCODE_ICONS_DIRECTORY` (13.0.0), then run
-`npm run test:integration`. The runner copies providers and installs the inspected
-artifact into fresh temporary user-data/extensions/workspace directories; each case
-is bounded to 90 seconds. It downloads nothing automatically. Missing providers
-are recorded as not-run; executed failures fail the command. Native smoke coverage
-does not certify full customization, rendering or accessibility.
+For installed-extension tests, set `FOLDER_PALETTE_CODE_EXECUTABLE` to an existing
+Code.exe. Optional exact provider directories use `FOLDER_PALETTE_MATERIAL_DIRECTORY`
+and `FOLDER_PALETTE_VSCODE_ICONS_DIRECTORY`. Tests use fresh temporary profiles,
+copy provider installations, and have a 90-second limit per case. The runner never
+downloads a host or provider automatically. Missing providers are recorded as not run.
 
-CI installs locked dependencies, checks, packages, prepares a pinned test host,
-runs no-provider smoke and uploads development artifacts. It has no publishing step.
+[Catalog maintenance](documentation/catalog-maintenance.md) explains pinned sources,
+per-provider generation, and the explicit maintenance-only network fetch. CI checks,
+packages, tests the installed artifact, and uploads build outputs without publishing.
 
-## License and feedback
+## Feedback
 
-MIT — Copyright (c) **2026 Nael Awadallah**. Upstream catalog MIT notices and
-immutable source provenance are retained; no provider artwork is redistributed.
-See [LICENSE](LICENSE) and [third-party notices](NOTICES.md).
+[Open an issue](https://github.com/nael-awadallah/folder-palette/issues) with your
+VS Code and provider versions, active theme, expected behavior, and steps to reproduce.
+Please omit private settings and personal paths.
 
-Report reproducible issues at [GitHub Issues](https://github.com/nael-awadallah/folder-palette/issues).
-Include VS Code/provider versions, active theme, expected behavior and sanitized
-steps; avoid posting private settings or personal paths.
+## License
+
+[MIT](https://github.com/nael-awadallah/folder-palette/blob/main/LICENSE) · Copyright
+(c) **2026 Nael Awadallah**.
+
+Provider catalog metadata retains its upstream licenses and immutable provenance.
+No provider artwork is redistributed. See [third-party notices](NOTICES.md).

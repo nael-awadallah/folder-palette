@@ -18,7 +18,7 @@ if (process.argv[2] === '--worker') {
 } else {
   if (!process.env.FOLDER_PALETTE_CODE_EXECUTABLE) throw new Error('Set FOLDER_PALETTE_CODE_EXECUTABLE to an existing desktop Code executable. No VS Code download is automatic.');
   const manifest = JSON.parse(await readFile(join(root, 'package.json'), 'utf8'));
-  const artifact = resolve(process.argv[2] ?? join(root, `artifacts/folder-palette-${manifest.version}-local-test.vsix`));
+  const artifact = resolve(process.argv[2] ?? join(root, `artifacts/folder-palette-${manifest.version}.vsix`));
   const inspected = await inspectVSIX(artifact);
   const runRoot = await mkdtemp(join(tmpdir(), 'folder-palette-m6-'));
   const code = resolve(process.env.FOLDER_PALETTE_CODE_EXECUTABLE);

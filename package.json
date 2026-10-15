@@ -2,7 +2,7 @@
   "name": "folder-palette",
   "displayName": "FolderPalette — Folder Icon Customizer",
   "description": "Capability-aware folder icon customization for Material Icon Theme and vscode-icons; compatibility gates apply.",
-  "version": "0.1.0-dev.2",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "license": "MIT",
